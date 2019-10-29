@@ -69,6 +69,7 @@ todo list
 3. add more details to prints, such as "a % increase/decrease!"
 4. add logic around negative/positive, so it says increase or decrease of
 5. If it's negative, put the $ after the negative sign. ie: -$7 instead of $-7
+6. something else i'll think of I guess
 
 long term:
 find solution for getting all IDs back. maybe read from the csv
