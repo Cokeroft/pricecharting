@@ -1,0 +1,10 @@
+Using base prefix '/Library/Frameworks/Python.framework/Versions/3.6'
+New python executable in /Users/Cokeroft/marketplace-guest-scripts/venv/bin/python3
+Not overwriting existing python script /Users/Cokeroft/marketplace-guest-scripts/venv/bin/python (you must use /Users/Cokeroft/marketplace-guest-scripts/venv/bin/python3)
+Installing setuptools, pip, wheel...done.
+Running virtualenv with interpreter /Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+Requirement already satisfied: requests in ./venv/lib/python3.6/site-packages (from -r requirements.txt (line 1)) (2.22.0)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in ./venv/lib/python3.6/site-packages (from requests->-r requirements.txt (line 1)) (3.0.4)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in ./venv/lib/python3.6/site-packages (from requests->-r requirements.txt (line 1)) (1.25.6)
+Requirement already satisfied: certifi>=2017.4.17 in ./venv/lib/python3.6/site-packages (from requests->-r requirements.txt (line 1)) (2019.9.11)
+Requirement already satisfied: idna<2.9,>=2.5 in ./venv/lib/python3.6/site-packages (from requests->-r requirements.txt (line 1)) (2.8)
