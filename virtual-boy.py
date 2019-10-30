@@ -78,6 +78,12 @@ def get_change(current, previous):
 main()
 
 ''' TODO LIST
-
+1. Investigate the case where a game is removed from the CSV when comparing. Anyway to do a diff? Maybe some if logic
+    around this case, where if the game IDs don't match up just skip? Probably easiest
+2. Add logic around the compare, if that date doesn't exist it needs to fail gently
+3. Add some async goodness to the API call. One at a time is not great for bigger consoles
+4. Create a utility/helpers file, and throw get_change and stuff in there
+5. Maybe investigate a way to avoid having to create a .py file for each console. Or maybe that is a good thing?
+    Do we really need the ability to do all of em at once? Might be best to be able to target
 
 '''

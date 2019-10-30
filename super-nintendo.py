@@ -92,15 +92,14 @@ def read_data():
 
 '''
 todo list
-1. break into multiple functions
-2. read files from selection, maybe ask which file they want to compare to and do that
-3. add more details to prints, such as "a % increase/decrease!"
-4. add logic around negative/positive, so it says increase or decrease of
+1. break into multiple functions -- DONE
+2. read files from selection, maybe ask which file they want to compare to and do that -- DONE
+3. add more details to prints, such as "a % increase/decrease!" -- DONE
+4. add logic around negative/positive, so it says increase or decrease of -- DONE
 5. If it's negative, put the $ after the negative sign. ie: -$7 instead of $-7
-6. something else i'll think of I guess
 
 long term:
-find solution for getting all IDs back. maybe read from the csv
+find solution for getting all IDs back. maybe read from the csv -- DONE see get_data.py
 https://www.pricecharting.com/price-guide/download-custom?t=fca399e16c6c124270a7f737ce533a54ca9141ea is the URL
 find a way to parse that so you can only search the super nintendo IDs, etc. maybe write those a file before you use it?'''
 
