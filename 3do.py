@@ -26,11 +26,14 @@ def get_3do_all():
         # Call the product API using the game_id
         response = requests.get(f'https://www.pricecharting.com/api/product?t={token}&id={game_id}')
         loose_price = response.json()["loose-price"] * .01
+        complete_price = response.json()["cib-price"] * .01
+        new_price = response.json()["new-price"] * .01
         product_name = response.json()["product-name"]
         id = response.json()["id"]
         prices_file.write(id + " / " + product_name + " / " + str(loose_price) + " / " + '\n')
         # When rounding from the prices file, always round. It doesn't want to round in there for me
-        print("The item '" + product_name + "' is currently running $" + str(round(loose_price, 2)))
+        print("The item '" + product_name + "' is currently running $" + str(round(loose_price, 2)) + " loose, $"
+              + str(round(complete_price, 2)) + " complete, and $" + str(round(new_price, 2)) + " brand new")
 
     print("Priced " + str(game_id_counter) + " total items!")
     new_data_file.close()
