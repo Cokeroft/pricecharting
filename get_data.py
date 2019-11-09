@@ -8,7 +8,7 @@ def get_data(console):
     url = 'https://www.pricecharting.com/price-guide/download-custom?t=fca399e16c6c124270a7f737ce533a54ca9141ea'
 
     with requests.Session() as s:
-        download = s.get(url)
+        download = s.get(url, timeout=25)
 
         decoded_content = download.content.decode('utf-8')
 
