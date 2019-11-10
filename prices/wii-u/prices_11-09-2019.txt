@@ -15,14 +15,14 @@
 33312 / Batman: Arkham City Armored Edition / 7.74 / 10.32 / 14.63 / 
 34460 / Batman: Arkham Origins / 7.84 / 9.61 / 13.870000000000001 / 
 35450 / Bayonetta 2 / 12.96 / 19.0 / 33.910000000000004 / 
-36933 / Bayonetta 2 (Single Disc) / 12.75 / 12.8 / 18.95 / 
+36933 / Bayonetta 2 (Single Disc) / 12.83 / 13.0 / 18.38 / 
 33634 / Ben 10: Omniverse / 8.49 / 9.66 / 14.38 / 
 34506 / Ben 10: Omniverse 2 / 10.51 / 12.94 / 15.99 / 
 37481 / Brunswick Pro Bowling / 6.29 / 7.23 / 7.98 / 
 34758 / Cabela's Big Game Hunter: Pro Hunts / 23.990000000000002 / 25.0 / 58.99 / 
 33570 / Cabela's Dangerous Hunts 2013 / 7.95 / 9.120000000000001 / 13.14 / 
 33398 / Call of Duty Black Ops II / 11.99 / 15.0 / 25.14 / 
-34509 / Call of Duty Ghosts / 10.25 / 11.58 / 18.25 / 
+34509 / Call of Duty Ghosts / 10.25 / 11.370000000000001 / 18.28 / 
 35398 / Captain Toad: Treasure Tracker / 12.48 / 10.0 / 19.63 / 
 37771 / Captain Toad: Treasure Tracker [amiibo Bundle] / 14.72 / 16.0 / 24.63 / 
 37757 / Cars 3 Driven to Win / 9.85 / 11.290000000000001 / 16.36 / 
@@ -35,7 +35,7 @@
 35078 / Disney Infinity: Marvel Super Heroes Starter Pak 2.0 / 21.900000000000002 / 23.990000000000002 / 29.88 / 
 35271 / Disney Infinity: Toy Box Starter Pack 2.0 / 20.0 / 12.0 / 11.77 / 
 34145 / Disney's Planes / 11.26 / 6.68 / 19.14 / 
-34695 / Donkey Kong Country: Tropical Freeze / 9.790000000000001 / 11.18 / 15.75 / 
+34695 / Donkey Kong Country: Tropical Freeze / 9.77 / 12.0 / 16.080000000000002 / 
 36490 / Donkey Kong Country: Tropical Freeze [Nintendo Selects] / 9.950000000000001 / 10.790000000000001 / 16.92 / 
 34527 / DuckTales Remastered / 27.54 / 34.56 / 53.13 / 
 33323 / ESPN Sports Connection / 9.78 / 9.0 / 26.89 / 
@@ -149,7 +149,7 @@
 35452 / Sniper Elite V2 / 9.99 / 10.86 / 11.99 / 
 36229 / Snoopy's Grand Adventure / 7.67 / 7.82 / 10.97 / 
 33349 / Sonic & All-Stars Racing Transformed / 7.95 / 8.790000000000001 / 16.36 / 
-35313 / Sonic Boom: Rise of Lyric / 11.19 / 12.69 / 36.19 / 
+35313 / Sonic Boom: Rise of Lyric / 10.3 / 12.41 / 34.02 / 
 34495 / Sonic Lost World / 9.91 / 11.09 / 19.97 / 
 35765 / Splatoon / 9.59 / 11.49 / 18.37 / 
 34187 / Splinter Cell: Blacklist / 8.39 / 7.0 / 17.93 / 
@@ -178,7 +178,7 @@
 34948 / Transformers: Rise of the Dark Spark / 9.99 / 11.97 / 24.16 / 
 37080 / Tumblestone / 11.870000000000001 / 12.26 / 17.71 / 
 34110 / Turbo: Super Stunt Squad / 26.35 / 45.0 / 155.9 / 
-33934 / Walking Dead: Survival Instinct / 9.6 / 13.08 / 23.34 / 
+33934 / Walking Dead: Survival Instinct / 8.57 / 13.040000000000001 / 23.54 / 
 33419 / Warriors Orochi 3 Hyper / 11.75 / 9.0 / 17.27 / 
 34913 / Watch Dogs / 9.99 / 11.5 / 17.68 / 
 33633 / Wheel of Fortune / 15.040000000000001 / 18.86 / 34.59 / 

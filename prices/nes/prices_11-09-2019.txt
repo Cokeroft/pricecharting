@@ -14,7 +14,7 @@
 8455 / Addams Family / 10.68 / 33.2 / 103.67 / 
 8456 / Addams Family Pugsley's Scavenger Hunt / 51.660000000000004 / 159.74 / 263.01 / 
 8458 / Advanced Dungeons & Dragons Dragon Strike / 33.94 / 103.4 / 279.06 / 
-8459 / Advanced Dungeons & Dragons Heroes of the Lance / 11.74 / 31.09 / 143.01 / 
+8459 / Advanced Dungeons & Dragons Heroes of the Lance / 11.16 / 31.7 / 142.99 / 
 8460 / Advanced Dungeons & Dragons Hillsfar / 89.99 / 153.12 / 289.99 / 
 8462 / Advanced Dungeons & Dragons Pool of Radiance / 29.62 / 59.06 / 219.5 / 
 8464 / Adventure Island / 6.95 / 36.46 / 204.99 / 
@@ -64,10 +64,10 @@
 11981 / Balloon Fight / 15.51 / 91.22 / 839.8000000000001 / 
 37983 / Balloon Fight [5 Screw] / 15.77 / 230.27 / 249.95000000000002 / 
 12195 / Bandai Golf Challenge Pebble Beach / 3.7600000000000002 / 8.5 / 29.12 / 
-13109 / Bandit Kings of Ancient China / 79.99 / 161.3 / 345.89 / 
+13109 / Bandit Kings of Ancient China / 79.18 / 161.3 / 345.85 / 
 8554 / Barbie / 6.97 / 15.47 / 59.86 / 
 8559 / Bard's Tale / 15.39 / 34.95 / 106.25 / 
-8560 / Barker Bill's Trick Shooting / 6.75 / 17.990000000000002 / 39.99 / 
+8560 / Barker Bill's Trick Shooting / 7.24 / 16.94 / 39.99 / 
 11982 / Baseball / 4.93 / 24.990000000000002 / 1326.0 / 
 13843 / Baseball Simulator 1.000 / 6.86 / 17.1 / 87.34 / 
 12198 / Baseball Stars / 9.06 / 25.71 / 123.94 / 
@@ -93,7 +93,7 @@
 12205 / Bible Buffet / 60.0 / 76.88 / 150.93 / 
 12106 / Big Nose Freaks Out / 85.92 / 112.43 / 171.73 / 
 39520 / Big Nose Freaks Out [Aladdin] / 0.99 / 10.97 / 31.0 / 
-16129 / Big Nose the Caveman / 11.22 / 26.28 / 54.99 / 
+16129 / Big Nose the Caveman / 11.22 / 25.59 / 54.99 / 
 12206 / Bigfoot / 7.08 / 20.900000000000002 / 65.0 / 
 8607 / Bill Elliott's NASCAR Challenge / 4.1 / 14.22 / 32.39 / 
 8606 / Bill and Ted's Excellent Video Game / 9.18 / 31.75 / 103.4 / 
@@ -128,7 +128,7 @@
 8683 / Caesar's Palace / 5.5200000000000005 / 13.5 / 32.49 / 
 12118 / California Games / 6.21 / 20.51 / 98.64 / 
 8687 / California Raisins The Great Escape [Reproduction] / 48.0 / 90.0 / 340.82 / 
-14928 / Caltron 6-in-1 / 289.19 / 307.87 / 458.34000000000003 / 
+14928 / Caltron 6-in-1 / 276.97 / 307.92 / 453.3 / 
 8695 / Captain America and the Avengers / 19.95 / 70.26 / 144.38 / 
 8696 / Captain Planet and the Planeteers / 13.0 / 40.0 / 84.26 / 
 12120 / Captain Skyhawk / 3.11 / 12.98 / 59.99 / 
@@ -138,7 +138,7 @@
 12122 / Castle of Deceit / 79.62 / 203.49 / 145.69 / 
 12123 / Castle of Dragon / 9.94 / 24.46 / 116.24000000000001 / 
 12124 / Castlequest / 5.5600000000000005 / 20.48 / 96.12 / 
-8704 / Castlevania / 19.07 / 87.53 / 450.0 / 
+8704 / Castlevania / 19.990000000000002 / 84.5 / 450.0 / 
 11984 / Castlevania II Simon's Quest / 11.35 / 54.5 / 500.12 / 
 8706 / Castlevania III Dracula's Curse / 26.84 / 89.44 / 612.5 / 
 38007 / Castlevania [5 Screw] / 20.25 / 225.62 / 257.38 / 
@@ -164,7 +164,7 @@
 8747 / Code Name Viper / 5.88 / 26.35 / 71.51 / 
 8753 / Color A Dinosaur / 73.32000000000001 / 318.07 / 590.9 / 
 12135 / Commando / 5.25 / 24.990000000000002 / 159.93 / 
-37997 / Commando [5 Screw] / 5.51 / 44.61 / 67.2 / 
+37997 / Commando [5 Screw] / 5.5 / 44.56 / 67.2 / 
 12136 / Conan the Mysteries of Time / 38.0 / 80.9 / 320.11 / 
 12137 / Conflict / 10.48 / 40.62 / 84.71000000000001 / 
 12138 / Conquest of the Crystal Palace / 18.63 / 69.99 / 209.37 / 
@@ -188,7 +188,7 @@
 8818 / Days Of Thunder / 5.21 / 12.66 / 53.0 / 
 12147 / Deadly Towers / 4.3100000000000005 / 22.990000000000002 / 64.8 / 
 38022 / Deadly Towers [5 Screw] / 15.610000000000001 / 50.0 / 160.0 / 
-12148 / Death Race / 38.14 / 78.51 / 186.57 / 
+12148 / Death Race / 38.75 / 78.51 / 186.48 / 
 12149 / Deathbots / 16.16 / 39.99 / 75.0 / 
 12150 / Defender II / 4.69 / 18.7 / 42.24 / 
 12151 / Defender of the Crown / 4.99 / 20.0 / 54.21 / 
@@ -198,7 +198,7 @@
 12154 / Desert Commander / 4.87 / 17.990000000000002 / 55.0 / 
 12155 / Destination Earthstar / 3.34 / 11.99 / 36.75 / 
 12156 / Destiny of an Emperor / 23.7 / 67.05 / 246.52 / 
-12157 / Dick Tracy / 5.48 / 29.0 / 104.84 / 
+12157 / Dick Tracy / 3.36 / 26.98 / 102.4 / 
 8841 / Die Hard / 90.0 / 205.0 / 301.77 / 
 12159 / Dig Dug II: Trouble in Paradise / 7.47 / 23.25 / 131.14000000000001 / 
 12160 / Digger T Rock / 13.01 / 33.29 / 108.07000000000001 / 
@@ -235,7 +235,7 @@
 12218 / Duck Hunt / 6.47 / 57.75 / 401.78000000000003 / 
 37976 / Duck Hunt [5 Screw] / 5.89 / 51.0 / 67.98 / 
 12219 / Duck Tales / 13.52 / 53.51 / 456.63 / 
-8878 / Duck Tales 2 / 150.98 / 394.74 / 1431.5 / 
+8878 / Duck Tales 2 / 150.0 / 393.37 / 1431.5 / 
 34156 / Duck Tales Gold Cartridge / 1400.0 / 1337.5 / 1415.15 / 
 12220 / Dudes with Attitude / 8.0 / 22.490000000000002 / 50.0 / 
 12221 / Dungeon Magic / 8.790000000000001 / 22.59 / 99.99000000000001 / 
@@ -250,7 +250,7 @@
 8928 / F-117A Stealth Fighter / 11.78 / 24.53 / 154.23 / 
 19760 / F-15 City War / 7.47 / 16.43 / 44.99 / 
 8929 / F-15 Strike Eagle / 8.41 / 20.0 / 298.93 / 
-8935 / Family Feud / 9.15 / 14.75 / 34.27 / 
+8935 / Family Feud / 8.53 / 14.75 / 34.27 / 
 45059 / Family Fun Fitness Pad / 0.0 / 0.0 / 0.0 / 
 12224 / Family Fun Fitness Stadium Events / 6799.83 / 25000.0 / 28553.440000000002 / 
 12225 / Fantastic Adventures of Dizzy / 9.49 / 29.95 / 95.05 / 
@@ -284,7 +284,7 @@
 11991 / Galaga: Demons of Death / 9.09 / 21.98 / 95.53 / 
 12242 / Galaxy 5000 / 21.76 / 43.0 / 173.12 / 
 52012 / Galf / 18.0 / 46.87 / 64.99 / 
-52013 / Galf [White] / 67.3 / 150.0 / 169.99 / 
+52013 / Galf [White] / 68.94 / 150.0 / 169.99 / 
 13192 / Game Genie / 14.89 / 30.150000000000002 / 103.56 / 
 37040 / Game Genie Top Loader Adaptor / 253.57 / 397.37 / 1271.59 / 
 9012 / Gargoyle's Quest II The Demon Darkness / 60.31 / 162.0 / 429.25 / 
@@ -296,7 +296,7 @@
 9025 / George Foreman's KO Boxing / 7.45 / 18.19 / 52.800000000000004 / 
 9029 / Ghost Lion / 49.2 / 112.02 / 189.31 / 
 12245 / Ghostbusters / 7.92 / 35.0 / 88.42 / 
-9032 / Ghostbusters II / 9.59 / 27.54 / 150.0 / 
+9032 / Ghostbusters II / 12.11 / 28.900000000000002 / 150.0 / 
 11992 / Ghosts 'n Goblins / 9.47 / 59.97 / 471.86 / 
 37998 / Ghosts 'n Goblins [5 Screw] / 13.07 / 115.13 / 143.5 / 
 9033 / Ghoul School / 23.990000000000002 / 51.68 / 229.95000000000002 / 
@@ -382,7 +382,7 @@
 12282 / Journey to Silius / 22.990000000000002 / 55.0 / 193.98000000000002 / 
 12283 / Joust / 7.0200000000000005 / 24.97 / 57.96 / 
 9190 / Jurassic Park / 10.99 / 34.95 / 138.14000000000001 / 
-12284 / Kabuki Quantum Fighter / 15.81 / 42.95 / 83.03 / 
+12284 / Kabuki Quantum Fighter / 15.48 / 42.92 / 82.79 / 
 12285 / Karate Champ / 4.39 / 19.89 / 226.61 / 
 39518 / Karate Champ [5 Screw] / 6.82 / 35.0 / 58.43 / 
 12286 / Karnov / 7.71 / 30.11 / 499.99 / 
@@ -410,7 +410,7 @@
 12299 / Kung Fu / 5.5 / 32.82 / 286.17 / 
 12300 / Kung Fu Heroes / 6.49 / 21.27 / 64.93 / 
 37973 / Kung Fu [5 Screw] / 7.28 / 39.56 / 71.96000000000001 / 
-9242 / L'Empereur / 75.91 / 112.42 / 304.0 / 
+9242 / L'Empereur / 74.11 / 112.42 / 304.0 / 
 9222 / Laser Invasion / 12.16 / 29.990000000000002 / 79.93 / 
 19472 / Laserscope / 29.990000000000002 / 77.78 / 99.75 / 
 9224 / Last Action Hero / 52.0 / 97.4 / 178.87 / 
@@ -419,7 +419,7 @@
 12303 / Legacy of the Wizard / 4.78 / 19.79 / 70.32000000000001 / 
 11997 / Legend of Kage / 7.49 / 25.13 / 190.0 / 
 38018 / Legend of Kage [5 Screw] / 7.2 / 28.12 / 89.98 / 
-9236 / Legend of Zelda / 13.0 / 62.43 / 199.0 / 
+9236 / Legend of Zelda / 13.99 / 64.53 / 199.39000000000001 / 
 38020 / Legend of Zelda [5 Screw] / 28.59 / 114.59 / 302.24 / 
 38512 / Legend of Zelda [Gray Cart] / 17.95 / 45.0 / 143.97 / 
 12304 / Legendary Wings / 8.22 / 35.59 / 136.57 / 
@@ -436,7 +436,7 @@
 9250 / Little Samson / 1024.65 / 2897.5 / 8471.72 / 
 11998 / Lode Runner / 8.1 / 40.2 / 1150.0 / 
 38024 / Lode Runner [5 Screw] / 11.13 / 30.76 / 98.66 / 
-9253 / Lone Ranger / 34.0 / 94.89 / 146.38 / 
+9253 / Lone Ranger / 32.64 / 94.86 / 145.93 / 
 12310 / Loopz / 7.26 / 15.8 / 27.59 / 
 12311 / Low G Man / 8.27 / 21.38 / 68.41 / 
 9260 / Lunar Pool / 3.6 / 13.23 / 99.99000000000001 / 
@@ -452,7 +452,7 @@
 12227 / Magic Johnson's Fast Break / 3.66 / 12.65 / 27.67 / 
 12314 / Magician / 20.740000000000002 / 53.5 / 181.36 / 
 12315 / Magmax / 4.51 / 15.13 / 55.300000000000004 / 
-12316 / Major League Baseball / 1.6600000000000001 / 11.46 / 42.47 / 
+12316 / Major League Baseball / 1.71 / 11.450000000000001 / 42.47 / 
 12317 / Maniac Mansion / 11.370000000000001 / 46.0 / 179.0 / 
 13766 / Mappy-Land / 11.0 / 38.0 / 149.99 / 
 12319 / Marble Madness / 6.8100000000000005 / 18.72 / 95.62 / 
@@ -468,7 +468,7 @@
 12323 / Mega Man 2 / 18.55 / 79.47 / 599.51 / 
 53798 / Mega Man 2 [30th Anniversary Edition] / 17.990000000000002 / 64.21000000000001 / 86.63 / 
 9315 / Mega Man 3 / 14.93 / 76.0 / 439.95 / 
-12324 / Mega Man 4 / 26.52 / 94.21000000000001 / 307.94 / 
+12324 / Mega Man 4 / 22.740000000000002 / 80.69 / 307.94 / 
 9316 / Mega Man 5 / 74.60000000000001 / 187.47 / 697.96 / 
 9317 / Mega Man 6 / 28.25 / 123.09 / 508.75 / 
 34155 / Mega Man 9 Press Kit / 275.63 / 284.11 / 339.89 / 
@@ -496,13 +496,13 @@
 12002 / Mighty Bomb Jack / 6.48 / 46.83 / 146.91 / 
 38011 / Mighty Bomb Jack [5 Screw] / 11.23 / 13.5 / 43.2 / 
 9351 / Mighty Final Fight / 170.18 / 476.95 / 641.27 / 
-12001 / Mike Tyson's Punch-Out / 18.95 / 128.07 / 1074.33 / 
+12001 / Mike Tyson's Punch-Out / 16.89 / 121.16 / 1072.84 / 
 39517 / Mike Tyson's Punch-Out [5 Screw] / 550.0 / 1815.5 / 5809.6 / 
 12336 / Millipede / 5.79 / 16.38 / 57.47 / 
 12003 / Milon's Secret Castle / 5.0600000000000005 / 19.57 / 89.95 / 
 12337 / Miracle Piano / 11.9 / 203.06 / 345.39 / 
 50113 / Miracle Piano Keyboard / 37.47 / 129.56 / 414.59000000000003 / 
-19303 / Mission Cobra / 40.0 / 57.47 / 138.67000000000002 / 
+19303 / Mission Cobra / 40.0 / 57.24 / 138.67000000000002 / 
 9358 / Mission Impossible / 5.2 / 15.88 / 42.99 / 
 9366 / Monopoly / 5.0 / 12.09 / 37.36 / 
 12338 / Monster Party / 14.950000000000001 / 50.75 / 149.99 / 
@@ -529,7 +529,7 @@
 9487 / Nightshade / 22.080000000000002 / 46.95 / 124.46000000000001 / 
 12344 / Ninja Crusaders / 23.55 / 80.28 / 149.99 / 
 9488 / Ninja Gaiden / 10.5 / 49.870000000000005 / 43.45 / 
-12004 / Ninja Gaiden II The Dark Sword of Chaos / 8.31 / 42.5 / 177.51 / 
+12004 / Ninja Gaiden II The Dark Sword of Chaos / 9.18 / 39.32 / 177.51 / 
 9490 / Ninja Gaiden III Ancient Ship of Doom / 49.97 / 177.51 / 500.76 / 
 12345 / Ninja Kid / 8.25 / 101.01 / 111.97 / 
 37995 / Ninja Kid [5 Screw] / 10.24 / 26.59 / 85.09 / 
@@ -550,7 +550,7 @@
 16173 / Nintendo World Championship Gold / 18944.25 / 0.0 / 0.0 / 
 38640 / Nintendo World Championship [25th Anniversary] / 332.05 / 368.59000000000003 / 1179.49 / 
 34873 / Nintendo World Championship [Reproduction] / 74.3 / 72.84 / 84.84 / 
-9492 / Nintendo World Cup / 4.14 / 17.45 / 55.85 / 
+9492 / Nintendo World Cup / 3.86 / 17.45 / 55.85 / 
 9495 / Nobunaga's Ambition / 10.0 / 24.5 / 66.66 / 
 13108 / Nobunaga's Ambition 2 / 84.99 / 186.27 / 379.95 / 
 12346 / North and South / 32.65 / 89.99 / 103.74000000000001 / 
@@ -673,7 +673,7 @@
 12411 / Shadowgate / 7.79 / 27.150000000000002 / 124.5 / 
 40395 / Sharp Nintendo NES TV / 950.0 / 2564.02 / 7888.16 / 
 9729 / Shatterhand / 51.49 / 111.71000000000001 / 219.99 / 
-12412 / Shingen the Ruler / 8.1 / 21.94 / 72.51 / 
+12412 / Shingen the Ruler / 7.32 / 21.93 / 72.53 / 
 12413 / Shinobi / 12.99 / 25.36 / 137.14000000000001 / 
 12414 / Shockwave / 18.5 / 34.74 / 52.31 / 
 12415 / Shooting Range / 8.94 / 17.25 / 35.14 / 
@@ -731,19 +731,19 @@
 60614 / Star Wars [Premium Edition] / 0.0 / 0.0 / 0.0 / 
 12441 / Starship Hector / 11.14 / 30.43 / 71.97 / 
 18720 / Stealth / 4.75 / 17.12 / 49.99 / 
-12443 / Stinger / 9.05 / 68.73 / 151.11 / 
+12443 / Stinger / 10.0 / 68.73 / 151.11 / 
 12444 / Street Cop / 17.59 / 49.88 / 74.99 / 
 12445 / Street Fighter 2010 the Final Fight / 9.73 / 36.63 / 166.64000000000001 / 
 12446 / Strider / 8.82 / 30.0 / 107.0 / 
 12447 / Stunt Kids / 31.490000000000002 / 63.67 / 139.95000000000002 / 
 19476 / Sunday Funday / 145.37 / 189.13 / 179.37 / 
-9883 / Super C / 12.26 / 42.38 / 299.0 / 
+9883 / Super C / 12.0 / 38.910000000000004 / 295.82 / 
 12448 / Super Cars / 20.57 / 39.99 / 150.0 / 
-12449 / Super Dodge Ball / 12.96 / 47.86 / 100.0 / 
+12449 / Super Dodge Ball / 11.76 / 44.37 / 100.0 / 
 12450 / Super Glove Ball / 5.38 / 20.900000000000002 / 34.99 / 
 9889 / Super Mario Bros / 8.64 / 76.52 / 694.08 / 
 12010 / Super Mario Bros 2 / 10.27 / 29.990000000000002 / 629.72 / 
-9891 / Super Mario Bros 3 / 9.28 / 35.53 / 286.77 / 
+9891 / Super Mario Bros 3 / 7.930000000000001 / 37.82 / 282.90000000000003 / 
 12452 / Super Mario Bros Duck Hunt World Class Track Meet / 4.41 / 18.59 / 25.92 / 
 37981 / Super Mario Bros [5 Screw] / 10.72 / 180.0 / 306.0 / 
 12451 / Super Mario Bros and Duck Hunt / 4.03 / 16.6 / 14.950000000000001 / 
@@ -776,7 +776,7 @@
 9941 / Teenage Mutant Ninja Turtles / 4.5 / 29.51 / 291.71 / 
 12468 / Teenage Mutant Ninja Turtles II / 10.03 / 46.68 / 280.5 / 
 9942 / Teenage Mutant Ninja Turtles III The Manhattan Project / 22.62 / 93.0 / 341.48 / 
-9944 / Teenage Mutant Ninja Turtles Tournament Fighters / 112.19 / 442.49 / 1299.99 / 
+9944 / Teenage Mutant Ninja Turtles Tournament Fighters / 116.4 / 442.49 / 1299.99 / 
 12011 / Tennis / 7.3100000000000005 / 27.5 / 88.42 / 
 37982 / Tennis [5 Screw] / 9.01 / 30.0 / 83.58 / 
 9951 / Terminator / 14.05 / 44.99 / 143.87 / 
@@ -858,7 +858,7 @@
 10105 / Videomation / 9.14 / 24.990000000000002 / 49.93 / 
 12511 / Vindicators / 7.0 / 17.42 / 43.0 / 
 12013 / Volleyball / 10.61 / 75.79 / 447.13 / 
-38003 / Volleyball [5 Screw] / 9.44 / 79.97 / 149.8 / 
+38003 / Volleyball [5 Screw] / 9.46 / 79.97 / 149.8 / 
 12512 / WCW World Championship Wrestling / 6.24 / 28.07 / 255.6 / 
 10214 / WWF King of the Ring / 14.85 / 39.96 / 76.0 / 
 10221 / WWF Wrestlemania / 5.96 / 19.09 / 102.84 / 
@@ -883,9 +883,9 @@
 12522 / Wild Gunman / 19.07 / 109.99000000000001 / 158.89000000000001 / 
 37974 / Wild Gunman [5 Screw] / 15.99 / 103.99000000000001 / 151.14000000000001 / 
 12523 / Willow / 10.0 / 30.580000000000002 / 126.74000000000001 / 
-12524 / Win Lose or Draw / 2.73 / 11.47 / 29.990000000000002 / 
+12524 / Win Lose or Draw / 2.99 / 11.88 / 29.990000000000002 / 
 12525 / Winter Games / 3.81 / 15.24 / 31.04 / 
-38034 / Winter Games [5 Screw] / 7.26 / 16.580000000000002 / 53.06 / 
+38034 / Winter Games [5 Screw] / 7.2700000000000005 / 16.580000000000002 / 53.06 / 
 10166 / Wizardry: Knight of Diamonds Second Scenario / 21.25 / 49.980000000000004 / 154.96 / 
 19592 / Wizardry: Proving Grounds of the Mad Overlord / 9.9 / 28.98 / 170.11 / 
 12528 / Wizards and Warriors / 8.23 / 23.07 / 189.9 / 

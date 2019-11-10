@@ -2,24 +2,18 @@ import requests
 import datetime
 
 from get_data import get_data
-from compare import compare
 
 
 token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
 
 
-def main():
-    get_any()
+def main(console):
+    get_prices_specific(console)
 
 
-def get_any():
+def get_prices_specific(console):
     date = datetime.datetime.today()
-    console = input("Which console do you want to search for? ")
     console_dash = console.replace(" ", "-").lower()
-    compare_answer = input("Do you want to also compare the prices? ").lower()
-    if compare_answer == "yes":
-        compare_days = input("And how many days ago do you want to compare against? ")
-        compare_days = int(compare_days)
     # Create Prices File to store the prices later
     prices_file = open('prices/' + console_dash + '/prices_' + str(date.strftime('%m-%d-%Y')) + '.txt', 'w')
 
@@ -50,33 +44,6 @@ def get_any():
         print("The item '" + product_name + "' is currently running $" + str(round(loose_price, 2)) + " loose, $"
               + str(round(complete_price, 2)) + " complete, and $" + str(round(new_price, 2)) + " brand new")
 
-        # Testing Offset Price Check
-        if compare_answer == "yes":
-            price_list, game_id_list = compare(compare_days)
-            if game_id_list[counter].strip(" ") != game_id:
-                print("Oops, looks like the game ID doesn't match!")
-                # IT WORKS
-                # TODO - Does this work? How should I handle this? Maybe a try/catch?
-            difference = float(loose_price) - float(price_list[counter])
-            old_price = float(price_list[counter])
-            # Get the percent change
-            percent_change = get_change(loose_price, old_price)
-            # Logic paths for how the item has changed
-
-            if difference > 0:
-                print("and the old price was $" + str(round(old_price, 2)) + " a total difference of $"
-                      + str(round(difference, 2)) + " and a % increase of " + str(round(percent_change, 2)) + "%!")
-                print()
-            elif difference == 0:
-                print("and the old price was $" + str(round(old_price, 2)) +
-                      " with no difference changes in total or percentage")
-                print()
-            elif difference < 0:
-                print("and the old price was $" + str(round(old_price, 2)) + " a total difference of $"
-                      + str(round(difference, 2)) + " and a % decrease of " + str(round(percent_change, 2)) + "%!")
-                print()
-        else:
-            print()
         counter += 1
 
     print("Priced " + str(game_id_counter) + " total items!")
@@ -91,5 +58,3 @@ def get_change(current, previous):
     except ZeroDivisionError:
         return 0
 
-
-main()

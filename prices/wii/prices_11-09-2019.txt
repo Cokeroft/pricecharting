@@ -413,7 +413,7 @@
 20120 / Final Fantasy Crystal Chronicles: Crystal Bearers / 6.44 / 7.17 / 15.610000000000001 / 
 16477 / Final Fantasy Crystal Chronicles: Echoes of Time / 8.44 / 12.25 / 24.84 / 
 14065 / Final Fantasy Fables Chocobo's Dungeon / 12.23 / 13.0 / 35.94 / 
-10353 / Fire Emblem Radiant Dawn / 53.75 / 58.26 / 67.5 / 
+10353 / Fire Emblem Radiant Dawn / 53.870000000000005 / 58.26 / 65.79 / 
 7332 / Fishing Master / 4.49 / 6.0 / 16.76 / 
 18540 / Fishing Master World Tour / 7.16 / 5.89 / 21.830000000000002 / 
 32358 / Fishing Resort / 29.55 / 35.95 / 73.94 / 
@@ -590,7 +590,7 @@
 36152 / Just Dance 2016 / 11.540000000000001 / 9.99 / 14.99 / 
 37045 / Just Dance 2017 / 10.06 / 12.18 / 15.8 / 
 40324 / Just Dance 2018 / 13.99 / 14.99 / 21.13 / 
-53876 / Just Dance 2019 / 16.34 / 19.650000000000002 / 22.13 / 
+53876 / Just Dance 2019 / 16.38 / 19.73 / 22.0 / 
 65504 / Just Dance 2020 / 11.28 / 16.92 / 33.84 / 
 31807 / Just Dance 3 / 3.6 / 4.78 / 7.76 / 
 33162 / Just Dance 4 / 4.5200000000000005 / 4.7 / 9.99 / 
@@ -630,7 +630,7 @@
 15860 / King of Fighters Collection The Orochi Saga / 15.17 / 19.5 / 25.09 / 
 33056 / Kirby's Dream Collection: Special Edition / 24.93 / 32.660000000000004 / 70.93 / 
 30334 / Kirby's Epic Yarn / 6.32 / 8.78 / 17.22 / 
-31877 / Kirby's Return to Dream Land / 19.97 / 22.76 / 36.11 / 
+31877 / Kirby's Return to Dream Land / 19.97 / 20.22 / 36.15 / 
 18739 / Klonoa / 21.73 / 32.34 / 62.61 / 
 7369 / Kororinpa Marble Mania / 13.88 / 15.51 / 40.71 / 
 13866 / Kung Fu Panda / 3.86 / 3.98 / 12.14 / 
@@ -853,7 +853,7 @@
 16396 / New Play Control: Pikmin / 15.76 / 19.25 / 31.51 / 
 20014 / New Super Mario Bros. Wii / 11.24 / 12.790000000000001 / 23.61 / 
 30818 / NewU Fitness First Mind Body Yoga & Pilates Workout / 18.23 / 13.55 / 50.13 / 
-19867 / Ni Hao, Kai-lan: Super Game Day / 5.5 / 4.79 / 10.0 / 
+19867 / Ni Hao, Kai-lan: Super Game Day / 5.5 / 4.94 / 10.0 / 
 32127 / Nickelodeon Dance / 5.59 / 5.32 / 16.76 / 
 34120 / Nickelodeon Dance 2 / 8.1 / 6.41 / 17.150000000000002 / 
 32828 / Nickelodeon Fit / 4.5 / 5.59 / 11.1 / 
@@ -1096,7 +1096,7 @@
 34411 / Skylanders Swap Force: Starter Pack / 4.49 / 6.91 / 19.990000000000002 / 
 35133 / Skylanders Trap Team Dark Edition: Starter Pack / 4.97 / 5.23 / 44.99 / 
 35127 / Skylanders Trap Team: Starter Pack / 13.89 / 8.27 / 15.91 / 
-54283 / Skyward Sword Wii Remote / 39.89 / 51.99 / 115.47 / 
+54283 / Skyward Sword Wii Remote / 39.94 / 51.99 / 115.47 / 
 20780 / Sled Shred / 4.24 / 3.97 / 7.45 / 
 20354 / Sleepover Party / 3.95 / 3.88 / 10.71 / 
 32401 / Smiley World: Island Challenge / 10.17 / 15.5 / 47.99 / 
@@ -1288,7 +1288,7 @@
 19465 / Ultimate Duck Hunting 2009 / 5.47 / 5.12 / 14.24 / 
 15856 / Ultimate I Spy / 3.5700000000000003 / 4.49 / 8.950000000000001 / 
 19936 / Ultimate Party Challenge / 4.89 / 4.72 / 16.080000000000002 / 
-16227 / Ultimate Shooting Collection / 18.990000000000002 / 22.27 / 43.5 / 
+16227 / Ultimate Shooting Collection / 18.98 / 22.01 / 43.5 / 
 19228 / Up / 4.26 / 4.74 / 6.8100000000000005 / 
 31147 / Vacation Isle: Beach Party / 3.34 / 3.37 / 8.91 / 
 18615 / Vacation Sports / 5.3500000000000005 / 4.21 / 16.87 / 

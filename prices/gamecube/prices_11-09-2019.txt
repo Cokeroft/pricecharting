@@ -14,7 +14,7 @@
 3151 / Action Replay Ultimate Codes / 19.95 / 20.0 / 56.84 / 
 3154 / Aggressive Inline / 4.3500000000000005 / 7.1000000000000005 / 13.99 / 
 3155 / Alien Hominid / 14.17 / 25.59 / 44.67 / 
-3156 / All-Star Baseball 2002 / 3.41 / 3.5300000000000002 / 10.97 / 
+3156 / All-Star Baseball 2002 / 3.41 / 3.0 / 10.96 / 
 3157 / All-Star Baseball 2003 / 3.39 / 2.41 / 13.33 / 
 3158 / All-Star Baseball 2004 / 3.52 / 6.2700000000000005 / 20.48 / 
 3159 / Amazing Island / 7.3500000000000005 / 10.69 / 37.99 / 
@@ -144,9 +144,9 @@
 3303 / F-Zero GX / 23.68 / 39.99 / 80.0 / 
 3276 / F1 2002 / 7.18 / 10.26 / 26.25 / 
 3285 / FIFA 06 / 3.86 / 5.01 / 18.2 / 
-3286 / FIFA 07 / 6.48 / 8.31 / 19.990000000000002 / 
+3286 / FIFA 07 / 6.48 / 7.95 / 19.990000000000002 / 
 3280 / FIFA 2002 / 2.62 / 4.37 / 10.450000000000001 / 
-3281 / FIFA 2002 World Cup / 3.42 / 4.98 / 13.82 / 
+3281 / FIFA 2002 World Cup / 3.42 / 6.08 / 13.82 / 
 3282 / FIFA 2003 / 3.48 / 2.98 / 13.01 / 
 3283 / FIFA 2004 / 3.94 / 3.8200000000000003 / 27.82 / 
 3284 / FIFA 2005 / 3.58 / 5.76 / 14.88 / 
@@ -164,7 +164,7 @@
 11813 / Flushed Away / 3.0700000000000003 / 4.92 / 16.89 / 
 11151 / Freaky Flyers / 8.88 / 16.85 / 35.53 / 
 3295 / Freedom Fighters / 7.07 / 10.93 / 25.740000000000002 / 
-3296 / Freekstyle / 7.32 / 9.94 / 32.5 / 
+3296 / Freekstyle / 7.2700000000000005 / 9.48 / 32.5 / 
 3297 / Freestyle Metal X / 4.53 / 6.7700000000000005 / 16.8 / 
 3298 / Freestyle Street Soccer / 3.34 / 8.0 / 23.25 / 
 11284 / Frogger Ancient Shadow / 5.18 / 9.200000000000001 / 18.52 / 
@@ -192,7 +192,7 @@
 11146 / Happy Feet / 2.2600000000000002 / 3.8200000000000003 / 14.19 / 
 3320 / Harry Potter Chamber of Secrets / 5.08 / 7.96 / 26.900000000000002 / 
 3322 / Harry Potter Prisoner of Azkaban / 4.88 / 8.99 / 32.22 / 
-3323 / Harry Potter Quidditch World Cup / 5.51 / 5.5200000000000005 / 25.400000000000002 / 
+3323 / Harry Potter Quidditch World Cup / 5.53 / 5.05 / 25.39 / 
 3324 / Harry Potter Sorcerers Stone / 25.91 / 34.550000000000004 / 64.51 / 
 3321 / Harry Potter and the Goblet of Fire / 5.44 / 5.5200000000000005 / 18.61 / 
 3325 / Harvest Moon A Wonderful Life / 10.25 / 17.92 / 54.24 / 
@@ -230,7 +230,7 @@
 3351 / Knockout Kings 2003 / 4.3500000000000005 / 4.68 / 12.0 / 
 3354 / LEGO Star Wars / 5.18 / 7.03 / 24.75 / 
 3355 / LEGO Star Wars II Original Trilogy / 4.2700000000000005 / 5.54 / 26.03 / 
-11113 / Legend of Spyro A New Beginning / 12.77 / 16.57 / 38.76 / 
+11113 / Legend of Spyro A New Beginning / 12.73 / 16.47 / 38.5 / 
 3352 / Legends of Wrestling / 3.98 / 6.75 / 16.830000000000002 / 
 3353 / Legends of Wrestling II / 5.7700000000000005 / 6.94 / 18.86 / 
 3356 / Lemony Snicket's A Series of Unfortunate Events / 4.9 / 4.0 / 17.41 / 
@@ -284,12 +284,12 @@
 3395 / Mega Man X Command Mission / 14.88 / 25.330000000000002 / 59.99 / 
 46425 / Mega Man X Controller / 59.21 / 174.79 / 489.40000000000003 / 
 11580 / Men In Black II Alien Escape / 6.88 / 10.49 / 27.53 / 
-3396 / Metal Arms Glitch in the System / 10.0 / 18.97 / 39.99 / 
+3396 / Metal Arms Glitch in the System / 10.0 / 18.98 / 39.99 / 
 3397 / Metal Gear Solid Twin Snakes / 49.18 / 51.39 / 138.45000000000002 / 
 3398 / Metroid Prime / 11.67 / 14.46 / 63.27 / 
 21962 / Metroid Prime & Zelda Wind Waker Combo / 241.33 / 272.64 / 1500.0 / 
 3399 / Metroid Prime 2 Echoes / 13.92 / 20.0 / 65.44 / 
-50110 / Metroid Prime [Echoes Bonus Disc] / 13.23 / 18.96 / 52.93 / 
+50110 / Metroid Prime [Echoes Bonus Disc] / 13.23 / 18.990000000000002 / 52.93 / 
 3401 / Midway Arcade Treasures / 6.72 / 10.07 / 29.95 / 
 3402 / Midway Arcade Treasures 2 / 8.35 / 10.85 / 25.29 / 
 3403 / Midway Arcade Treasures 3 / 10.96 / 16.61 / 35.72 / 
@@ -301,7 +301,7 @@
 3410 / Monster Jam Maximum Destruction / 7.640000000000001 / 10.25 / 44.99 / 
 3411 / Monsters Inc / 4.98 / 5.51 / 18.06 / 
 3412 / Mortal Kombat Deadly Alliance / 7.95 / 12.32 / 36.910000000000004 / 
-3413 / Mortal Kombat Deception / 23.31 / 25.490000000000002 / 59.230000000000004 / 
+3413 / Mortal Kombat Deception / 23.31 / 25.490000000000002 / 59.22 / 
 3414 / Muppets Party Cruise / 7.21 / 9.370000000000001 / 21.27 / 
 3418 / Mystic Heroes / 7.66 / 12.200000000000001 / 22.95 / 
 3422 / NASCAR Chase for the Cup 2005 / 4.79 / 6.23 / 22.75 / 
@@ -312,9 +312,9 @@
 3427 / NBA Courtside 2002 / 5.0600000000000005 / 5.16 / 17.66 / 
 3428 / NBA Live 2003 / 4.09 / 4.8100000000000005 / 16.32 / 
 3429 / NBA Live 2004 / 3.84 / 5.0 / 12.0 / 
-3430 / NBA Live 2005 / 3.49 / 3.47 / 10.77 / 
+3430 / NBA Live 2005 / 3.16 / 3.44 / 10.77 / 
 3431 / NBA Live 2006 / 5.62 / 4.3 / 19.990000000000002 / 
-3432 / NBA Street / 8.09 / 8.99 / 30.57 / 
+3432 / NBA Street / 8.09 / 9.48 / 30.57 / 
 3433 / NBA Street Vol 2 / 10.05 / 14.36 / 37.7 / 
 3434 / NBA Street Vol 3 / 8.01 / 10.74 / 42.71 / 
 3436 / NCAA College Basketball 2K3 / 109.99000000000001 / 146.67000000000002 / 342.25 / 
@@ -328,7 +328,7 @@
 3446 / NFL Blitz Pro / 8.6 / 11.26 / 22.13 / 
 3493 / NFL QB Club 2002 / 4.15 / 5.91 / 8.88 / 
 3448 / NFL Street / 10.23 / 10.44 / 29.91 / 
-3447 / NFL Street 2 / 12.8 / 18.990000000000002 / 40.0 / 
+3447 / NFL Street 2 / 13.92 / 20.0 / 40.0 / 
 3452 / NHL 06 / 4.91 / 5.51 / 14.88 / 
 3449 / NHL 2003 / 3.74 / 3.95 / 10.92 / 
 3450 / NHL 2004 / 3.19 / 4.2700000000000005 / 11.98 / 
@@ -362,9 +362,9 @@
 3464 / Over the Hedge / 5.47 / 6.23 / 19.59 / 
 3465 / P.N. 03 / 12.99 / 26.990000000000002 / 63.79 / 
 3251 / PK Out of the Shadows / 6.21 / 9.950000000000001 / 18.75 / 
-14143 / Pac-Man Bundle / 7.04 / 8.21 / 30.45 / 
+14143 / Pac-Man Bundle / 7.04 / 8.49 / 30.51 / 
 3466 / Pac-Man Fever / 4.84 / 7.49 / 15.26 / 
-32447 / Pac-Man Vs. / 6.0600000000000005 / 8.75 / 28.48 / 
+32447 / Pac-Man Vs. / 6.0600000000000005 / 8.35 / 28.48 / 
 3467 / Pac-Man World 2 / 7.19 / 9.14 / 25.23 / 
 3469 / Pac-Man World 3 / 12.32 / 19.55 / 35.33 / 
 11526 / Pac-Man World Rally / 9.81 / 15.0 / 37.49 / 
@@ -383,17 +383,17 @@
 3480 / Platinum Nintendo Brand Controller / 21.91 / 28.48 / 89.95 / 
 3481 / Platinum Wavebird Wireless Controller / 35.57 / 47.83 / 154.25 / 
 15929 / Pokemon Box / 265.29 / 382.40000000000003 / 1043.5 / 
-3482 / Pokemon Channel / 11.26 / 15.01 / 51.69 / 
+3482 / Pokemon Channel / 11.24 / 15.25 / 51.68 / 
 3483 / Pokemon Colosseum / 31.990000000000002 / 41.01 / 122.23 / 
 19302 / Pokemon Colosseum [Bonus Disc] / 44.6 / 55.29 / 112.31 / 
 58285 / Pokemon Colosseum [Not for Resale] / 41.04 / 48.27 / 184.99 / 
 42359 / Pokemon Colosseum [Pre Order] / 89.99 / 272.5 / 359.96 / 
-19304 / Pokemon XD Limited Edition Gamecube Bundle / 46.19 / 69.99 / 392.47 / 
+19304 / Pokemon XD Limited Edition Gamecube Bundle / 46.160000000000004 / 69.99 / 392.47 / 
 3484 / Pokemon XD: Gale of Darkness / 39.74 / 48.07 / 157.71 / 
 3485 / Pool Paradise / 6.25 / 7.94 / 17.830000000000002 / 
 3486 / Power Rangers Dino Thunder / 4.0 / 5.08 / 27.25 / 
 11440 / Powerpuff Girls Relish Rampage Pickled Edition / 9.200000000000001 / 11.74 / 23.400000000000002 / 
-3487 / Prince of Persia Sands of Time / 7.1000000000000005 / 7.99 / 29.12 / 
+3487 / Prince of Persia Sands of Time / 7.1000000000000005 / 9.23 / 29.12 / 
 3488 / Prince of Persia Two Thrones / 5.91 / 8.58 / 24.990000000000002 / 
 3489 / Prince of Persia Warrior Within / 5.76 / 7.19 / 19.01 / 
 3490 / Pro Rally / 7.33 / 12.0 / 26.09 / 
@@ -494,10 +494,10 @@
 3571 / Star Wars Jedi Outcast / 14.98 / 16.42 / 51.43 / 
 3572 / Star Wars Rebel Strike / 8.66 / 9.38 / 36.71 / 
 14192 / Star Wars Rebel Strike Preview Disc / 5.55 / 10.0 / 19.42 / 
-3573 / Star Wars Rogue Leader / 8.02 / 13.0 / 51.83 / 
+3573 / Star Wars Rogue Leader / 7.42 / 10.120000000000001 / 51.74 / 
 3576 / Starsky and Hutch / 3.34 / 5.54 / 10.96 / 
 3577 / Street Hoops / 5.0 / 6.99 / 16.79 / 
-3578 / Street Racing Syndicate / 5.9 / 7.66 / 18.330000000000002 / 
+3578 / Street Racing Syndicate / 5.95 / 7.67 / 18.330000000000002 / 
 3579 / Strike Force Bowling / 4.2 / 6.28 / 14.05 / 
 3580 / Sum of All Fears / 4.87 / 7.57 / 22.31 / 
 3581 / Summoner: A Goddess Reborn / 11.98 / 18.0 / 32.97 / 
@@ -545,7 +545,7 @@
 3613 / Tiger Woods 2004 / 4.21 / 6.0600000000000005 / 16.06 / 
 3614 / Tiger Woods 2005 / 4.7700000000000005 / 4.92 / 14.99 / 
 3615 / Tiger Woods 2006 / 4.04 / 6.09 / 18.43 / 
-3616 / Time Splitters 2 / 13.950000000000001 / 15.89 / 54.25 / 
+3616 / Time Splitters 2 / 13.76 / 14.59 / 54.2 / 
 3617 / Time Splitters Future Perfect / 39.69 / 40.550000000000004 / 71.0 / 
 3618 / Tom and Jerry War of Whiskers / 11.3 / 15.0 / 40.28 / 
 11688 / Tomb Raider Legend / 8.36 / 10.36 / 26.93 / 
@@ -578,7 +578,7 @@
 3640 / Virtua Striker 2002 / 18.830000000000002 / 32.5 / 40.0 / 
 3652 / WTA Tour Tennis / 4.47 / 8.99 / 16.02 / 
 3653 / WWE Crush Hour / 8.92 / 13.63 / 42.79 / 
-3654 / WWE Day of Reckoning / 8.52 / 11.120000000000001 / 36.84 / 
+3654 / WWE Day of Reckoning / 8.52 / 10.5 / 36.84 / 
 3655 / WWE Day of Reckoning 2 / 10.0 / 16.5 / 51.13 / 
 3656 / WWE Wrestlemania X8 / 6.0 / 7.6000000000000005 / 21.41 / 
 3657 / WWE Wrestlemania XIX / 8.61 / 9.39 / 28.59 / 

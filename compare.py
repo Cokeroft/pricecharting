@@ -1,5 +1,3 @@
-import requests
-import csv
 import datetime
 
 token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
@@ -7,7 +5,6 @@ token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
 
 def compare(offset):
     date = datetime.datetime.today() - datetime.timedelta(offset)
-    # print(date.strftime('%m-%d-%Y'))
 
     try:
         f = open('prices/virtual-boy/prices_' + str(date.strftime('%m-%d-%Y')) + '.txt', 'r')
@@ -24,7 +21,6 @@ def compare(offset):
             loose_price = splitter[2]
             cib_price = splitter[3]
             new_price = splitter[4]
-            # TODO - Figure out how to return multiple lists and access them
             price_list.append(loose_price)
             game_id_list.append(code)
     return price_list, game_id_list

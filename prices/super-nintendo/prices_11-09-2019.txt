@@ -2,14 +2,14 @@
 6829 / A.S.P. Air Strike Patrol / 20.12 / 44.63 / 115.96000000000001 / 
 7258 / AAAHH Real Monsters / 6.65 / 15.63 / 49.95 / 
 13002 / ABC Monday Night Football / 4.93 / 13.38 / 35.0 / 
-13003 / ACME Animation Factory / 7.45 / 22.62 / 54.99 / 
+13003 / ACME Animation Factory / 7.4 / 22.62 / 54.99 / 
 6830 / ActRaiser / 26.87 / 72.94 / 214.5 / 
 6831 / ActRaiser 2 / 20.0 / 70.34 / 184.95000000000002 / 
 6832 / Addams Family Pugsley's Scavenger Hunt / 11.0 / 28.900000000000002 / 75.14 / 
 6833 / Addams Family Values / 13.14 / 24.98 / 122.45 / 
 7261 / Adventures of Batman and Robin / 64.36 / 285.36 / 557.6 / 
 7262 / Adventures of Dr Franken / 7.97 / 27.990000000000002 / 120.0 / 
-7263 / Adventures of Mighty Max / 6.86 / 39.5 / 105.75 / 
+7263 / Adventures of Mighty Max / 7.62 / 39.5 / 105.35000000000001 / 
 8473 / Adventures of Yogi Bear / 10.42 / 28.05 / 108.98 / 
 12576 / Aero Fighters / 648.5 / 1448.14 / 4249.99 / 
 8475 / Aero the Acro-Bat / 8.97 / 28.2 / 55.910000000000004 / 
@@ -24,7 +24,7 @@
 6841 / American Gladiators / 6.390000000000001 / 18.5 / 35.47 / 
 6842 / An American Tail Fievel Goes West / 58.39 / 162.73 / 535.07 / 
 6843 / Andre Agassi Tennis / 5.99 / 27.97 / 33.22 / 
-6844 / Animaniacs / 6.48 / 39.21 / 65.0 / 
+6844 / Animaniacs / 6.5 / 39.14 / 65.0 / 
 30262 / Arcade's Greatest Hits Atari Collection 1 / 10.89 / 19.900000000000002 / 51.74 / 
 6845 / Arcana / 18.89 / 42.5 / 137.05 / 
 6846 / Ardy Light Foot / 97.5 / 225.0 / 539.99 / 
@@ -38,7 +38,7 @@
 16436 / Bass Masters Classic / 4.69 / 12.66 / 32.55 / 
 13006 / Bass Masters Classic Pro Edition / 6.25 / 14.84 / 25.07 / 
 6865 / Bassin's Black Bass / 10.99 / 25.63 / 85.77 / 
-6853 / Batman Forever / 3.58 / 23.490000000000002 / 68.02 / 
+6853 / Batman Forever / 3.99 / 19.98 / 67.97 / 
 6854 / Batman Returns / 14.200000000000001 / 47.6 / 233.67000000000002 / 
 13007 / Battle Blaze / 7.59 / 19.990000000000002 / 47.300000000000004 / 
 6855 / Battle Cars / 8.27 / 30.98 / 73.88 / 
@@ -88,7 +88,7 @@
 14228 / Capcom's MVP Football / 3.45 / 12.790000000000001 / 42.800000000000004 / 
 6879 / Capcom's Soccer Shootout / 15.81 / 65.03 / 80.51 / 
 7288 / Captain America and the Avengers / 12.0 / 47.31 / 133.02 / 
-6880 / Captain Commando / 91.86 / 278.75 / 515.01 / 
+6880 / Captain Commando / 91.94 / 278.75 / 515.01 / 
 6881 / Captain Novolin / 47.13 / 101.26 / 179.95000000000002 / 
 6882 / Carrier Aces / 8.39 / 24.990000000000002 / 63.85 / 
 6883 / Casper / 92.55 / 271.52 / 629.61 / 
@@ -129,7 +129,7 @@
 7304 / Demolition Man / 9.96 / 42.59 / 46.26 / 
 6896 / Demon's Crest / 81.0 / 250.75 / 673.86 / 
 10579 / Dennis the Menace / 5.55 / 18.38 / 50.0 / 
-13021 / Desert Strike Return to the Gulf / 6.8100000000000005 / 22.18 / 94.19 / 
+13021 / Desert Strike Return to the Gulf / 7.13 / 21.490000000000002 / 94.19 / 
 6898 / Dig and Spike Volleyball / 5.3500000000000005 / 14.46 / 38.660000000000004 / 
 6899 / Dino City / 12.0 / 27.59 / 70.55 / 
 13022 / Dirt Trax FX / 9.92 / 20.02 / 57.120000000000005 / 
@@ -165,7 +165,7 @@
 6913 / Eek The Cat / 16.96 / 46.06 / 120.51 / 
 6914 / Elite Soccer / 11.0 / 31.580000000000002 / 75.0 / 
 18616 / Emmitt Smith Football / 2.9 / 9.99 / 22.51 / 
-6915 / Equinox / 17.990000000000002 / 54.68 / 141.77 / 
+6915 / Equinox / 17.990000000000002 / 55.34 / 141.97 / 
 14836 / Exertainment Mountain Bike Rally / 17.990000000000002 / 59.95 / 62.86 / 
 15930 / Exertainment Mountain Bikerally Speed Racer / 1349.82 / 2683.0 / 4800.0 / 
 6917 / Extra Innings / 6.18 / 15.83 / 18.43 / 
@@ -190,7 +190,7 @@
 6928 / Final Fight / 9.5 / 36.22 / 138.75 / 
 7330 / Final Fight 2 / 45.9 / 115.01 / 495.0 / 
 6929 / Final Fight 3 / 110.96000000000001 / 295.0 / 596.22 / 
-6930 / Final Fight Guy / 165.0 / 1026.27 / 1135.99 / 
+6930 / Final Fight Guy / 165.0 / 1026.27 / 1128.99 / 
 6931 / Fire Striker / 83.31 / 240.0 / 395.99 / 
 7331 / Firepower 2000 / 19.95 / 47.4 / 129.99 / 
 13026 / First Samurai / 19.2 / 70.74 / 127.99000000000001 / 
@@ -205,7 +205,7 @@
 6935 / Fun 'n Games / 35.0 / 527.34 / 463.22 / 
 6942 / GP-1 / 7.33 / 27.69 / 53.31 / 
 6943 / GP-1 Part II / 10.14 / 27.36 / 38.14 / 
-9009 / Game Genie / 17.5 / 26.0 / 53.89 / 
+9009 / Game Genie / 18.97 / 30.060000000000002 / 53.89 / 
 6937 / Gemfire / 21.8 / 50.0 / 210.0 / 
 6938 / Genghis Khan II Clan of the Gray Wolf / 19.51 / 37.17 / 224.6 / 
 16086 / George Foreman's KO Boxing / 4.0200000000000005 / 13.32 / 24.22 / 
@@ -222,7 +222,7 @@
 11862 / Harley's Humongous Adventure / 8.13 / 30.86 / 51.75 / 
 6947 / Harvest Moon / 177.19 / 471.8 / 1497.04 / 
 13027 / Head-On Soccer / 7.25 / 34.97 / 46.4 / 
-13839 / Hey Punk Are You Tuff E Nuff / 11.15 / 31.29 / 75.74 / 
+13839 / Hey Punk Are You Tuff E Nuff / 11.200000000000001 / 31.29 / 75.75 / 
 13028 / Hit the Ice / 10.92 / 28.240000000000002 / 72.60000000000001 / 
 6948 / Home Alone / 8.96 / 26.11 / 63.42 / 
 6949 / Home Alone 2 Lost In New York / 5.7700000000000005 / 20.17 / 84.88 / 
@@ -238,7 +238,7 @@
 7186 / Incredible Crash Dummies / 7.140000000000001 / 23.38 / 33.67 / 
 6954 / Indiana Jones' Greatest Adventures / 15.200000000000001 / 42.99 / 243.56 / 
 7350 / Inindo / 16.55 / 43.0 / 112.77 / 
-6956 / Inspector Gadget / 16.77 / 89.0 / 107.53 / 
+6956 / Inspector Gadget / 16.57 / 89.0 / 107.63 / 
 33054 / International Superstar Soccer / 41.92 / 376.27 / 419.46000000000004 / 
 13031 / International Superstar Soccer Deluxe / 50.74 / 199.83 / 440.44 / 
 14204 / International Tennis Tour / 5.08 / 16.95 / 35.0 / 
@@ -249,7 +249,7 @@
 10445 / Jeopardy / 4.61 / 9.120000000000001 / 26.330000000000002 / 
 7353 / Jeopardy Deluxe Edition / 2.14 / 7.74 / 18.25 / 
 7354 / Jeopardy Sports Edition / 2.49 / 10.120000000000001 / 29.990000000000002 / 
-6958 / Jim Power / 5.28 / 47.5 / 89.99 / 
+6958 / Jim Power / 5.29 / 42.95 / 89.99 / 
 18636 / Jimmy Connors Pro Tennis Tour / 7.59 / 13.280000000000001 / 34.99 / 
 21553 / Jimmy Houston's Bass Tournament U.S.A. / 11.85 / 34.99 / 31.990000000000002 / 
 6959 / Joe and Mac / 14.14 / 42.050000000000004 / 24.95 / 
@@ -268,7 +268,7 @@
 37531 / Ken Griffey Jr's Winning Run [Not for Resale] / 20.62 / 0.0 / 0.0 / 
 6966 / Kendo Rage / 33.49 / 90.23 / 176.92000000000002 / 
 6967 / Kid Klown in Crazy Chase / 8.99 / 29.75 / 76.10000000000001 / 
-7365 / Killer Instinct / 9.96 / 38.660000000000004 / 107.9 / 
+7365 / Killer Instinct / 10.09 / 41.32 / 105.09 / 
 37532 / Killer Instinct [Not for Resale] / 0.0 / 0.0 / 0.0 / 
 6968 / King Arthur and the Knights of Justice / 39.56 / 106.81 / 270.58 / 
 12551 / King Arthur's World / 10.05 / 33.68 / 86.67 / 
@@ -285,9 +285,9 @@
 16155 / Kyle Petty's No Fear Racing / 8.46 / 29.71 / 62.57 / 
 6976 / Lagoon / 11.040000000000001 / 30.0 / 127.5 / 
 13036 / Lamborghini American Challenge / 12.99 / 50.89 / 101.81 / 
-6977 / Last Action Hero / 6.87 / 19.0 / 40.32 / 
+6977 / Last Action Hero / 5.91 / 19.0 / 40.32 / 
 7371 / Lawnmower Man / 5.49 / 16.94 / 39.99 / 
-6978 / Legend / 52.79 / 169.68 / 442.98 / 
+6978 / Legend / 52.54 / 169.68 / 442.08 / 
 6979 / Legend of the Mystical Ninja / 31.55 / 95.0 / 399.57 / 
 6980 / Lemmings / 13.68 / 27.98 / 75.75 / 
 6981 / Lemmings 2 The Tribes / 18.13 / 29.98 / 121.16 / 
@@ -296,7 +296,7 @@
 38221 / Lethal Enforcers [Gun Bundle] / 40.87 / 105.74000000000001 / 295.2 / 
 7373 / Lethal Weapon / 6.58 / 19.03 / 37.47 / 
 6982 / Liberty or Death / 25.830000000000002 / 59.35 / 89.81 / 
-12548 / Lock On / 8.41 / 21.09 / 55.46 / 
+12548 / Lock On / 8.41 / 21.21 / 55.46 / 
 6983 / Looney Tunes B-Ball / 22.990000000000002 / 52.24 / 154.75 / 
 6984 / Lord of Darkness / 13.43 / 36.27 / 110.91 / 
 6985 / Lord of the Rings / 10.82 / 34.0 / 82.94 / 
@@ -315,10 +315,10 @@
 13038 / Magic Johnson's Super Slam Dunk / 2.47 / 8.0 / 24.97 / 
 13039 / Magic Sword / 21.66 / 78.28 / 119.99000000000001 / 
 6991 / Magical Quest starring Mickey Mouse / 13.43 / 49.04 / 137.51 / 
-6993 / Mario Paint / 15.44 / 59.21 / 168.59 / 
-38381 / Mario Paint [Mouse Bundle] / 19.04 / 34.92 / 86.25 / 
+6993 / Mario Paint / 11.74 / 58.980000000000004 / 168.56 / 
+38381 / Mario Paint [Mouse Bundle] / 18.59 / 36.86 / 86.25 / 
 42316 / Mario Paint [Player's Choice] / 7.47 / 60.0 / 156.0 / 
-6992 / Mario is Missing / 9.55 / 34.27 / 169.69 / 
+6992 / Mario is Missing / 9.01 / 33.9 / 169.69 / 
 6995 / Mario's Early Years Fun With Numbers / 10.0 / 68.51 / 318.97 / 
 6994 / Mario's Early Years Fun with Letters / 8.97 / 44.83 / 291.15000000000003 / 
 6996 / Mario's Early Years Preschool Fun / 12.030000000000001 / 103.03 / 274.95 / 
@@ -347,7 +347,7 @@
 7010 / Mickey's Ultimate Challenge / 7.0 / 24.37 / 166.08 / 
 7011 / Micro Machines / 20.95 / 57.050000000000004 / 148.32 / 
 7012 / Might and Magic III Isles of Terra / 15.65 / 48.99 / 145.57 / 
-7013 / Mighty Morphin Power Rangers / 12.16 / 43.51 / 200.4 / 
+7013 / Mighty Morphin Power Rangers / 12.16 / 43.45 / 200.20000000000002 / 
 7015 / Mighty Morphin Power Rangers The Movie / 29.990000000000002 / 85.38 / 117.5 / 
 11966 / Mini Super Nintendo System / 60.11 / 178.45000000000002 / 463.97 / 
 16136 / Miracle Piano / 44.83 / 150.01 / 320.0 / 
@@ -378,7 +378,7 @@
 14879 / NFL Football / 3.5300000000000002 / 10.950000000000001 / 21.5 / 
 14995 / NFL Quarterback Club / 3.35 / 8.8 / 20.0 / 
 20085 / NFL Quarterback Club 96 / 2.86 / 5.0 / 15.75 / 
-14418 / NHL 94 / 6.0 / 15.0 / 49.57 / 
+14418 / NHL 94 / 6.0 / 15.5 / 49.54 / 
 14152 / NHL 95 / 3.33 / 11.41 / 29.66 / 
 18722 / NHL 96 / 4.96 / 13.1 / 23.7 / 
 7026 / NHL 97 / 4.7700000000000005 / 13.73 / 33.15 / 
@@ -483,7 +483,7 @@
 13062 / Romance of the Three Kingdoms III Dragon of Destiny / 17.94 / 31.0 / 156.33 / 
 7074 / Romance of the Three Kingdoms IV Wall of Fire / 16.25 / 30.560000000000002 / 78.25 / 
 7076 / Run Saber / 60.25 / 163.14000000000001 / 460.5 / 
-7093 / S.O.S. / 64.33 / 143.95000000000002 / 229.99 / 
+7093 / S.O.S. / 64.21000000000001 / 143.95000000000002 / 229.99 / 
 18519 / S.O.S: Sink or Swim / 66.01 / 129.69 / 169.83 / 
 14568 / SNES AV Cable / 0.0 / 0.0 / 0.0 / 
 7162 / SWAT Kats / 78.88 / 261.0 / 510.0 / 
@@ -492,7 +492,7 @@
 7078 / Scooby Doo Mystery / 4.21 / 17.97 / 48.69 / 
 7079 / Sea Quest DSV / 8.69 / 30.03 / 107.82000000000001 / 
 7080 / Secret of Evermore / 21.82 / 64.99 / 224.77 / 
-7081 / Secret of Mana / 34.5 / 107.5 / 1120.1000000000001 / 
+7081 / Secret of Mana / 33.5 / 103.73 / 1119.9 / 
 7082 / Separation Anxiety / 23.0 / 75.07000000000001 / 219.85 / 
 7083 / Shadowrun / 36.0 / 111.8 / 263.19 / 
 7084 / Shanghai II Dragon's Eye / 4.94 / 12.26 / 24.990000000000002 / 
@@ -517,12 +517,12 @@
 13066 / Space Ace / 5.6000000000000005 / 23.0 / 80.44 / 
 14054 / Space Football / 7.25 / 14.950000000000001 / 37.0 / 
 7095 / Space Invaders / 7.8500000000000005 / 17.490000000000002 / 22.78 / 
-7096 / Space MegaForce / 139.86 / 281.13 / 738.63 / 
+7096 / Space MegaForce / 133.48 / 281.13 / 734.79 / 
 7097 / Spanky's Quest / 17.990000000000002 / 48.65 / 114.21000000000001 / 
 7098 / Sparkster / 82.42 / 295.45 / 590.0 / 
 7099 / Spawn / 11.11 / 59.34 / 122.5 / 
 12966 / Spectre / 8.59 / 21.61 / 37.050000000000004 / 
-7100 / Speed Racer / 13.450000000000001 / 54.44 / 91.56 / 
+7100 / Speed Racer / 14.46 / 54.47 / 91.56 / 
 7101 / Speedy Gonzales Los Gatos Bandidos / 8.19 / 23.0 / 66.56 / 
 7446 / Spiderman / 11.73 / 42.910000000000004 / 149.99 / 
 7102 / Spiderman Maximum Carnage / 25.650000000000002 / 81.5 / 250.0 / 
@@ -552,7 +552,7 @@
 7111 / Strike Gunner STG / 27.490000000000002 / 75.9 / 399.99 / 
 7454 / Stunt Race FX / 7.65 / 24.990000000000002 / 28.150000000000002 / 
 37538 / Stunt Race FX [Not for Resale] / 72.78 / 0.0 / 0.0 / 
-7112 / Sunset Riders / 57.5 / 243.12 / 517.73 / 
+7112 / Sunset Riders / 59.480000000000004 / 243.12 / 517.73 / 
 19251 / Super 3D Noah's Ark / 81.19 / 190.48 / 175.0 / 
 33653 / Super Advantage Controller / 24.95 / 102.05 / 265.33 / 
 7113 / Super Adventure Island / 13.870000000000001 / 44.99 / 205.99 / 
@@ -580,15 +580,15 @@
 7131 / Super Chase HQ / 13.31 / 43.0 / 87.79 / 
 7132 / Super Conflict / 8.75 / 19.990000000000002 / 88.65 / 
 31345 / Super Copa / 165.0 / 313.26 / 2849.67 / 
-7133 / Super Double Dragon / 24.37 / 82.53 / 499.98 / 
+7133 / Super Double Dragon / 24.34 / 81.27 / 499.99 / 
 7460 / Super Gameboy / 16.56 / 39.99 / 158.88 / 
 65337 / Super Gameboy to Game Genie Adapter / 0.0 / 0.0 / 0.0 / 
 7134 / Super Ghouls 'N Ghosts / 15.65 / 58.76 / 233.6 / 
 7135 / Super Goal! 2 / 17.85 / 50.17 / 52.88 / 
-7461 / Super Godzilla / 8.47 / 29.990000000000002 / 55.0 / 
+7461 / Super Godzilla / 8.49 / 29.990000000000002 / 44.5 / 
 7136 / Super High Impact / 2.67 / 9.84 / 23.05 / 
 7137 / Super James Pond / 6.49 / 23.740000000000002 / 61.730000000000004 / 
-7138 / Super Mario All-Stars / 12.86 / 49.47 / 275.0 / 
+7138 / Super Mario All-Stars / 12.5 / 48.1 / 275.0 / 
 42318 / Super Mario All-Stars [Player's Choice] / 14.39 / 36.63 / 98.33 / 
 9888 / Super Mario All-stars and Super Mario World / 19.69 / 55.0 / 151.6 / 
 7139 / Super Mario Kart / 20.77 / 46.96 / 194.1 / 
@@ -621,7 +621,7 @@
 44969 / Super Scope 6 / 7.97 / 63.300000000000004 / 169.0 / 
 19501 / Super Scope 6 [Gun Bundle] / 44.37 / 81.09 / 174.99 / 
 15666 / Super Slap Shot / 4.01 / 11.61 / 27.28 / 
-7463 / Super Smash TV / 21.830000000000002 / 57.21 / 95.73 / 
+7463 / Super Smash TV / 21.04 / 55.22 / 95.73 / 
 7151 / Super Soccer / 6.46 / 19.77 / 55.56 / 
 33053 / Super Soccer Champ / 9.9 / 29.990000000000002 / 67.93 / 
 7152 / Super Solitaire / 6.01 / 14.31 / 20.95 / 
@@ -633,7 +633,7 @@
 7157 / Super Strike Eagle / 5.63 / 20.21 / 31.0 / 
 7158 / Super Tennis / 3.59 / 12.0 / 19.990000000000002 / 
 7159 / Super Troll Islands / 11.99 / 32.37 / 89.26 / 
-7464 / Super Turrican / 33.44 / 103.58 / 334.51 / 
+7464 / Super Turrican / 33.82 / 110.67 / 334.49 / 
 7160 / Super Turrican 2 / 225.0 / 545.0 / 1289.22 / 
 7161 / Super Valis IV / 32.0 / 88.43 / 522.05 / 
 13072 / Super Widget / 14.780000000000001 / 59.01 / 320.95 / 
@@ -650,7 +650,7 @@
 7165 / Tecmo Super Bowl II Special Edition / 54.99 / 85.61 / 161.51 / 
 7166 / Tecmo Super Bowl III / 13.49 / 27.97 / 66.04 / 
 16381 / Tecmo Super NBA Basketball / 3.92 / 12.58 / 33.3 / 
-7168 / Teenage Mutant Ninja Turtles IV Turtles in Time / 39.75 / 190.0 / 799.95 / 
+7168 / Teenage Mutant Ninja Turtles IV Turtles in Time / 34.17 / 204.96 / 799.95 / 
 37540 / Teenage Mutant Ninja Turtles IV Turtles in Time [Not for Resale] / 112.25 / 0.0 / 0.0 / 
 7169 / Teenage Mutant Ninja Turtles Tournament Fighters / 14.73 / 55.0 / 336.17 / 
 13074 / Terminator / 11.450000000000001 / 29.79 / 80.15 / 
@@ -673,12 +673,12 @@
 7183 / The Flintstones Treasure of the Sierra Madrock / 49.120000000000005 / 141.35 / 367.1 / 
 7184 / The Great Circus Mystery Starring Mickey and Minnie / 14.39 / 35.67 / 92.74 / 
 7185 / The Great Waldo Search / 9.23 / 25.05 / 45.01 / 
-13075 / The Ignition Factor / 24.990000000000002 / 43.0 / 75.84 / 
+13075 / The Ignition Factor / 24.48 / 43.08 / 75.84 / 
 7187 / The Incredible Hulk / 11.0 / 30.990000000000002 / 175.0 / 
 7188 / The Itchy and Scratchy Game / 18.740000000000002 / 52.0 / 248.37 / 
 7189 / The Jetsons Invasion of the Planet Pirates / 61.11 / 165.0 / 429.95 / 
 7190 / The Jungle Book / 6.03 / 18.0 / 64.33 / 
-7191 / The Lion King / 11.040000000000001 / 24.87 / 99.99000000000001 / 
+7191 / The Lion King / 9.5 / 25.400000000000002 / 99.99000000000001 / 
 7192 / The Lost Vikings / 23.87 / 49.06 / 165.06 / 
 13076 / The Mask / 33.13 / 163.96 / 142.5 / 
 7193 / The Pagemaster / 6.75 / 17.990000000000002 / 55.0 / 
@@ -712,7 +712,7 @@
 11965 / Toys / 3.74 / 12.98 / 24.98 / 
 13079 / Troddlers / 9.71 / 23.5 / 66.85 / 
 13880 / Troy Aikman NFL Football / 3.66 / 9.4 / 21.41 / 
-7214 / True Lies / 20.2 / 77.5 / 90.10000000000001 / 
+7214 / True Lies / 22.88 / 71.23 / 90.07000000000001 / 
 7215 / Turn and Burn No Fly Zone / 6.98 / 18.580000000000002 / 20.400000000000002 / 
 7222 / UN Squadron / 15.98 / 57.81 / 224.5 / 
 7216 / Ultima Runes of Virtue II / 21.92 / 50.0 / 97.78 / 
@@ -773,7 +773,7 @@
 39608 / X-Band Modem / 89.81 / 75.0 / 239.07 / 
 7507 / X-Kaliber 2097 / 15.08 / 34.49 / 85.5 / 
 7250 / X-Men Mutant Apocalypse / 10.83 / 34.22 / 122.42 / 
-7251 / X-Zone / 7.24 / 24.95 / 33.34 / 
+7251 / X-Zone / 7.22 / 24.95 / 33.34 / 
 7249 / Xardion / 21.990000000000002 / 66.0 / 148.89000000000001 / 
 7252 / Yoshi's Cookie / 10.76 / 30.46 / 103.32000000000001 / 
 7509 / Yoshi's Safari / 8.870000000000001 / 25.0 / 93.76 / 
