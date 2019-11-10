@@ -85,5 +85,8 @@ main()
 4. Create a utility/helpers file, and throw get_change and stuff in there
 5. Maybe investigate a way to avoid having to create a .py file for each console. Or maybe that is a good thing?
     Do we really need the ability to do all of em at once? Might be best to be able to target
+    
+    
+Change this entire thing to be 1 function that asks what you want to check into, and then checks if that is valid
 
 '''
