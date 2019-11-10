@@ -19,10 +19,12 @@ def get_any():
     compare_answer = input("Do you want to also compare the prices? ").lower()
     if compare_answer == "yes":
         compare_days = input("And how many days ago do you want to compare against? ")
+        compare_days = int(compare_days)
     # Create Prices File to store the prices later
     prices_file = open('prices/' + console_dash + '/prices_' + str(date.strftime('%m-%d-%Y')) + '.txt', 'w')
 
     game_id_counter = get_data(console)
+    # Need to add logic here to compare if the data is the same or not. If it is, get_data, if not, don't.
     counter = 0
 
     # Open the data file for Virtual Boy
@@ -50,8 +52,9 @@ def get_any():
         # Testing Offset Price Check
         if compare_answer == "yes":
             price_list, game_id_list = compare(compare_days)
-            if game_id_list[counter] != game_id:
+            if game_id_list[counter].strip(" ") != game_id:
                 print("Oops, looks like the game ID doesn't match!")
+                # IT WORKS
                 # TODO - Does this work? How should I handle this? Maybe a try/catch?
             difference = float(loose_price) - float(price_list[counter])
             old_price = float(price_list[counter])

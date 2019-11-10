@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3fe88c80-c773-4306-ac89-907e1c2136db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/get_any.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_any.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/virtual-boy/prices_10-06-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/virtual-boy/prices_10-09-2019.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +21,11 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/compare.py">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="510">
-                    <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+                  <state relative-caret-position="374">
+                    <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
                     <folding>
                       <element signature="e#0#15#0" expanded="true" />
-                      <marker date="1573269347653" expanded="true" signature="117:122" ph="..." />
+                      <marker date="1573314371415" expanded="true" signature="117:122" ph="..." />
                     </folding>
                   </state>
                 </provider>
@@ -48,26 +47,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="22" />
-          <entry key="txt" value="46" />
+          <entry key="md" value="1" />
+          <entry key="py" value="25" />
+          <entry key="sh" value="1" />
+          <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="46" />
-          <entry key="Python" value="22" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8509" />
-          <entry key="txt" value="161" />
+          <entry key="md" value="393" />
+          <entry key="py" value="9191" />
+          <entry key="txt" value="168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="161" />
-          <entry key="Python" value="8509" />
+          <entry key="Markdown" value="393" />
+          <entry key="PLAIN_TEXT" value="168" />
+          <entry key="Python" value="9191" />
         </counts>
       </usages-collector>
     </session>
@@ -99,12 +103,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_any.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="51" column="60" lean-forward="true" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+            <state relative-caret-position="336">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <marker date="1573269445694" expanded="true" signature="167:172" ph="..." />
-                <marker date="1573269445694" expanded="true" signature="198:199" ph="..." />
+                <marker date="1573334864340" expanded="true" signature="167:172" ph="..." />
+                <marker date="1573334864340" expanded="true" signature="198:199" ph="..." />
               </folding>
             </state>
           </provider>
@@ -113,13 +117,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="680">
+              <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game_ids/Virtual Boy.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -148,9 +157,11 @@
         <option value="$PROJECT_DIR$/prices/virtual-boy/prices_09-29-2019.txt" />
         <option value="$PROJECT_DIR$/super-nintendo.py" />
         <option value="$PROJECT_DIR$/virtual-boy.py" />
-        <option value="$PROJECT_DIR$/get_data.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/compare.py" />
+        <option value="$PROJECT_DIR$/prices/virtual-boy/prices_10-09-2019.txt" />
         <option value="$PROJECT_DIR$/get_any.py" />
+        <option value="$PROJECT_DIR$/get_data.py" />
       </list>
     </option>
   </component>
@@ -182,6 +193,30 @@
               <item name="pricecharting" type="b2602c69:ProjectViewProjectNode" />
               <item name="pricecharting" type="462c0819:PsiDirectoryNode" />
               <item name="prices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pricecharting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pricecharting" type="462c0819:PsiDirectoryNode" />
+              <item name="prices" type="462c0819:PsiDirectoryNode" />
+              <item name="gamecube" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pricecharting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pricecharting" type="462c0819:PsiDirectoryNode" />
+              <item name="prices" type="462c0819:PsiDirectoryNode" />
+              <item name="virtual-boy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pricecharting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pricecharting" type="462c0819:PsiDirectoryNode" />
+              <item name="prices" type="462c0819:PsiDirectoryNode" />
+              <item name="wii" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pricecharting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pricecharting" type="462c0819:PsiDirectoryNode" />
+              <item name="prices" type="462c0819:PsiDirectoryNode" />
+              <item name="wii-u" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -419,9 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game_ids/Virtual Boy.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_11-04-2019.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -430,9 +462,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prices/super-nintendo/prices_11-05-2019.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game_ids/Super Nintendo.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prices/super-nintendo/prices_09-28-2019.txt">
@@ -466,13 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_10-09-2019.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_10-29-2019.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -482,16 +504,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_11-08-2019.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/virtual-boy.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -504,16 +516,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1573269347653" expanded="true" signature="117:122" ph="..." />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/super-nintendo.sh">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/adapters.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -522,14 +526,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_any.py">
+    <entry file="file://$PROJECT_DIR$/compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1573314371415" expanded="true" signature="117:122" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_10-09-2019.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="90" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_ids/Super Nintendo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_ids/Wii U.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3262" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_ids/Virtual Boy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_ids/Wii.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-513990933/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="5030" column="8" selection-start-line="5030" selection-start-column="8" selection-end-line="5030" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/gamecube/prices_11-09-2019.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/wii-u/prices_11-09-2019.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/wii/prices_11-09-2019.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="51" column="60" lean-forward="true" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+          <caret line="1348" column="64" lean-forward="true" selection-start-line="1348" selection-start-column="64" selection-end-line="1348" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_any.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1573269445694" expanded="true" signature="167:172" ph="..." />
-            <marker date="1573269445694" expanded="true" signature="198:199" ph="..." />
+            <marker date="1573334864340" expanded="true" signature="167:172" ph="..." />
+            <marker date="1573334864340" expanded="true" signature="198:199" ph="..." />
           </folding>
         </state>
       </provider>

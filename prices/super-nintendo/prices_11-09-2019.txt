@@ -1,0 +1,788 @@
+6828 / 3 Ninjas Kick Back / 56.65 / 505.74 / 2700.0 / 
+6829 / A.S.P. Air Strike Patrol / 20.12 / 44.63 / 115.96000000000001 / 
+7258 / AAAHH Real Monsters / 6.65 / 15.63 / 49.95 / 
+13002 / ABC Monday Night Football / 4.93 / 13.38 / 35.0 / 
+13003 / ACME Animation Factory / 7.45 / 22.62 / 54.99 / 
+6830 / ActRaiser / 26.87 / 72.94 / 214.5 / 
+6831 / ActRaiser 2 / 20.0 / 70.34 / 184.95000000000002 / 
+6832 / Addams Family Pugsley's Scavenger Hunt / 11.0 / 28.900000000000002 / 75.14 / 
+6833 / Addams Family Values / 13.14 / 24.98 / 122.45 / 
+7261 / Adventures of Batman and Robin / 64.36 / 285.36 / 557.6 / 
+7262 / Adventures of Dr Franken / 7.97 / 27.990000000000002 / 120.0 / 
+7263 / Adventures of Mighty Max / 6.86 / 39.5 / 105.75 / 
+8473 / Adventures of Yogi Bear / 10.42 / 28.05 / 108.98 / 
+12576 / Aero Fighters / 648.5 / 1448.14 / 4249.99 / 
+8475 / Aero the Acro-Bat / 8.97 / 28.2 / 55.910000000000004 / 
+6835 / Aero the Acro-Bat 2 / 27.48 / 94.99 / 179.38 / 
+6836 / Aerobiz / 22.47 / 42.21 / 46.67 / 
+6837 / Aerobiz Supersonic / 26.62 / 72.36 / 124.75 / 
+13004 / Air Cavalry / 15.15 / 74.88 / 159.95000000000002 / 
+6838 / Al Unser Jr.'s Road To The Top / 5.01 / 12.26 / 60.6 / 
+6839 / Aladdin / 12.99 / 29.990000000000002 / 152.0 / 
+6840 / Alien 3 / 12.99 / 36.95 / 98.96000000000001 / 
+10414 / Alien vs Predator / 22.990000000000002 / 65.34 / 249.99 / 
+6841 / American Gladiators / 6.390000000000001 / 18.5 / 35.47 / 
+6842 / An American Tail Fievel Goes West / 58.39 / 162.73 / 535.07 / 
+6843 / Andre Agassi Tennis / 5.99 / 27.97 / 33.22 / 
+6844 / Animaniacs / 6.48 / 39.21 / 65.0 / 
+30262 / Arcade's Greatest Hits Atari Collection 1 / 10.89 / 19.900000000000002 / 51.74 / 
+6845 / Arcana / 18.89 / 42.5 / 137.05 / 
+6846 / Ardy Light Foot / 97.5 / 225.0 / 539.99 / 
+6847 / Arkanoid Doh It Again / 10.93 / 17.77 / 35.0 / 
+6848 / Art of Fighting / 5.49 / 19.29 / 57.82 / 
+6849 / Axelay / 47.49 / 119.99000000000001 / 480.0 / 
+6867 / B.O.B. / 14.3 / 25.75 / 89.18 / 
+6850 / Ballz 3D / 6.98 / 19.53 / 19.490000000000002 / 
+6851 / Barbie Super Model / 7.79 / 21.25 / 39.85 / 
+14057 / Barkley: Shut Up and Jam! / 4.44 / 9.93 / 33.99 / 
+16436 / Bass Masters Classic / 4.69 / 12.66 / 32.55 / 
+13006 / Bass Masters Classic Pro Edition / 6.25 / 14.84 / 25.07 / 
+6865 / Bassin's Black Bass / 10.99 / 25.63 / 85.77 / 
+6853 / Batman Forever / 3.58 / 23.490000000000002 / 68.02 / 
+6854 / Batman Returns / 14.200000000000001 / 47.6 / 233.67000000000002 / 
+13007 / Battle Blaze / 7.59 / 19.990000000000002 / 47.300000000000004 / 
+6855 / Battle Cars / 8.27 / 30.98 / 73.88 / 
+6856 / Battle Clash / 3.61 / 12.9 / 20.51 / 
+6857 / Battle Grand Prix / 9.07 / 24.12 / 200.05 / 
+6859 / Battletoads In Battlemaniacs / 22.490000000000002 / 125.48 / 256.0 / 
+6858 / Battletoads and Double Dragon The Ultimate Team / 20.0 / 99.5 / 260.0 / 
+6860 / Bazooka Blitzkrieg / 17.13 / 32.62 / 115.66 / 
+6861 / Beauty and the Beast / 29.28 / 71.0 / 170.79 / 
+8594 / Beavis and Butthead / 12.56 / 33.94 / 73.66 / 
+6862 / Bebe's Kids / 18.8 / 72.99 / 299.99 / 
+13008 / Beethoven / 4.8100000000000005 / 29.54 / 40.14 / 
+13009 / Best of the Best Championship Karate / 5.75 / 15.27 / 39.62 / 
+6863 / Big Sky Trooper / 13.8 / 41.81 / 63.24 / 
+6864 / Biker Mice From Mars / 42.5 / 200.0 / 431.81 / 
+14220 / Bill Laimbeer's Combat Basketball / 3.3200000000000003 / 11.69 / 22.740000000000002 / 
+16236 / Bill Walsh College Football / 3.2 / 8.47 / 25.25 / 
+13010 / Biometal / 32.0 / 84.94 / 176.3 / 
+13011 / BlaZeon / 34.99 / 102.77 / 224.33 / 
+13012 / Blackthorne / 31.77 / 70.24 / 161.07 / 
+6866 / Blues Brothers / 17.22 / 38.5 / 99.73 / 
+13013 / Bonkers / 15.26 / 59.99 / 95.12 / 
+6868 / Boogerman A Pick and Flick Adventure / 43.0 / 134.29 / 440.31 / 
+13838 / Boxing Legends Of The Ring / 4.83 / 12.75 / 33.64 / 
+6869 / Brain Lord / 24.990000000000002 / 59.99 / 205.6 / 
+13014 / Bram Stoker's Dracula / 6.3100000000000005 / 20.09 / 65.88 / 
+6870 / Brandish / 41.0 / 95.0 / 122.5 / 
+6871 / Brawl Brothers / 29.990000000000002 / 75.7 / 165.3 / 
+6872 / BreakThru / 6.03 / 21.32 / 42.36 / 
+6873 / Breath of Fire / 31.13 / 94.0 / 254.32 / 
+6874 / Breath of Fire II / 47.910000000000004 / 130.5 / 238.26 / 
+13015 / Brett Hull Hockey / 3.97 / 7.54 / 38.03 / 
+14877 / Brett Hull Hockey '95 / 4.6000000000000005 / 12.35 / 23.990000000000002 / 
+14358 / Bronkie The Bronchiasaurus / 168.20000000000002 / 199.95000000000002 / 304.05 / 
+12965 / Brunswick World Tournament of Champions / 3.77 / 6.6000000000000005 / 16.45 / 
+7282 / Brutal Paws of Fury / 8.36 / 31.330000000000002 / 43.79 / 
+12550 / Bubsy / 9.8 / 22.490000000000002 / 70.0 / 
+6875 / Bubsy II / 11.700000000000001 / 27.48 / 79.57000000000001 / 
+10576 / Bugs Bunny Rabbit Rampage / 6.8100000000000005 / 23.76 / 97.75 / 
+13819 / Bulls Vs Blazers and the NBA Playoffs / 3.72 / 8.0 / 20.8 / 
+33055 / Burn-In/Test Cartridge / 35.0 / 0.0 / 0.0 / 
+6876 / Bust-A-Move / 17.490000000000002 / 39.92 / 87.31 / 
+6877 / Cacoma Knight in Bizyland / 17.6 / 40.980000000000004 / 152.5 / 
+18557 / Cal Ripken Jr. Baseball / 4.22 / 12.07 / 49.75 / 
+6878 / California Games II / 8.950000000000001 / 21.5 / 58.4 / 
+12948 / Cannondale Cup / 12.05 / 41.28 / 81.94 / 
+14228 / Capcom's MVP Football / 3.45 / 12.790000000000001 / 42.800000000000004 / 
+6879 / Capcom's Soccer Shootout / 15.81 / 65.03 / 80.51 / 
+7288 / Captain America and the Avengers / 12.0 / 47.31 / 133.02 / 
+6880 / Captain Commando / 91.86 / 278.75 / 515.01 / 
+6881 / Captain Novolin / 47.13 / 101.26 / 179.95000000000002 / 
+6882 / Carrier Aces / 8.39 / 24.990000000000002 / 63.85 / 
+6883 / Casper / 92.55 / 271.52 / 629.61 / 
+6884 / Castlevania Dracula X / 165.0 / 461.67 / 1200.01 / 
+13016 / Champions World Class Soccer / 4.24 / 13.42 / 27.990000000000002 / 
+6885 / Championship Pool / 3.04 / 8.91 / 20.96 / 
+6886 / Championship Soccer '94 / 5.61 / 20.990000000000002 / 48.85 / 
+32682 / Chavez Boxing / 26.990000000000002 / 55.230000000000004 / 143.6 / 
+12588 / Chavez Boxing II / 20.52 / 63.71 / 199.95000000000002 / 
+6887 / Chessmaster / 2.93 / 11.75 / 22.91 / 
+13770 / Chester Cheetah Too Cool to Fool / 12.200000000000001 / 35.69 / 85.48 / 
+13756 / Chester Cheetah Wild Wild Quest / 13.88 / 39.99 / 144.27 / 
+6888 / Choplifter 3 / 19.5 / 49.94 / 103.77 / 
+6889 / Chrono Trigger / 91.23 / 274.98 / 1268.99 / 
+7293 / Chuck Rock / 8.11 / 23.6 / 66.08 / 
+6890 / Clay Fighter Tournament Edition / 11.200000000000001 / 41.63 / 108.24000000000001 / 
+10421 / ClayFighter / 8.57 / 28.51 / 72.8 / 
+13017 / ClayFighter 2 Judgment Clay / 11.48 / 39.99 / 79.85000000000001 / 
+6891 / Claymates / 11.78 / 28.19 / 122.54 / 
+38379 / Cleaning Kit / 14.99 / 17.38 / 31.240000000000002 / 
+7294 / Cliffhanger / 4.78 / 17.42 / 41.5 / 
+7295 / Clue / 5.38 / 10.0 / 31.720000000000002 / 
+6892 / College Football 97 / 6.57 / 17.75 / 50.93 / 
+16206 / College Slam / 3.35 / 12.49 / 29.990000000000002 / 
+6893 / Congo's Caper / 16.490000000000002 / 57.69 / 139.96 / 
+6894 / Contra III The Alien Wars / 31.490000000000002 / 98.36 / 307.91 / 
+37530 / Contra III The Alien Wars [Not for Resale] / 123.08 / 0.0 / 0.0 / 
+8762 / Cool Spot / 10.3 / 29.48 / 104.13 / 
+13018 / Cool World / 9.65 / 37.62 / 71.94 / 
+10902 / Cutthroat Island / 6.93 / 18.2 / 49.99 / 
+13019 / Cyber Spin / 5.46 / 23.240000000000002 / 60.53 / 
+6895 / Cybernator / 19.22 / 56.95 / 153.45000000000002 / 
+6897 / D-Force / 5.5200000000000005 / 21.22 / 48.980000000000004 / 
+7303 / Daffy Duck Marvin Missions / 8.94 / 25.490000000000002 / 44.980000000000004 / 
+13020 / Darius Twin / 13.61 / 36.0 / 124.88000000000001 / 
+63902 / Data East Classics Collection [Homebrew] / 2.2 / 5.76 / 14.98 / 
+19250 / David Crane's Amazing Tennis / 2.66 / 12.75 / 15.11 / 
+7304 / Demolition Man / 9.96 / 42.59 / 46.26 / 
+6896 / Demon's Crest / 81.0 / 250.75 / 673.86 / 
+10579 / Dennis the Menace / 5.55 / 18.38 / 50.0 / 
+13021 / Desert Strike Return to the Gulf / 6.8100000000000005 / 22.18 / 94.19 / 
+6898 / Dig and Spike Volleyball / 5.3500000000000005 / 14.46 / 38.660000000000004 / 
+6899 / Dino City / 12.0 / 27.59 / 70.55 / 
+13022 / Dirt Trax FX / 9.92 / 20.02 / 57.120000000000005 / 
+6900 / Donkey Kong Country / 13.07 / 34.980000000000004 / 349.99 / 
+6901 / Donkey Kong Country 2 / 15.620000000000001 / 42.5 / 214.76 / 
+42311 / Donkey Kong Country 2 [Player's Choice] / 15.96 / 38.57 / 108.53 / 
+6902 / Donkey Kong Country 3 / 17.81 / 59.83 / 180.71 / 
+36326 / Donkey Kong Country 3 [Not for Resale] / 104.16 / 0.0 / 0.0 / 
+42312 / Donkey Kong Country 3 [Player's Choice] / 21.830000000000002 / 54.800000000000004 / 148.44 / 
+14934 / Donkey Kong Country Competition Edition / 1650.51 / 1702.29 / 0.0 / 
+36325 / Donkey Kong Country [Not for Resale] / 69.0 / 0.0 / 0.0 / 
+42313 / Donkey Kong Country [Player's Choice] / 18.67 / 50.1 / 130.41 / 
+6903 / Doom / 19.990000000000002 / 60.99 / 149.23 / 
+6904 / Doom Troopers / 23.04 / 82.0 / 230.53 / 
+13773 / Doomsday Warrior / 8.81 / 21.85 / 66.22 / 
+6905 / Double Dragon V The Shadow Falls / 12.85 / 47.050000000000004 / 172.13 / 
+6906 / Dragon View / 85.99 / 182.69 / 472.68 / 
+11861 / Dragon's Lair / 9.78 / 31.42 / 64.54 / 
+7312 / Dragon: The Bruce Lee Story / 11.540000000000001 / 41.45 / 80.41 / 
+6907 / Drakkhen / 6.5200000000000005 / 20.0 / 89.0 / 
+6908 / Dream TV / 10.0 / 24.55 / 64.53 / 
+6909 / Dungeon Master / 12.25 / 39.99 / 103.97 / 
+7316 / Dungeons & Dragons Eye of the Beholder / 8.36 / 24.080000000000002 / 79.05 / 
+17618 / ESPN Baseball Tonight / 2.97 / 8.01 / 16.25 / 
+18586 / ESPN National Hockey Night / 3.06 / 8.75 / 21.3 / 
+13023 / ESPN Speed World / 6.07 / 16.19 / 41.68 / 
+16167 / ESPN Sunday Night NFL / 4.67 / 10.42 / 16.990000000000002 / 
+6916 / EVO the Search for Eden / 134.95 / 474.95 / 1146.91 / 
+8892 / Earth Defense Force / 13.14 / 36.0 / 82.04 / 
+6910 / EarthBound / 153.36 / 762.28 / 2125.01 / 
+6911 / Earthworm Jim / 22.67 / 69.99 / 280.15000000000003 / 
+6912 / Earthworm Jim 2 / 22.02 / 53.93 / 149.95000000000002 / 
+6913 / Eek The Cat / 16.96 / 46.06 / 120.51 / 
+6914 / Elite Soccer / 11.0 / 31.580000000000002 / 75.0 / 
+18616 / Emmitt Smith Football / 2.9 / 9.99 / 22.51 / 
+6915 / Equinox / 17.990000000000002 / 54.68 / 141.77 / 
+14836 / Exertainment Mountain Bike Rally / 17.990000000000002 / 59.95 / 62.86 / 
+15930 / Exertainment Mountain Bikerally Speed Racer / 1349.82 / 2683.0 / 4800.0 / 
+6917 / Extra Innings / 6.18 / 15.83 / 18.43 / 
+6936 / F-Zero / 10.44 / 28.26 / 42.27 / 
+42314 / F-Zero [Player's Choice] / 9.23 / 29.490000000000002 / 40.0 / 
+6918 / F1 Pole Position / 8.73 / 23.01 / 59.52 / 
+6919 / F1 ROC II Race of Champions / 8.0 / 29.97 / 51.02 / 
+6920 / F1 ROC Race of Champions / 7.59 / 22.990000000000002 / 52.99 / 
+8959 / FIFA International Soccer / 4.13 / 14.68 / 44.730000000000004 / 
+18679 / FIFA Soccer 96 / 6.65 / 12.1 / 35.77 / 
+6924 / FIFA Soccer 97 / 8.2 / 18.47 / 55.72 / 
+13024 / Faceball 2000 / 7.32 / 15.860000000000001 / 57.72 / 
+6921 / Family Dog / 10.0 / 21.04 / 54.54 / 
+7324 / Family Feud / 3.69 / 9.28 / 9.5 / 
+6922 / Fatal Fury / 10.86 / 29.32 / 127.76 / 
+7328 / Fatal Fury 2 / 12.26 / 33.94 / 112.97 / 
+6923 / Fatal Fury Special / 22.66 / 53.11 / 436.14 / 
+13025 / Fighter's History / 9.11 / 34.99 / 79.0 / 
+6925 / Final Fantasy II / 31.240000000000002 / 114.85000000000001 / 1010.25 / 
+6926 / Final Fantasy III / 35.0 / 176.93 / 1369.49 / 
+6927 / Final Fantasy Mystic Quest / 9.24 / 43.49 / 130.37 / 
+6928 / Final Fight / 9.5 / 36.22 / 138.75 / 
+7330 / Final Fight 2 / 45.9 / 115.01 / 495.0 / 
+6929 / Final Fight 3 / 110.96000000000001 / 295.0 / 596.22 / 
+6930 / Final Fight Guy / 165.0 / 1026.27 / 1135.99 / 
+6931 / Fire Striker / 83.31 / 240.0 / 395.99 / 
+7331 / Firepower 2000 / 19.95 / 47.4 / 129.99 / 
+13026 / First Samurai / 19.2 / 70.74 / 127.99000000000001 / 
+7333 / Flashback The Quest for Identity / 10.32 / 33.46 / 90.65 / 
+13165 / Flintstones the Movie / 8.5 / 22.95 / 111.35000000000001 / 
+16053 / Football Fury / 7.51 / 32.08 / 48.34 / 
+16209 / Foreman For Real / 3.88 / 12.99 / 33.77 / 
+13879 / Frank Thomas Big Hurt Baseball / 2.42 / 11.06 / 17.54 / 
+6932 / Frantic Flea / 8.43 / 19.41 / 46.0 / 
+6933 / Frogger / 6.74 / 16.0 / 37.99 / 
+6934 / Full Throttle / 5.21 / 16.27 / 40.730000000000004 / 
+6935 / Fun 'n Games / 35.0 / 527.34 / 463.22 / 
+6942 / GP-1 / 7.33 / 27.69 / 53.31 / 
+6943 / GP-1 Part II / 10.14 / 27.36 / 38.14 / 
+9009 / Game Genie / 17.5 / 26.0 / 53.89 / 
+6937 / Gemfire / 21.8 / 50.0 / 210.0 / 
+6938 / Genghis Khan II Clan of the Gray Wolf / 19.51 / 37.17 / 224.6 / 
+16086 / George Foreman's KO Boxing / 4.0200000000000005 / 13.32 / 24.22 / 
+6939 / Ghoul Patrol / 102.25 / 174.32 / 305.0 / 
+33842 / Goal / 4.33 / 16.43 / 71.57000000000001 / 
+6940 / Gods / 12.0 / 28.98 / 80.5 / 
+6941 / Goof Troop / 15.0 / 37.99 / 129.12 / 
+6944 / Gradius III / 12.93 / 35.11 / 95.76 / 
+6945 / Gunforce / 16.490000000000002 / 52.52 / 120.68 / 
+6946 / Hagane The Final Conflict / 474.84000000000003 / 1560.3 / 2230.7000000000003 / 
+14053 / Hal's Hole in One Golf / 3.81 / 13.88 / 26.04 / 
+12949 / Hammerlock Wrestling / 9.14 / 27.900000000000002 / 58.33 / 
+13005 / HardBall III / 2.3000000000000003 / 7.61 / 15.97 / 
+11862 / Harley's Humongous Adventure / 8.13 / 30.86 / 51.75 / 
+6947 / Harvest Moon / 177.19 / 471.8 / 1497.04 / 
+13027 / Head-On Soccer / 7.25 / 34.97 / 46.4 / 
+13839 / Hey Punk Are You Tuff E Nuff / 11.15 / 31.29 / 75.74 / 
+13028 / Hit the Ice / 10.92 / 28.240000000000002 / 72.60000000000001 / 
+6948 / Home Alone / 8.96 / 26.11 / 63.42 / 
+6949 / Home Alone 2 Lost In New York / 5.7700000000000005 / 20.17 / 84.88 / 
+6950 / Home Improvement / 43.56 / 133.48 / 239.99 / 
+7347 / Hook / 11.97 / 36.0 / 90.63 / 
+13029 / Hunt for Red October / 4.96 / 19.990000000000002 / 30.02 / 
+12590 / Hurricanes / 103.53 / 605.53 / 1641.1100000000001 / 
+13030 / Hyper V-Ball / 13.14 / 35.37 / 29.0 / 
+7348 / Hyperzone / 6.53 / 27.5 / 90.9 / 
+6951 / Illusion of Gaia / 16.47 / 44.28 / 289.95 / 
+6952 / Imperium / 50.25 / 145.01 / 165.0 / 
+6953 / Incantation / 90.0 / 371.51 / 760.01 / 
+7186 / Incredible Crash Dummies / 7.140000000000001 / 23.38 / 33.67 / 
+6954 / Indiana Jones' Greatest Adventures / 15.200000000000001 / 42.99 / 243.56 / 
+7350 / Inindo / 16.55 / 43.0 / 112.77 / 
+6956 / Inspector Gadget / 16.77 / 89.0 / 107.53 / 
+33054 / International Superstar Soccer / 41.92 / 376.27 / 419.46000000000004 / 
+13031 / International Superstar Soccer Deluxe / 50.74 / 199.83 / 440.44 / 
+14204 / International Tennis Tour / 5.08 / 16.95 / 35.0 / 
+13032 / Izzy's Quest for the Olympic Rings / 6.48 / 25.62 / 42.26 / 
+18600 / Jack Nicklaus Golf / 5.86 / 9.47 / 25.84 / 
+7352 / James Bond Jr / 7.04 / 22.03 / 89.99 / 
+13033 / Jammit / 5.62 / 12.57 / 32.74 / 
+10445 / Jeopardy / 4.61 / 9.120000000000001 / 26.330000000000002 / 
+7353 / Jeopardy Deluxe Edition / 2.14 / 7.74 / 18.25 / 
+7354 / Jeopardy Sports Edition / 2.49 / 10.120000000000001 / 29.990000000000002 / 
+6958 / Jim Power / 5.28 / 47.5 / 89.99 / 
+18636 / Jimmy Connors Pro Tennis Tour / 7.59 / 13.280000000000001 / 34.99 / 
+21553 / Jimmy Houston's Bass Tournament U.S.A. / 11.85 / 34.99 / 31.990000000000002 / 
+6959 / Joe and Mac / 14.14 / 42.050000000000004 / 24.95 / 
+6960 / Joe and Mac 2 Lost in the Tropics / 55.25 / 169.19 / 439.89 / 
+13824 / John Madden Football / 3.66 / 9.99 / 89.98 / 
+6961 / Judge Dredd / 7.63 / 23.740000000000002 / 30.09 / 
+13034 / Jungle Strike / 5.59 / 16.98 / 25.080000000000002 / 
+7359 / Jurassic Park / 6.82 / 20.05 / 57.61 / 
+7360 / Jurassic Park 2 The Chaos Continues / 14.41 / 44.47 / 90.0 / 
+13035 / Justice League Task Force / 10.0 / 29.990000000000002 / 68.01 / 
+6962 / Ka-blooey / 8.16 / 17.400000000000002 / 49.99 / 
+6963 / Kawasaki Caribbean Challenge / 3.8000000000000003 / 14.18 / 36.87 / 
+9201 / Kawasaki Superbike Challenge / 12.47 / 33.67 / 87.55 / 
+6964 / Ken Griffey Jr Major League Baseball / 8.72 / 16.31 / 64.82000000000001 / 
+6965 / Ken Griffey Jr's Winning Run / 5.12 / 20.37 / 69.28 / 
+37531 / Ken Griffey Jr's Winning Run [Not for Resale] / 20.62 / 0.0 / 0.0 / 
+6966 / Kendo Rage / 33.49 / 90.23 / 176.92000000000002 / 
+6967 / Kid Klown in Crazy Chase / 8.99 / 29.75 / 76.10000000000001 / 
+7365 / Killer Instinct / 9.96 / 38.660000000000004 / 107.9 / 
+37532 / Killer Instinct [Not for Resale] / 0.0 / 0.0 / 0.0 / 
+6968 / King Arthur and the Knights of Justice / 39.56 / 106.81 / 270.58 / 
+12551 / King Arthur's World / 10.05 / 33.68 / 86.67 / 
+6969 / King of Dragons / 58.88 / 167.48 / 407.0 / 
+7366 / King of the Monsters / 7.09 / 22.650000000000002 / 121.87 / 
+7367 / King of the Monsters 2 / 14.5 / 40.33 / 101.23 / 
+6971 / Kirby Super Star / 32.480000000000004 / 93.0 / 280.99 / 
+6972 / Kirby's Avalanche / 10.0 / 26.97 / 84.22 / 
+7368 / Kirby's Dream Course / 18.31 / 48.17 / 200.0 / 
+6973 / Kirby's Dream Land 3 / 78.83 / 206.06 / 530.97 / 
+6974 / Knights of the Round / 61.660000000000004 / 189.39000000000001 / 396.52 / 
+63107 / Konami Justifier / 29.97 / 224.9 / 584.73 / 
+6975 / Krusty's Super Fun House / 9.620000000000001 / 30.69 / 107.57000000000001 / 
+16155 / Kyle Petty's No Fear Racing / 8.46 / 29.71 / 62.57 / 
+6976 / Lagoon / 11.040000000000001 / 30.0 / 127.5 / 
+13036 / Lamborghini American Challenge / 12.99 / 50.89 / 101.81 / 
+6977 / Last Action Hero / 6.87 / 19.0 / 40.32 / 
+7371 / Lawnmower Man / 5.49 / 16.94 / 39.99 / 
+6978 / Legend / 52.79 / 169.68 / 442.98 / 
+6979 / Legend of the Mystical Ninja / 31.55 / 95.0 / 399.57 / 
+6980 / Lemmings / 13.68 / 27.98 / 75.75 / 
+6981 / Lemmings 2 The Tribes / 18.13 / 29.98 / 121.16 / 
+10839 / Lester the Unlikely / 6.5 / 27.5 / 77.28 / 
+13037 / Lethal Enforcers / 7.3 / 101.85000000000001 / 210.21 / 
+38221 / Lethal Enforcers [Gun Bundle] / 40.87 / 105.74000000000001 / 295.2 / 
+7373 / Lethal Weapon / 6.58 / 19.03 / 37.47 / 
+6982 / Liberty or Death / 25.830000000000002 / 59.35 / 89.81 / 
+12548 / Lock On / 8.41 / 21.09 / 55.46 / 
+6983 / Looney Tunes B-Ball / 22.990000000000002 / 52.24 / 154.75 / 
+6984 / Lord of Darkness / 13.43 / 36.27 / 110.91 / 
+6985 / Lord of the Rings / 10.82 / 34.0 / 82.94 / 
+16295 / Lost Vikings 2 / 49.96 / 87.02 / 190.0 / 
+6987 / Lufia II Rise of Sinistrals / 72.81 / 120.92 / 273.0 / 
+6986 / Lufia and The Fortress of Doom / 40.0 / 109.25 / 349.99 / 
+30858 / M.A.C.S.  Multipurpose Arcade Combat Simulator / 1300.0 / 2925.0 / 0.0 / 
+15648 / MLBPA Baseball / 4.51 / 9.41 / 28.580000000000002 / 
+14149 / Madden 93 / 4.1 / 9.290000000000001 / 36.160000000000004 / 
+14875 / Madden 96 / 3.41 / 9.4 / 23.23 / 
+14874 / Madden 97 / 3.52 / 9.33 / 15.5 / 
+6988 / Madden 98 / 3.99 / 14.13 / 27.3 / 
+16091 / Madden NFL '94 / 2.7600000000000002 / 7.99 / 33.59 / 
+18721 / Madden NFL '95 / 3.0 / 8.98 / 28.0 / 
+6990 / Magic Boy / 20.55 / 32.53 / 40.49 / 
+13038 / Magic Johnson's Super Slam Dunk / 2.47 / 8.0 / 24.97 / 
+13039 / Magic Sword / 21.66 / 78.28 / 119.99000000000001 / 
+6991 / Magical Quest starring Mickey Mouse / 13.43 / 49.04 / 137.51 / 
+6993 / Mario Paint / 15.44 / 59.21 / 168.59 / 
+38381 / Mario Paint [Mouse Bundle] / 19.04 / 34.92 / 86.25 / 
+42316 / Mario Paint [Player's Choice] / 7.47 / 60.0 / 156.0 / 
+6992 / Mario is Missing / 9.55 / 34.27 / 169.69 / 
+6995 / Mario's Early Years Fun With Numbers / 10.0 / 68.51 / 318.97 / 
+6994 / Mario's Early Years Fun with Letters / 8.97 / 44.83 / 291.15000000000003 / 
+6996 / Mario's Early Years Preschool Fun / 12.030000000000001 / 103.03 / 274.95 / 
+9290 / Mario's Time Machine / 8.83 / 28.04 / 177.20000000000002 / 
+13040 / Mark Davis the Fishing Master / 7.78 / 12.68 / 33.0 / 
+6997 / Marvel Super Heroes in War of the Gems / 26.560000000000002 / 112.5 / 280.40000000000003 / 
+6998 / Mary Shelley's Frankenstein / 13.59 / 26.95 / 64.98 / 
+6999 / Math Blaster Episode 1 / 7.49 / 36.43 / 137.14000000000001 / 
+13041 / Maui Mallard in Cold Shadow / 22.0 / 59.13 / 154.4 / 
+13042 / Mecarobot Golf / 7.92 / 17.95 / 24.990000000000002 / 
+7381 / MechWarrior / 7.69 / 29.990000000000002 / 60.01 / 
+10396 / MechWarrior 3050 / 9.99 / 34.97 / 64.97 / 
+7000 / Mega Man 7 / 116.49000000000001 / 481.04 / 1848.75 / 
+7001 / Mega Man Soccer / 42.78 / 161.99 / 348.33 / 
+7002 / Mega Man X / 16.56 / 73.13 / 228.5 / 
+53797 / Mega Man X [30th Anniversary Edition] / 82.99 / 90.99 / 93.41 / 
+7003 / Mega Man X2 / 79.0 / 243.0 / 2299.9900000000002 / 
+7004 / Mega Man X3 / 179.15 / 463.98 / 1206.3500000000001 / 
+7005 / Metal Combat / 4.49 / 17.990000000000002 / 29.04 / 
+12017 / Metal Marines / 58.0 / 123.29 / 305.0 / 
+7006 / Metal Morph / 37.68 / 114.09 / 135.64000000000001 / 
+7007 / Metal Warriors / 197.5 / 577.75 / 2440.91 / 
+7008 / Michael Andretti's Indy Car Challenge / 5.98 / 18.7 / 48.53 / 
+14271 / Michael Jordan Chaos in the Windy City / 9.5 / 28.490000000000002 / 131.59 / 
+7009 / Mickey Mania / 9.870000000000001 / 34.0 / 91.0 / 
+7010 / Mickey's Ultimate Challenge / 7.0 / 24.37 / 166.08 / 
+7011 / Micro Machines / 20.95 / 57.050000000000004 / 148.32 / 
+7012 / Might and Magic III Isles of Terra / 15.65 / 48.99 / 145.57 / 
+7013 / Mighty Morphin Power Rangers / 12.16 / 43.51 / 200.4 / 
+7015 / Mighty Morphin Power Rangers The Movie / 29.990000000000002 / 85.38 / 117.5 / 
+11966 / Mini Super Nintendo System / 60.11 / 178.45000000000002 / 463.97 / 
+16136 / Miracle Piano / 44.83 / 150.01 / 320.0 / 
+7016 / Mohawk and Headphone Jack / 23.1 / 51.01 / 84.35000000000001 / 
+7388 / Monopoly / 4.96 / 9.88 / 25.990000000000002 / 
+7017 / Mortal Kombat / 9.98 / 33.27 / 178.65 / 
+13745 / Mortal Kombat 3 / 9.66 / 31.04 / 135.78 / 
+7018 / Mortal Kombat II / 9.99 / 36.75 / 148.83 / 
+37533 / Mortal Kombat II [Not for Resale] / 399.99 / 0.0 / 0.0 / 
+7020 / Mr. Do! / 27.39 / 67.69 / 329.99 / 
+13043 / Mr. Nutz / 57.0 / 241.65 / 645.54 / 
+7021 / Ms. Pac-Man / 5.78 / 15.6 / 39.32 / 
+14035 / Musya Classic Japanese Tale of Horror / 64.97 / 200.0 / 506.87 / 
+14997 / NBA All-Star Challenge / 3.45 / 8.41 / 16.56 / 
+13044 / NBA Give 'n Go / 7.07 / 20.490000000000002 / 45.56 / 
+12553 / NBA Hang Time / 6.0 / 17.13 / 29.6 / 
+7022 / NBA Jam / 7.5 / 20.240000000000002 / 52.82 / 
+7023 / NBA Jam Tournament Edition / 9.05 / 27.69 / 62.77 / 
+13823 / NBA Live 95 / 3.23 / 8.8 / 50.57 / 
+14335 / NBA Live 96 / 4.0600000000000005 / 12.950000000000001 / 14.93 / 
+14056 / NBA Live 97 / 4.01 / 10.870000000000001 / 25.34 / 
+7024 / NBA Live 98 / 7.99 / 22.82 / 56.31 / 
+14055 / NBA Showdown / 4.3500000000000005 / 10.790000000000001 / 45.31 / 
+13817 / NCAA Basketball / 2.14 / 8.5 / 18.830000000000002 / 
+37534 / NCAA Basketball [Not for Resale] / 29.990000000000002 / 0.0 / 0.0 / 
+20083 / NCAA Final Four Basketball / 7.01 / 7.7700000000000005 / 20.2 / 
+15001 / NCAA Football / 3.39 / 9.74 / 19.990000000000002 / 
+14879 / NFL Football / 3.5300000000000002 / 10.950000000000001 / 21.5 / 
+14995 / NFL Quarterback Club / 3.35 / 8.8 / 20.0 / 
+20085 / NFL Quarterback Club 96 / 2.86 / 5.0 / 15.75 / 
+14418 / NHL 94 / 6.0 / 15.0 / 49.57 / 
+14152 / NHL 95 / 3.33 / 11.41 / 29.66 / 
+18722 / NHL 96 / 4.96 / 13.1 / 23.7 / 
+7026 / NHL 97 / 4.7700000000000005 / 13.73 / 33.15 / 
+13045 / NHL 98 / 12.83 / 32.25 / 59.050000000000004 / 
+13822 / NHL Stanley Cup / 2.48 / 8.19 / 22.12 / 
+13820 / NHLPA Hockey '93 / 2.11 / 9.99 / 24.67 / 
+20084 / Natsume Championship Wrestling / 9.91 / 28.990000000000002 / 34.99 / 
+13046 / Newman-Haas IndyCar / 3.5 / 15.99 / 41.57 / 
+13047 / Nickelodeon GUTS / 7.890000000000001 / 26.09 / 69.94 / 
+14314 / Nigel Mansell's World Championship Racing / 4.24 / 14.99 / 37.0 / 
+63267 / Nightmare Busters [Homebrew] / 0.0 / 0.0 / 0.0 / 
+7027 / Ninja Gaiden Trilogy / 103.76 / 312.99 / 688.69 / 
+7028 / Ninja Warriors / 109.99000000000001 / 401.54 / 1056.32 / 
+19388 / Nintendo Campus Challenge 1992 / 4000.0 / 0.0 / 0.0 / 
+34875 / Nintendo Campus Challenge 1992 [Reproduction] / 39.06 / 105.43 / 202.5 / 
+19389 / Nintendo Powerfest 1994 / 16083.59 / 0.0 / 16089.82 / 
+7029 / No Escape / 14.46 / 48.32 / 105.88 / 
+7030 / Nobunaga's Ambition / 15.18 / 29.98 / 84.91 / 
+7031 / Nolan Ryan's Baseball / 4.99 / 13.14 / 27.98 / 
+7032 / Nosferatu / 88.33 / 200.0 / 306.34000000000003 / 
+7033 / Obitus / 11.77 / 24.990000000000002 / 144.64000000000001 / 
+7034 / Ogre Battle The March of the Black Queen / 86.32000000000001 / 207.48000000000002 / 597.01 / 
+13048 / Olympic Summer Games Atlanta 96 / 3.85 / 9.39 / 19.990000000000002 / 
+7035 / On the Ball / 17.63 / 21.92 / 45.730000000000004 / 
+7036 / Operation Europe Path to Victory 1939-45 / 11.84 / 31.0 / 81.68 / 
+7037 / Operation Logic Bomb / 24.240000000000002 / 46.72 / 109.99000000000001 / 
+13049 / Operation Thunderbolt / 48.0 / 125.0 / 222.5 / 
+7038 / Oscar / 62.18 / 236.51 / 577.82 / 
+7039 / Out of This World / 8.41 / 29.990000000000002 / 78.23 / 
+7040 / Out to Lunch / 10.49 / 38.5 / 105.35000000000001 / 
+7413 / Outlander / 8.82 / 28.69 / 59.99 / 
+7414 / P.T.O. / 11.25 / 29.85 / 86.44 / 
+7415 / P.T.O. II / 17.990000000000002 / 45.6 / 86.0 / 
+13050 / PGA European Tour / 7.16 / 15.3 / 21.580000000000002 / 
+13051 / PGA Tour 96 / 7.09 / 13.700000000000001 / 19.240000000000002 / 
+14313 / PGA Tour Golf / 2.72 / 11.290000000000001 / 36.53 / 
+7416 / Pac-Attack / 7.67 / 19.990000000000002 / 49.99 / 
+7041 / Pac-In-Time / 17.78 / 43.160000000000004 / 85.84 / 
+7043 / Pac-Man 2 The New Adventures / 5.08 / 11.05 / 24.990000000000002 / 
+7042 / Packy and Marlon / 56.17 / 95.0 / 130.89000000000001 / 
+7044 / Paladin's Quest / 24.87 / 61.46 / 174.95000000000002 / 
+7045 / Paperboy 2 / 7.53 / 17.06 / 45.9 / 
+7417 / Peace Keepers / 50.0 / 105.0 / 399.99 / 
+13052 / Pebble Beach Golf Links / 4.29 / 13.06 / 15.0 / 
+13053 / Phalanx / 21.51 / 56.980000000000004 / 112.34 / 
+7046 / Phantom 2040 / 10.63 / 52.0 / 79.03 / 
+7047 / Pieces / 25.740000000000002 / 66.4 / 236.70000000000002 / 
+7048 / Pilotwings / 8.01 / 22.990000000000002 / 78.66 / 
+7049 / Pinball Dreams / 6.0 / 15.64 / 24.67 / 
+7050 / Pinball Fantasies / 10.4 / 25.0 / 33.84 / 
+11859 / Pink Goes to Hollywood / 8.84 / 21.31 / 55.26 / 
+9556 / Pinocchio / 11.5 / 29.67 / 84.04 / 
+7051 / Pirates of Dark Water / 54.99 / 147.48 / 250.01000000000002 / 
+16051 / Pit-Fighter / 5.79 / 16.32 / 54.0 / 
+7421 / Pitfall Mayan Adventure / 4.6000000000000005 / 11.35 / 34.410000000000004 / 
+7052 / Plok / 15.0 / 52.410000000000004 / 95.0 / 
+13054 / Pocky & Rocky / 97.2 / 285.17 / 1574.88 / 
+7053 / Pocky and Rocky 2 / 285.61 / 850.0 / 1861.17 / 
+11953 / Populous / 4.68 / 15.17 / 27.53 / 
+7054 / Porky Pig's Haunted Holiday / 7.890000000000001 / 19.21 / 64.99 / 
+7055 / Power Instinct / 26.490000000000002 / 57.51 / 104.29 / 
+20081 / Power Moves / 7.18 / 22.650000000000002 / 28.990000000000002 / 
+7056 / Power Piggs of the Dark Age / 33.95 / 77.10000000000001 / 131.44 / 
+7423 / Power Rangers Fighting Edition / 18.26 / 66.66 / 87.37 / 
+7057 / Power Rangers Zeo Battle Racers / 7.24 / 21.25 / 44.49 / 
+13195 / Prehistorik Man / 25.16 / 81.5 / 167.8 / 
+7424 / Primal Rage / 8.52 / 25.45 / 59.06 / 
+10580 / Prince of Persia / 11.700000000000001 / 32.86 / 89.01 / 
+7058 / Prince of Persia 2 / 22.1 / 51.5 / 78.88 / 
+20082 / Pro Quarterback / 3.17 / 10.55 / 30.0 / 
+16213 / Pro Sport Hockey / 5.55 / 14.99 / 29.71 / 
+7060 / Push-Over / 11.94 / 26.02 / 72.12 / 
+7429 / Q*bert 3 / 16.55 / 40.34 / 108.37 / 
+7075 / R-Type III The Third Lightning / 115.16 / 287.5 / 654.14 / 
+7062 / Race Drivin / 5.04 / 23.01 / 68.12 / 
+14034 / Radical Psycho Machine RPM Racing / 5.42 / 16.98 / 39.82 / 
+7063 / Radical Rex / 13.06 / 36.0 / 82.23 / 
+7064 / Raiden Trad / 15.0 / 52.34 / 125.71000000000001 / 
+12542 / Rampart / 14.56 / 32.65 / 55.88 / 
+7065 / Ranma 1/2 Hard Battle / 11.49 / 50.0 / 191.74 / 
+7066 / RapJam Volume One / 6.87 / 19.95 / 34.15 / 
+7067 / Realm / 31.0 / 87.5 / 152.5 / 
+13056 / Redline F-1 Racer / 9.85 / 39.19 / 101.89 / 
+13057 / Relief Pitcher / 11.75 / 52.550000000000004 / 82.75 / 
+63893 / Return of Double Dragon / 3.15 / 8.5 / 22.1 / 
+7068 / Revolution X / 3.68 / 17.02 / 23.38 / 
+13058 / Rex Ronan Experimental Surgeon / 44.95 / 113.52 / 155.0 / 
+13821 / Riddick Bowe Boxing / 5.47 / 8.120000000000001 / 18.35 / 
+7069 / Rise of the Phoenix / 25.04 / 57.5 / 103.67 / 
+7434 / Rise of the Robots / 5.6000000000000005 / 12.96 / 34.02 / 
+7435 / Rival Turf / 11.950000000000001 / 38.51 / 99.52 / 
+14399 / Road Riot 4WD / 3.99 / 16.990000000000002 / 30.150000000000002 / 
+7070 / Road Runner's Death Valley Rally / 6.0 / 18.0 / 152.98 / 
+7071 / Robocop 3 / 9.85 / 36.69 / 60.0 / 
+7436 / Robocop vs The Terminator / 12.99 / 65.52 / 338.33 / 
+7072 / Robotrek / 45.5 / 125.39 / 310.09000000000003 / 
+13059 / Rock 'n Roll Racing / 34.87 / 75.37 / 206.12 / 
+7073 / Rocko's Modern Life / 18.490000000000002 / 54.0 / 119.4 / 
+13060 / Rocky Rodent / 14.21 / 41.04 / 74.95 / 
+17610 / Roger Clemens' MVP Baseball / 4.13 / 11.540000000000001 / 29.990000000000002 / 
+13061 / Romance of the Three Kingdoms II / 14.68 / 45.45 / 118.21000000000001 / 
+13062 / Romance of the Three Kingdoms III Dragon of Destiny / 17.94 / 31.0 / 156.33 / 
+7074 / Romance of the Three Kingdoms IV Wall of Fire / 16.25 / 30.560000000000002 / 78.25 / 
+7076 / Run Saber / 60.25 / 163.14000000000001 / 460.5 / 
+7093 / S.O.S. / 64.33 / 143.95000000000002 / 229.99 / 
+18519 / S.O.S: Sink or Swim / 66.01 / 129.69 / 169.83 / 
+14568 / SNES AV Cable / 0.0 / 0.0 / 0.0 / 
+7162 / SWAT Kats / 78.88 / 261.0 / 510.0 / 
+10439 / Samurai Shodown / 12.68 / 32.96 / 78.34 / 
+7077 / Saturday Night Slam Masters / 17.650000000000002 / 75.0 / 195.0 / 
+7078 / Scooby Doo Mystery / 4.21 / 17.97 / 48.69 / 
+7079 / Sea Quest DSV / 8.69 / 30.03 / 107.82000000000001 / 
+7080 / Secret of Evermore / 21.82 / 64.99 / 224.77 / 
+7081 / Secret of Mana / 34.5 / 107.5 / 1120.1000000000001 / 
+7082 / Separation Anxiety / 23.0 / 75.07000000000001 / 219.85 / 
+7083 / Shadowrun / 36.0 / 111.8 / 263.19 / 
+7084 / Shanghai II Dragon's Eye / 4.94 / 12.26 / 24.990000000000002 / 
+19763 / Shaq Fu / 6.0 / 19.95 / 49.0 / 
+7085 / Shien's Revenge / 54.92 / 153.39000000000001 / 200.11 / 
+7086 / Sid Meier's Civilization / 20.740000000000002 / 37.53 / 72.53 / 
+7087 / Side Pocket / 10.31 / 25.03 / 46.56 / 
+13063 / Sim Earth the Living Planet / 6.32 / 18.75 / 40.07 / 
+10840 / SimAnt / 18.55 / 42.87 / 137.24 / 
+7088 / SimCity / 8.05 / 19.990000000000002 / 51.97 / 
+12537 / SimCity 2000 / 16.740000000000002 / 43.34 / 200.65 / 
+42317 / SimCity [Player's Choice] / 7.2700000000000005 / 19.740000000000002 / 34.99 / 
+16234 / Skiing & Snowboarding: Tommy Moe's Winter Extreme / 4.0 / 14.950000000000001 / 23.23 / 
+7089 / Skuljagger / 10.06 / 33.92 / 97.77 / 
+7090 / Skyblazer / 64.52 / 143.93 / 170.63 / 
+7091 / Smartball / 7.98 / 22.12 / 79.98 / 
+13064 / Snow White in Happily Ever After / 20.3 / 73.35000000000001 / 129.05 / 
+7443 / Soldiers of Fortune / 14.56 / 39.99 / 111.08 / 
+13065 / Sonic Blast Man / 21.76 / 62.300000000000004 / 161.79 / 
+7092 / Sonic Blast Man 2 / 99.95 / 375.72 / 591.54 / 
+7094 / Soul Blazer / 60.0 / 149.95000000000002 / 642.75 / 
+13066 / Space Ace / 5.6000000000000005 / 23.0 / 80.44 / 
+14054 / Space Football / 7.25 / 14.950000000000001 / 37.0 / 
+7095 / Space Invaders / 7.8500000000000005 / 17.490000000000002 / 22.78 / 
+7096 / Space MegaForce / 139.86 / 281.13 / 738.63 / 
+7097 / Spanky's Quest / 17.990000000000002 / 48.65 / 114.21000000000001 / 
+7098 / Sparkster / 82.42 / 295.45 / 590.0 / 
+7099 / Spawn / 11.11 / 59.34 / 122.5 / 
+12966 / Spectre / 8.59 / 21.61 / 37.050000000000004 / 
+7100 / Speed Racer / 13.450000000000001 / 54.44 / 91.56 / 
+7101 / Speedy Gonzales Los Gatos Bandidos / 8.19 / 23.0 / 66.56 / 
+7446 / Spiderman / 11.73 / 42.910000000000004 / 149.99 / 
+7102 / Spiderman Maximum Carnage / 25.650000000000002 / 81.5 / 250.0 / 
+38649 / Spiderman Maximum Carnage Collector's Edition / 77.09 / 208.15 / 524.21 / 
+7103 / Spiderman X-Men Arcade's Revenge / 9.5 / 27.94 / 92.46000000000001 / 
+13067 / Spindizzy Worlds / 7.09 / 15.73 / 52.03 / 
+14872 / Sports Illustrated Championship Football & Baseball / 2.86 / 9.73 / 21.18 / 
+7106 / Star Fox / 9.67 / 34.300000000000004 / 57.99 / 
+14935 / Star Fox Super Weekend Competition / 1120.55 / 0.0 / 0.0 / 
+37535 / Star Fox [Not for Resale] / 99.0 / 0.0 / 0.0 / 
+7104 / Star Trek Deep Space Nine Crossroads of Time / 10.34 / 27.26 / 57.15 / 
+7105 / Star Trek Starfleet Academy / 9.63 / 21.06 / 55.0 / 
+10943 / Star Trek the Next Generation / 7.83 / 22.5 / 34.53 / 
+13068 / Stargate / 9.23 / 37.27 / 96.91 / 
+7107 / Steel Talons / 11.16 / 42.5 / 200.0 / 
+21631 / Sterling Sharpe: End 2 End / 9.03 / 13.48 / 50.84 / 
+7108 / Stone Protectors / 39.94 / 195.5 / 276.82 / 
+13069 / Street Combat / 5.24 / 24.990000000000002 / 38.050000000000004 / 
+7452 / Street Fighter Alpha 2 / 34.5 / 101.85000000000001 / 131.64000000000001 / 
+7453 / Street Fighter II / 8.36 / 30.810000000000002 / 209.18 / 
+7109 / Street Fighter II Turbo / 10.0 / 31.490000000000002 / 259.52 / 
+37537 / Street Fighter II Turbo [Not for Resale] / 79.97 / 0.0 / 0.0 / 
+42386 / Street Fighter II [30th Anniversary Edition] / 96.68 / 160.93 / 80.7 / 
+37536 / Street Fighter II [Not for Resale] / 73.5 / 0.0 / 0.0 / 
+13070 / Street Hockey 95 / 6.42 / 21.85 / 75.52 / 
+7110 / Street Racer / 24.990000000000002 / 52.56 / 202.0 / 
+7111 / Strike Gunner STG / 27.490000000000002 / 75.9 / 399.99 / 
+7454 / Stunt Race FX / 7.65 / 24.990000000000002 / 28.150000000000002 / 
+37538 / Stunt Race FX [Not for Resale] / 72.78 / 0.0 / 0.0 / 
+7112 / Sunset Riders / 57.5 / 243.12 / 517.73 / 
+19251 / Super 3D Noah's Ark / 81.19 / 190.48 / 175.0 / 
+33653 / Super Advantage Controller / 24.95 / 102.05 / 265.33 / 
+7113 / Super Adventure Island / 13.870000000000001 / 44.99 / 205.99 / 
+7114 / Super Adventure Island II / 58.95 / 207.5 / 171.4 / 
+7115 / Super Alfred Chicken / 6.37 / 23.0 / 28.64 / 
+7116 / Super Aquatic Games / 4.99 / 19.71 / 48.45 / 
+7117 / Super Baseball 2020 / 9.99 / 29.990000000000002 / 39.99 / 
+6852 / Super Baseball Simulator 1.000 / 6.24 / 8.22 / 21.38 / 
+7118 / Super Bases Loaded / 4.0 / 9.38 / 24.86 / 
+7119 / Super Bases Loaded 2 / 8.43 / 15.0 / 17.59 / 
+7120 / Super Bases Loaded 3 / 6.25 / 18.68 / 41.39 / 
+13071 / Super Batter Up / 5.8100000000000005 / 18.580000000000002 / 22.0 / 
+7122 / Super Battleship / 3.0 / 9.540000000000001 / 18.23 / 
+7123 / Super Battletank 2 / 4.8100000000000005 / 16.73 / 34.39 / 
+7459 / Super Battletank War in the Gulf / 3.06 / 7.55 / 35.29 / 
+7124 / Super Black Bass / 5.11 / 8.43 / 20.56 / 
+14547 / Super Bomberman / 25.490000000000002 / 166.39000000000001 / 449.79 / 
+7125 / Super Bomberman 2 / 21.28 / 60.46 / 107.97 / 
+34653 / Super Bomberman Party Pack / 81.8 / 235.0 / 556.89 / 
+7127 / Super Bonk / 44.72 / 156.75 / 249.99 / 
+7128 / Super Bowling / 7.47 / 18.72 / 48.67 / 
+7129 / Super Buster Bros. / 24.990000000000002 / 54.03 / 169.86 / 
+13818 / Super Caesar's Palace / 4.04 / 7.6000000000000005 / 14.99 / 
+7130 / Super Castlevania IV / 31.970000000000002 / 89.0 / 265.53000000000003 / 
+7131 / Super Chase HQ / 13.31 / 43.0 / 87.79 / 
+7132 / Super Conflict / 8.75 / 19.990000000000002 / 88.65 / 
+31345 / Super Copa / 165.0 / 313.26 / 2849.67 / 
+7133 / Super Double Dragon / 24.37 / 82.53 / 499.98 / 
+7460 / Super Gameboy / 16.56 / 39.99 / 158.88 / 
+65337 / Super Gameboy to Game Genie Adapter / 0.0 / 0.0 / 0.0 / 
+7134 / Super Ghouls 'N Ghosts / 15.65 / 58.76 / 233.6 / 
+7135 / Super Goal! 2 / 17.85 / 50.17 / 52.88 / 
+7461 / Super Godzilla / 8.47 / 29.990000000000002 / 55.0 / 
+7136 / Super High Impact / 2.67 / 9.84 / 23.05 / 
+7137 / Super James Pond / 6.49 / 23.740000000000002 / 61.730000000000004 / 
+7138 / Super Mario All-Stars / 12.86 / 49.47 / 275.0 / 
+42318 / Super Mario All-Stars [Player's Choice] / 14.39 / 36.63 / 98.33 / 
+9888 / Super Mario All-stars and Super Mario World / 19.69 / 55.0 / 151.6 / 
+7139 / Super Mario Kart / 20.77 / 46.96 / 194.1 / 
+42319 / Super Mario Kart [Player's Choice] / 18.95 / 48.08 / 193.82 / 
+7140 / Super Mario RPG / 40.230000000000004 / 139.99 / 388.15000000000003 / 
+7141 / Super Mario World / 10.33 / 224.63 / 423.44 / 
+7142 / Super Mario World 2 Yoshi's Island / 22.25 / 56.1 / 450.0 / 
+37541 / Super Mario World 2 Yoshi's Island [Not for Resale] / 75.88 / 0.0 / 0.0 / 
+42320 / Super Mario World [Player's Choice] / 18.56 / 99.99000000000001 / 674.13 / 
+7143 / Super Metroid / 36.0 / 130.0 / 338.0 / 
+42321 / Super Metroid [Player's Choice] / 36.42 / 84.37 / 430.0 / 
+7144 / Super Ninja Boy / 18.32 / 59.300000000000004 / 154.58 / 
+39954 / Super Nintendo Classic Edition / 49.050000000000004 / 77.0 / 101.25 / 
+9893 / Super Nintendo Controller / 8.96 / 52.07 / 122.5 / 
+40468 / Super Nintendo Donkey Kong System / 86.58 / 230.0 / 598.0 / 
+38571 / Super Nintendo Killer Instinct System / 65.46000000000001 / 279.58 / 574.76 / 
+52692 / Super Nintendo Mario All-Stars & Mario World System / 124.07000000000001 / 334.99 / 870.97 / 
+30877 / Super Nintendo Mouse / 12.06 / 30.0 / 79.42 / 
+38572 / Super Nintendo Super Set System / 66.87 / 159.75 / 454.72 / 
+7145 / Super Nintendo System / 38.27 / 124.25 / 764.23 / 
+7146 / Super Nova / 23.990000000000002 / 79.09 / 107.4 / 
+7147 / Super Off Road / 9.85 / 20.68 / 62.49 / 
+7148 / Super Off Road The Baja / 3.99 / 13.35 / 34.67 / 
+12547 / Super Pinball Behind the Mask / 3.31 / 9.99 / 18.490000000000002 / 
+14799 / Super Play Action Football / 2.93 / 7.99 / 21.04 / 
+7149 / Super Punch Out / 17.2 / 55.5 / 224.67000000000002 / 
+16261 / Super Putty / 6.49 / 23.39 / 52.88 / 
+7462 / Super R-Type / 10.03 / 35.71 / 80.0 / 
+7150 / Super RBI Baseball / 6.6000000000000005 / 19.990000000000002 / 25.51 / 
+44969 / Super Scope 6 / 7.97 / 63.300000000000004 / 169.0 / 
+19501 / Super Scope 6 [Gun Bundle] / 44.37 / 81.09 / 174.99 / 
+15666 / Super Slap Shot / 4.01 / 11.61 / 27.28 / 
+7463 / Super Smash TV / 21.830000000000002 / 57.21 / 95.73 / 
+7151 / Super Soccer / 6.46 / 19.77 / 55.56 / 
+33053 / Super Soccer Champ / 9.9 / 29.990000000000002 / 67.93 / 
+7152 / Super Solitaire / 6.01 / 14.31 / 20.95 / 
+7153 / Super Star Wars / 8.96 / 25.02 / 61.0 / 
+7154 / Super Star Wars Empire Strikes Back / 8.0 / 23.97 / 52.88 / 
+7155 / Super Star Wars Return of the Jedi / 9.950000000000001 / 29.97 / 80.76 / 
+42322 / Super Star Wars [Player's Choice] / 10.68 / 30.990000000000002 / 59.95 / 
+7156 / Super Street Fighter II / 13.0 / 33.93 / 99.99000000000001 / 
+7157 / Super Strike Eagle / 5.63 / 20.21 / 31.0 / 
+7158 / Super Tennis / 3.59 / 12.0 / 19.990000000000002 / 
+7159 / Super Troll Islands / 11.99 / 32.37 / 89.26 / 
+7464 / Super Turrican / 33.44 / 103.58 / 334.51 / 
+7160 / Super Turrican 2 / 225.0 / 545.0 / 1289.22 / 
+7161 / Super Valis IV / 32.0 / 88.43 / 522.05 / 
+13072 / Super Widget / 14.780000000000001 / 59.01 / 320.95 / 
+18544 / Suzuka 8 Hours / 7.99 / 20.93 / 32.5 / 
+63903 / Sydney Hunter and the Caverns of Death [Homebrew] / 5.88 / 15.38 / 45.0 / 
+7163 / Syndicate / 86.64 / 202.5 / 293.53000000000003 / 
+9923 / T2 The Arcade Game / 8.120000000000001 / 15.75 / 61.65 / 
+13073 / TKO Super Championship Boxing / 11.35 / 30.990000000000002 / 76.67 / 
+34777 / TNN Bass Tournament of Champions / 6.99 / 14.02 / 36.45 / 
+7164 / Taz-Mania / 4.5200000000000005 / 14.92 / 36.6 / 
+19254 / Tecmo Secret of the Stars / 33.980000000000004 / 105.06 / 459.99 / 
+13772 / Tecmo Super Baseball / 4.1 / 8.5 / 35.24 / 
+7466 / Tecmo Super Bowl / 9.35 / 19.56 / 81.96000000000001 / 
+7165 / Tecmo Super Bowl II Special Edition / 54.99 / 85.61 / 161.51 / 
+7166 / Tecmo Super Bowl III / 13.49 / 27.97 / 66.04 / 
+16381 / Tecmo Super NBA Basketball / 3.92 / 12.58 / 33.3 / 
+7168 / Teenage Mutant Ninja Turtles IV Turtles in Time / 39.75 / 190.0 / 799.95 / 
+37540 / Teenage Mutant Ninja Turtles IV Turtles in Time [Not for Resale] / 112.25 / 0.0 / 0.0 / 
+7169 / Teenage Mutant Ninja Turtles Tournament Fighters / 14.73 / 55.0 / 336.17 / 
+13074 / Terminator / 11.450000000000001 / 29.79 / 80.15 / 
+7467 / Terminator 2 Judgment Day / 7.99 / 27.32 / 71.03 / 
+31305 / Terranigma [English Reproduction] / 41.79 / 41.79 / 40.89 / 
+7170 / Tetris 2 / 7.18 / 14.25 / 29.73 / 
+42323 / Tetris 2 [Player's Choice] / 10.0 / 14.61 / 37.99 / 
+7172 / Tetris Attack / 9.65 / 23.580000000000002 / 67.0 / 
+37539 / Tetris Attack [Not for Resale] / 37.44 / 0.0 / 0.0 / 
+7171 / Tetris and Dr. Mario / 13.61 / 29.990000000000002 / 67.64 / 
+42324 / Tetris and Dr. Mario [Player's Choice] / 15.99 / 36.99 / 100.32000000000001 / 
+7173 / The 7th Saga / 15.01 / 49.99 / 467.59000000000003 / 
+7174 / The Addams Family / 11.64 / 29.76 / 91.97 / 
+7176 / The Adventures of Kid Kleets / 25.09 / 132.5 / 749.28 / 
+11860 / The Adventures of Rocky and Bullwinkle and Friends / 11.22 / 28.73 / 47.980000000000004 / 
+7179 / The Brainies / 21.89 / 58.9 / 116.95 / 
+7180 / The Combatribes / 22.73 / 73.98 / 160.56 / 
+7181 / The Death and Return of Superman / 29.95 / 105.0 / 282.28000000000003 / 
+7182 / The Duel Test Drive II / 16.86 / 35.57 / 92.49 / 
+7183 / The Flintstones Treasure of the Sierra Madrock / 49.120000000000005 / 141.35 / 367.1 / 
+7184 / The Great Circus Mystery Starring Mickey and Minnie / 14.39 / 35.67 / 92.74 / 
+7185 / The Great Waldo Search / 9.23 / 25.05 / 45.01 / 
+13075 / The Ignition Factor / 24.990000000000002 / 43.0 / 75.84 / 
+7187 / The Incredible Hulk / 11.0 / 30.990000000000002 / 175.0 / 
+7188 / The Itchy and Scratchy Game / 18.740000000000002 / 52.0 / 248.37 / 
+7189 / The Jetsons Invasion of the Planet Pirates / 61.11 / 165.0 / 429.95 / 
+7190 / The Jungle Book / 6.03 / 18.0 / 64.33 / 
+7191 / The Lion King / 11.040000000000001 / 24.87 / 99.99000000000001 / 
+7192 / The Lost Vikings / 23.87 / 49.06 / 165.06 / 
+13076 / The Mask / 33.13 / 163.96 / 142.5 / 
+7193 / The Pagemaster / 6.75 / 17.990000000000002 / 55.0 / 
+7195 / The Ren and Stimpy Show Buckeroos / 83.24 / 651.64 / 800.0 / 
+7196 / The Ren and Stimpy Show Fire Dogs / 27.67 / 95.0 / 975.01 / 
+7197 / The Ren and Stimpy Show Time Warp / 16.14 / 60.910000000000004 / 135.38 / 
+10467 / The Ren and Stimpy Show Veediots / 6.79 / 26.0 / 99.99000000000001 / 
+7198 / The Rocketeer / 5.0 / 19.03 / 79.99 / 
+9999 / The Simpsons Bart's Nightmare / 11.97 / 37.99 / 112.45 / 
+13077 / The Skins Game / 6.55 / 17.37 / 30.01 / 
+7199 / The Sporting News Baseball / 6.33 / 21.990000000000002 / 59.95 / 
+7200 / The Tick / 14.0 / 52.64 / 75.64 / 
+7201 / The Twisted Tales of Spike McFang / 83.46000000000001 / 203.38 / 428.22 / 
+7202 / The Untouchables / 9.07 / 22.5 / 67.0 / 
+7203 / Thomas the Tank Engine and Friends / 10.370000000000001 / 20.59 / 68.0 / 
+7204 / Thunder Spirits / 14.34 / 58.730000000000004 / 182.85 / 
+7205 / Time Cop / 30.34 / 90.45 / 206.27 / 
+7475 / Time Trax / 16.67 / 44.77 / 150.65 / 
+7476 / Timeslip / 14.35 / 38.980000000000004 / 80.01 / 
+7206 / Timon and Pumbaa Jungle Games / 4.43 / 13.75 / 42.12 / 
+12549 / Tinstar / 6.71 / 27.27 / 86.28 / 
+7207 / Tiny Toon Adventures Buster Busts Loose / 8.36 / 30.5 / 59.97 / 
+7209 / Tiny Toon Adventures Wacky Sports Challenge / 14.73 / 52.75 / 132.5 / 
+7210 / Tom and Jerry / 8.48 / 26.61 / 127.0 / 
+18700 / Tony Meola's Sidekicks Soccer / 5.48 / 15.75 / 40.97 / 
+7211 / Top Gear / 8.99 / 25.490000000000002 / 110.35000000000001 / 
+7212 / Top Gear 2 / 14.950000000000001 / 54.24 / 135.4 / 
+7213 / Top Gear 3000 / 33.730000000000004 / 83.38 / 210.17000000000002 / 
+7479 / Total Carnage / 10.89 / 42.7 / 111.01 / 
+7480 / Toy Story / 9.47 / 19.0 / 131.52 / 
+11965 / Toys / 3.74 / 12.98 / 24.98 / 
+13079 / Troddlers / 9.71 / 23.5 / 66.85 / 
+13880 / Troy Aikman NFL Football / 3.66 / 9.4 / 21.41 / 
+7214 / True Lies / 20.2 / 77.5 / 90.10000000000001 / 
+7215 / Turn and Burn No Fly Zone / 6.98 / 18.580000000000002 / 20.400000000000002 / 
+7222 / UN Squadron / 15.98 / 57.81 / 224.5 / 
+7216 / Ultima Runes of Virtue II / 21.92 / 50.0 / 97.78 / 
+7217 / Ultima The Black Gate / 46.72 / 97.2 / 432.12 / 
+7218 / Ultima The False Prophet / 13.99 / 29.98 / 90.69 / 
+7219 / Ultimate Fighter / 14.77 / 35.74 / 92.75 / 
+13691 / Ultimate Mortal Kombat 3 / 17.1 / 64.0 / 159.93 / 
+7221 / Ultraman / 6.0200000000000005 / 21.0 / 62.58 / 
+7223 / Uncharted Waters / 29.61 / 76.75 / 205.74 / 
+7025 / Uncharted Waters New Horizons / 31.69 / 90.11 / 140.01 / 
+50131 / Unholy Night: The Darkness Hunter [Homebrew] / 18.26 / 18.55 / 21.21 / 
+7224 / Uniracers / 11.86 / 34.78 / 122.5 / 
+7485 / Urban Strike / 8.19 / 22.990000000000002 / 29.650000000000002 / 
+7225 / Utopia The Creation of a Nation / 8.72 / 27.95 / 59.32 / 
+7226 / Vegas Stakes / 4.29 / 8.82 / 12.15 / 
+12540 / Virtual Bart / 20.01 / 54.11 / 169.08 / 
+13837 / Vortex / 6.76 / 24.740000000000002 / 59.370000000000005 / 
+7232 / WCW Superbrawl Wrestling / 16.830000000000002 / 53.63 / 139.44 / 
+7505 / WWF Raw / 8.6 / 23.740000000000002 / 116.51 / 
+7506 / WWF Royal Rumble / 8.84 / 19.25 / 59.39 / 
+7246 / WWF Super Wrestlemania / 5.51 / 12.34 / 45.910000000000004 / 
+7247 / WWF Wrestlemania Arcade Game / 8.01 / 24.87 / 52.17 / 
+12967 / Waialae Country Club / 2.5100000000000002 / 8.86 / 23.82 / 
+7227 / War 2410 / 38.38 / 98.14 / 89.53 / 
+7228 / War 3010 The Revolution / 20.54 / 41.28 / 54.99 / 
+7229 / Wario's Woods / 8.89 / 25.990000000000002 / 68.57000000000001 / 
+7230 / Warlock / 6.59 / 19.990000000000002 / 69.75 / 
+12545 / WarpSpeed / 10.32 / 31.02 / 70.19 / 
+16174 / Wayne Gretzky and the NHLPA All-Stars / 2.94 / 8.64 / 22.330000000000002 / 
+7231 / Wayne's World / 8.32 / 28.46 / 69.04 / 
+10841 / We're Back A Dinosaur Story / 3.41 / 18.01 / 73.04 / 
+7497 / WeaponLord / 16.61 / 34.99 / 139.99 / 
+13080 / Wheel of Fortune / 4.47 / 9.47 / 13.02 / 
+7233 / Wheel of Fortune Deluxe Edition / 3.2600000000000002 / 7.4 / 12.98 / 
+7235 / Where in Time is Carmen Sandiego / 9.99 / 40.44 / 68.13 / 
+7234 / Where in the World is Carmen Sandiego / 11.74 / 33.730000000000004 / 44.0 / 
+12546 / Whizz / 14.030000000000001 / 47.0 / 72.49 / 
+13081 / Wicked 18 / 8.34 / 21.55 / 56.08 / 
+7236 / Wild Guns / 186.67000000000002 / 588.76 / 850.0 / 
+7237 / WildSnake / 5.0600000000000005 / 12.26 / 23.990000000000002 / 
+13082 / Wildcats / 22.94 / 116.25 / 127.87 / 
+8518 / Williams Arcade's Greatest Hits / 7.3 / 9.6 / 31.810000000000002 / 
+7238 / Wing Commander / 6.47 / 13.59 / 49.97 / 
+7239 / Wing Commander Secret Missions / 8.57 / 27.490000000000002 / 77.9 / 
+7500 / Wings 2 Aces High / 5.4 / 12.47 / 35.0 / 
+13078 / Winter Olympic Games Lillehammer 94 / 3.5300000000000002 / 11.5 / 35.5 / 
+7240 / Wizard of Oz / 14.55 / 38.800000000000004 / 173.17000000000002 / 
+7241 / Wizardry V Heart of the Maelstrom / 9.97 / 27.23 / 91.51 / 
+15879 / Wolfchild / 13.46 / 32.410000000000004 / 77.0 / 
+7242 / Wolfenstein 3D / 25.48 / 60.0 / 213.69 / 
+7243 / Wolverine Adamantium Rage / 12.280000000000001 / 53.85 / 168.26 / 
+12552 / Wordtris / 5.39 / 11.53 / 29.98 / 
+7244 / World Cup USA '94 / 4.83 / 20.02 / 35.0 / 
+13083 / World Heroes / 8.120000000000001 / 24.37 / 78.0 / 
+7502 / World Heroes 2 / 11.870000000000001 / 39.99 / 139.22 / 
+18604 / World League Soccer / 4.72 / 9.36 / 35.0 / 
+7245 / World Soccer 94 Road to Glory / 22.97 / 130.37 / 338.96 / 
+39608 / X-Band Modem / 89.81 / 75.0 / 239.07 / 
+7507 / X-Kaliber 2097 / 15.08 / 34.49 / 85.5 / 
+7250 / X-Men Mutant Apocalypse / 10.83 / 34.22 / 122.42 / 
+7251 / X-Zone / 7.24 / 24.95 / 33.34 / 
+7249 / Xardion / 21.990000000000002 / 66.0 / 148.89000000000001 / 
+7252 / Yoshi's Cookie / 10.76 / 30.46 / 103.32000000000001 / 
+7509 / Yoshi's Safari / 8.870000000000001 / 25.0 / 93.76 / 
+7253 / Young Merlin / 9.89 / 30.86 / 116.52 / 
+10231 / Ys III Wanderers from Ys / 15.0 / 49.53 / 140.26 / 
+7254 / Zelda Link to the Past / 17.990000000000002 / 99.24000000000001 / 250.12 / 
+42315 / Zelda Link to the Past [Player's Choice] / 19.72 / 77.3 / 224.5 / 
+7255 / Zero the Kamikaze Squirrel / 130.0 / 550.0 / 896.72 / 
+7256 / Zombies Ate My Neighbors / 24.490000000000002 / 87.92 / 265.16 / 
+37945 / Zombies Ate My Neighbors [Box Variant] / 323.93 / 744.42 / 2202.7200000000003 / 
+13084 / Zool Ninja of the Nth Dimension / 8.950000000000001 / 31.490000000000002 / 149.99 / 
+7511 / Zoop / 2.87 / 10.28 / 15.74 / 
