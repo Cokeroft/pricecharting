@@ -33,6 +33,7 @@ def compare2(offset, console):
         f = open('prices/' + console + '/prices_' + str(date.strftime('%m-%d-%Y')) + '.txt', 'r')
     except IOError:
         print("That file does not exist!")
+        exit()
     contents = f.readlines()
     loose_price_list = []
     cib_price_list = []
@@ -51,3 +52,7 @@ def compare2(offset, console):
             new_price_list.append(new_price)
             game_id_list.append(code)
     return loose_price_list, cib_price_list, new_price_list, game_id_list
+
+#def compare_message(loose_price, cib_price, new_price):
+    #TODO - I'd like to take what is currently in get_specific_csv into here, so that I can take the numbers and
+    # do all the messaging here. Look into it someday

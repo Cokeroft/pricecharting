@@ -9,10 +9,10 @@ token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
 
 
 def main():
-    get_specific_csv()
+    get_any_csv()
 
 
-def get_specific_csv():
+def get_any_csv():
     date = datetime.datetime.today()
     console = input("Which console do you want to search for? ")
     console_dash = console.replace(" ", "-").lower()
@@ -22,9 +22,8 @@ def get_specific_csv():
         compare_days = int(compare_days)
         loose_price_list, cib_price_list, new_price_list, game_id_list = compare2(compare_days, console_dash)
 
+    get_prices_from_csv(console)
     counter = 0
-
-    #get_prices_from_csv(console)
 
     # Open the data file for the Console
     try:
@@ -38,6 +37,7 @@ def get_specific_csv():
 
     for x in contents:
         if prices_file.mode == 'r':
+            # Read the data file that we just created
             splitter = x.split("/")
             game_id = splitter[0].strip()
             name = splitter[1].replace(" ", "")
@@ -52,9 +52,8 @@ def get_specific_csv():
                 continue
             print("The item '" + name + "' is currently running " + str(loose_price) + " loose, "
                   + str(cib_price) + " complete, and " + str(new_price) + " brand new")
-            #price_list.append(loose_price)
-            #game_id_list.append(code)
 
+            # Run the compare function if the user wants to
             if compare_answer == "yes":
                 if game_id_list[counter].strip() != game_id:
                     print("Oops, looks like the game ID doesn't match!")
@@ -110,7 +109,6 @@ def get_specific_csv():
             else:
                 print()
 
-            #print(loose_price_list[counter], cib_price_list[counter], new_price_list[counter])
             counter += 1
 
 

@@ -1,4 +1,3 @@
-from get_prices_specific import get_prices_specific
 from get_prices_csv import get_prices_from_csv
 
 
@@ -19,4 +18,3 @@ def main():
 
 
 main()
-

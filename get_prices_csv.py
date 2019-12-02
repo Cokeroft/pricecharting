@@ -1,7 +1,9 @@
 import datetime
+import os
 
 import requests
 import csv
+import prices
 
 token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
 
@@ -38,6 +40,7 @@ def get_prices_from_csv(console):
         counter = str([x for x in my_list if console in x]).split(",")
 
         console_dash = console.replace(" ", "-").lower()
+        # os.chdir("C:
         prices_file = open('prices/' + console_dash + '/prices_' + str(date.strftime('%m-%d-%Y')) + '.txt', 'w')
         # Writing to the file
         for i in proper_list:
@@ -63,4 +66,4 @@ def get_prices_from_csv(console):
 
         prices_file.close()
 
-        print("Added " + str(game_id_counter) + " games and/or products!")
+        print("Added " + str(game_id_counter) + " games and/or products for " + console + "!")
