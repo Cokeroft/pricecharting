@@ -27,7 +27,7 @@ def get_any():
     # TODO - Need to add logic here to compare if the data is the same or not. If it is, get_data, if not, don't.
     counter = 0
 
-    # Open the data file for Virtual Boy
+    # Open the data file for the Console
     new_data_file = open('game_ids/' + console + '.txt', 'r+')
     contents = new_data_file.readlines()
     for x in contents:
@@ -52,7 +52,7 @@ def get_any():
 
         # Testing Offset Price Check
         if compare_answer == "yes":
-            price_list, game_id_list = compare(compare_days)
+            price_list, game_id_list = compare(compare_days, console_dash)
             if game_id_list[counter].strip(" ") != game_id:
                 print("Oops, looks like the game ID doesn't match!")
                 # IT WORKS
