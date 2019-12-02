@@ -10,7 +10,7 @@ def get_data(console):
     with requests.Session() as s:
         download = s.get(url, timeout=25)
 
-        decoded_content = download.content.decode('utf-8')
+        decoded_content = download.content.decode('ISO-8859-1')
 
         # This is reading the file, and converting to a list
         # Also, using quotechar to block the case where a comma is in the game title

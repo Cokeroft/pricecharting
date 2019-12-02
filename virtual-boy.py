@@ -50,7 +50,7 @@ def get_vb_all():
         # Logic paths for how the item has changed
         if difference > 0:
             print("and the old price was $" + str(round(old_price, 2)) + " a total difference of $"
-                + str(round(difference, 2)) + " and a % increase of " + str(round(percent_change, 2)) + "%!")
+                  + str(round(difference, 2)) + " and a % increase of " + str(round(percent_change, 2)) + "%!")
             print()
         elif difference == 0:
             print("and the old price was $" + str(round(old_price, 2)) +
@@ -58,7 +58,7 @@ def get_vb_all():
             print()
         elif difference < 0:
             print("and the old price was $" + str(round(old_price, 2)) + " a total difference of $"
-                + str(round(difference, 2)) + " and a % decrease of " + str(round(percent_change, 2)) + "%!")
+                  + str(round(difference, 2)) + " and a % decrease of " + str(round(percent_change, 2)) + "%!")
             print()
         counter += 1
 

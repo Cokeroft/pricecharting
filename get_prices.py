@@ -2,6 +2,7 @@ import requests
 
 token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
 
+# DEPRECATED - DO NOT USE
 
 def get_prices(prices_file, contents):
     game_id_list = []

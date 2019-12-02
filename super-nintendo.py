@@ -4,6 +4,7 @@ import datetime
 
 token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
 
+# DEPRECATED - DO NOT USE
 
 def main():
     # token = get_token()

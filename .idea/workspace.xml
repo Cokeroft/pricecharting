@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fe88c80-c773-4306-ac89-907e1c2136db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/get_prices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_prices_nintendo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_prices_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_specific_csv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/compare.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/get_any.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_any.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_prices.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_prices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_prices_nintendo.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_prices_nintendo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prices/gamecube/prices_11-09-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/gamecube/prices_11-09-2019.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/nes/prices_11-09-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/nes/prices_11-09-2019.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/nintendo-64/prices_11-09-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/nintendo-64/prices_11-09-2019.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/nintendo-switch/prices_11-09-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/nintendo-switch/prices_11-09-2019.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/super-nintendo/prices_11-09-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/super-nintendo/prices_11-09-2019.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/wii-u/prices_11-09-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/wii-u/prices_11-09-2019.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/wii/prices_11-09-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/wii/prices_11-09-2019.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-nintendo.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices/virtual-boy/prices_11-09-2019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prices/virtual-boy/prices_11-09-2019.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-nintendo.py" beforeDir="false" afterPath="$PROJECT_DIR$/super-nintendo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual-boy.py" beforeDir="false" afterPath="$PROJECT_DIR$/virtual-boy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,17 +22,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DockManager">
-    <window id="2">
+    <window id="1">
       <content type="file-editors">
         <state>
           <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/get_any.py">
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/virtual-boy.py">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="272">
-                    <caret line="61" column="36" selection-end-line="95" />
+                  <state relative-caret-position="438">
+                    <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
                     <folding>
                       <element signature="e#0#15#0" expanded="true" />
+                      <marker date="1575259750311" expanded="true" signature="2900:3068" ph="..." />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/get_any.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="580">
+                    <caret line="68" column="23" lean-forward="true" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+                    <folding>
+                      <element signature="e#0#15#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/get_prices_specific.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="432">
+                    <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+                    <folding>
+                      <element signature="e#0#15#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/compare.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="466">
+                    <caret line="35" selection-start-line="35" selection-end-line="35" />
+                    <folding>
+                      <marker date="1575261266819" expanded="true" signature="99:104" ph="..." />
                     </folding>
                   </state>
                 </provider>
@@ -50,38 +86,39 @@
         <counts>
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="get_prices_all" value="2" />
           <entry key="md" value="1" />
-          <entry key="py" value="34" />
+          <entry key="py" value="50" />
           <entry key="sh" value="2" />
-          <entry key="txt" value="59" />
+          <entry key="txt" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="34" />
+          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="Python" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="get_prices_all" value="178" />
           <entry key="md" value="393" />
-          <entry key="py" value="10369" />
-          <entry key="txt" value="168" />
+          <entry key="py" value="15201" />
+          <entry key="txt" value="180" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="393" />
-          <entry key="PLAIN_TEXT" value="346" />
-          <entry key="Python" value="10369" />
+          <entry key="PLAIN_TEXT" value="358" />
+          <entry key="Python" value="15201" />
         </counts>
       </usages-collector>
     </session>
@@ -89,23 +126,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/virtual-boy.py">
+        <entry file="file://$PROJECT_DIR$/get_prices_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="64" column="61" selection-start-line="64" selection-start-column="61" selection-end-line="64" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-                <marker date="1572913397253" expanded="true" signature="2896:3064" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_prices_specific.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="85">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -114,33 +138,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_specific_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1575264449562" expanded="true" signature="175:180" ph="..." />
+                <marker date="1575264449562" expanded="true" signature="224:225" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_11-09-2019.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_12-01-2019.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_prices_nintendo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <marker date="1573358225930" expanded="true" signature="65:66" ph="..." />
-                <marker date="1573358225930" expanded="true" signature="65:70" ph="..." />
+                <element signature="e#0#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_prices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-              <folding>
-                <marker date="1573352818951" expanded="true" signature="179:180" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game_ids/Virtual Boy.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -169,33 +207,35 @@
         <option value="$PROJECT_DIR$/game_ids/3DO.txt" />
         <option value="$PROJECT_DIR$/3do.py" />
         <option value="$PROJECT_DIR$/prices/virtual-boy/prices_09-29-2019.txt" />
-        <option value="$PROJECT_DIR$/super-nintendo.py" />
-        <option value="$PROJECT_DIR$/virtual-boy.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/prices/virtual-boy/prices_10-09-2019.txt" />
-        <option value="$PROJECT_DIR$/get_data.py" />
-        <option value="$PROJECT_DIR$/get_prices.py" />
         <option value="$PROJECT_DIR$/async_test.py" />
-        <option value="$PROJECT_DIR$/get_any.py" />
-        <option value="$PROJECT_DIR$/compare.py" />
         <option value="$PROJECT_DIR$/get_prices_all" />
         <option value="$PROJECT_DIR$/get_prices_specific.py" />
+        <option value="$PROJECT_DIR$/get_data.py" />
         <option value="$PROJECT_DIR$/get_prices_nintendo.py" />
+        <option value="$PROJECT_DIR$/get_prices.py" />
+        <option value="$PROJECT_DIR$/super-nintendo.py" />
+        <option value="$PROJECT_DIR$/get_any.py" />
+        <option value="$PROJECT_DIR$/get_prices_csv.py" />
+        <option value="$PROJECT_DIR$/virtual-boy.py" />
+        <option value="$PROJECT_DIR$/compare.py" />
+        <option value="$PROJECT_DIR$/prices/virtual-boy/prices_11-09-2019.txt" />
+        <option value="$PROJECT_DIR$/get_specific_csv.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-47" />
+    <option name="y" value="-18" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,10 +248,21 @@
               <item name="pricecharting" type="462c0819:PsiDirectoryNode" />
               <item name="prices" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pricecharting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pricecharting" type="462c0819:PsiDirectoryNode" />
+              <item name="prices" type="462c0819:PsiDirectoryNode" />
+              <item name="virtual-boy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pricecharting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,28 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get_prices_nintendo">
-    <configuration name="async_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pricecharting" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/async_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.get_specific_csv">
     <configuration name="get_any" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pricecharting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,6 +304,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_any.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_prices_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pricecharting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_prices_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +375,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="virtual-boy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_specific_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pricecharting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,7 +387,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/virtual-boy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_specific_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,19 +397,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.virtual-boy" />
       <item itemvalue="Python.get_any" />
-      <item itemvalue="Python.async_test" />
       <item itemvalue="Python.get_prices_specific" />
       <item itemvalue="Python.get_prices_nintendo" />
+      <item itemvalue="Python.get_prices_csv" />
+      <item itemvalue="Python.get_specific_csv" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_specific_csv" />
         <item itemvalue="Python.get_prices_nintendo" />
+        <item itemvalue="Python.get_prices_csv" />
         <item itemvalue="Python.get_prices_specific" />
         <item itemvalue="Python.get_any" />
-        <item itemvalue="Python.async_test" />
-        <item itemvalue="Python.virtual-boy" />
       </list>
     </recent_temporary>
   </component>
@@ -402,24 +453,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game_ids/3DO.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game_ids/NES.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prices/3do/prices_10-29-2019.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="121" column="47" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -434,13 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/super-nintendo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="100" column="10" lean-forward="true" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -485,16 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_11-08-2019.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="527" selection-start-line="527" selection-end-line="527" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_10-09-2019.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -521,9 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3262" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game_ids/Virtual Boy.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/game_ids/Wii.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -555,27 +572,11 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/async_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="37" selection-end-line="19" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/async_test.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/tokenize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="456" column="23" lean-forward="true" selection-start-line="456" selection-start-column="23" selection-end-line="456" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <marker date="1573354487129" expanded="true" signature="90:95" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -586,61 +587,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/virtual-boy.py">
+    <entry file="file://$PROJECT_DIR$/super-nintendo.sh" />
+    <entry file="file://$PROJECT_DIR$/get_prices_all" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/adapters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="64" column="61" selection-start-line="64" selection-start-column="61" selection-end-line="64" selection-end-column="61" />
+        <state relative-caret-position="370">
+          <caret line="494" selection-start-line="494" selection-end-line="494" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/gameboy-advance/prices_11-10-2019.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_ids/3DO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/3do/prices_10-29-2019.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="121" column="47" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/3do/prices_12-01-2019.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="35" column="78" lean-forward="true" selection-start-line="35" selection-start-column="78" selection-end-line="35" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_ids/Virtual Boy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/gameboy/prices_11-10-2019.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/gameboy/prices_12-01-2019.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pricecharting_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1572913397253" expanded="true" signature="2896:3064" ph="..." />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/super-nintendo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/get_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/super-nintendo.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_prices_all">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_any.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="61" column="36" selection-end-line="95" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_prices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-          <folding>
-            <marker date="1573352818951" expanded="true" signature="179:180" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_prices_specific.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        <state relative-caret-position="-106">
+          <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -649,11 +658,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_prices_nintendo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <marker date="1573358225930" expanded="true" signature="65:66" ph="..." />
-            <marker date="1573358225930" expanded="true" signature="65:70" ph="..." />
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_prices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+          <folding>
+            <marker date="1575257667271" expanded="true" signature="205:206" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_11-08-2019.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/virtual-boy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1575259750311" expanded="true" signature="2900:3068" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_prices_specific.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_any.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="68" column="23" lean-forward="true" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1575261266819" expanded="true" signature="99:104" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_prices_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_11-09-2019.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/virtual-boy/prices_12-01-2019.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_specific_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1575264449562" expanded="true" signature="175:180" ph="..." />
+            <marker date="1575264449562" expanded="true" signature="224:225" ph="..." />
           </folding>
         </state>
       </provider>
