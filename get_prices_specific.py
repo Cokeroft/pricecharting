@@ -3,6 +3,7 @@ import datetime
 
 from get_data import get_data
 
+# DEPRECATED - DO NOT USE
 
 token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
 

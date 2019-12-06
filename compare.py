@@ -15,7 +15,7 @@ def compare(offset, console):
     game_id_list = []
     for x in contents:
         if f.mode == 'r':
-            splitter = x.split("/")
+            splitter = x.split("//")
             code = splitter[0]
             name = splitter[1]
             loose_price = splitter[2]
@@ -41,7 +41,7 @@ def compare2(offset, console):
     game_id_list = []
     for x in contents:
         if f.mode == 'r':
-            splitter = x.split("/")
+            splitter = x.split("//")
             code = splitter[0].strip()
             name = splitter[1]
             loose_price = splitter[2].replace("$", "").strip()

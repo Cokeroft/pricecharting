@@ -38,7 +38,7 @@ def get_any_csv():
     for x in contents:
         if prices_file.mode == 'r':
             # Read the data file that we just created
-            splitter = x.split("/")
+            splitter = x.split("//")
             game_id = splitter[0].strip()
             name = splitter[1].replace(" ", "")
             loose_price = splitter[2].replace(" ", "")
@@ -60,6 +60,8 @@ def get_any_csv():
                     counter += 1
                     continue
 
+                # TODO - Fix bug where if the title has a slash in it, it breaks my shit. Maybe change split to be like /\?
+                # The title breaking is Ranma 1/2 Hard Battle
                 difference_loose = float(loose_price.replace("$", "")) - float(loose_price_list[counter])
                 difference_cib = float(cib_price.replace("$", "")) - float(cib_price_list[counter])
                 difference_new = float(new_price.replace("$", "")) - float(new_price_list[counter])
@@ -74,7 +76,7 @@ def get_any_csv():
 
                 print("The old prices were: ")
 
-                if difference_loose > 0 or difference_cib > 0 or difference_new > 0:
+                if difference_loose > 0:
                     print("    Loose: $" + old_price_loose + " a total difference of $" + str(round(difference_loose, 2))
                           + " and a % increase of " + str(round(percent_change_loose, 2)) + "%!")
                 elif difference_loose == 0:
