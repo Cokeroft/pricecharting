@@ -40,7 +40,6 @@ def get_prices_from_csv(console):
         counter = str([x for x in my_list if console in x]).split(",")
 
         console_dash = console.replace(" ", "-").lower()
-        # os.chdir("C:
         prices_file = open('prices/' + console_dash + '/prices_' + str(date.strftime('%m-%d-%Y')) + '.txt', 'w')
         # Writing to the file
         for i in proper_list:
@@ -51,8 +50,8 @@ def get_prices_from_csv(console):
             loose_price = counter[loose_price_counters].replace("'", "")
             complete_price = counter[complete_price_counters].replace("'", "")
             new_price = counter[new_price_counters].replace("'", "")
-            prices_file.write(game_id + " / " + product_name + " / " + str(loose_price) + " / " + str(complete_price)
-                               + " / " + str(new_price) + " / " + "\n")
+            prices_file.write(game_id + " // " + product_name + " // " + str(loose_price) + " // " + str(complete_price)
+                              + " // " + str(new_price) + " // " + "\n")
 
             # This print is not needed, but will keep for debugging
             # print("Added Game ID " + counter[counters] + "]")
