@@ -20,7 +20,11 @@ def get_any_csv():
     if compare_answer == "yes":
         compare_days = input("And how many days ago do you want to compare against? ")
         compare_days = int(compare_days)
-        loose_price_list, cib_price_list, new_price_list, game_id_list = compare2(compare_days, console_dash)
+        try:
+            loose_price_list, cib_price_list, new_price_list, game_id_list = compare2(compare_days, console_dash)
+        except IOError:
+            print("That data does not exist, try another date!")
+            exit()
 
     get_prices_from_csv(console)
     counter = 0
@@ -40,7 +44,7 @@ def get_any_csv():
             # Read the data file that we just created
             splitter = x.split("//")
             game_id = splitter[0].strip()
-            name = splitter[1].replace(" ", "")
+            name = splitter[1].strip()
             loose_price = splitter[2].replace(" ", "")
             cib_price = splitter[3].replace(" ", "")
             new_price = splitter[4].replace(" ", "")
