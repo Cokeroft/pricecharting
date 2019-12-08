@@ -1,9 +1,7 @@
 import datetime
-import os
 
 import requests
 import csv
-import prices
 
 token = 'fca399e16c6c124270a7f737ce533a54ca9141ea'
 
@@ -50,6 +48,20 @@ def get_prices_from_csv(console):
             loose_price = counter[loose_price_counters].replace("'", "")
             complete_price = counter[complete_price_counters].replace("'", "")
             new_price = counter[new_price_counters].replace("'", "")
+            # Handle the case where the title has commas in it
+            if length > 12:
+                offset = length - 12
+                num = 0
+                product_name_list = []
+                while num <= offset:
+                    product_name_list.append(counter[name_counters + num])
+                    num += 1
+                separator = ", "
+                product_name = separator.join(product_name_list).strip().replace('"', "")\
+                    .replace("'", "").replace("   ", " ")
+                loose_price = counter[loose_price_counters + offset].replace("'", "")
+                complete_price = counter[complete_price_counters + offset].replace("'", "")
+                new_price = counter[new_price_counters + offset].replace("'", "")
             prices_file.write(game_id + " // " + product_name + " // " + str(loose_price) + " // " + str(complete_price)
                               + " // " + str(new_price) + " // " + "\n")
 

@@ -18,8 +18,8 @@ def get_any_csv():
     console_dash = console.replace(" ", "-").lower()
     compare_answer = input("Do you want to also compare the prices? ").lower()
     if compare_answer == "yes":
-        compare_days = input("And how many days ago do you want to compare against? ")
-        compare_days = int(compare_days)
+        compare_days_str = input("And how many days ago do you want to compare against? ")
+        compare_days = int(compare_days_str)
         try:
             loose_price_list, cib_price_list, new_price_list, game_id_list = compare2(compare_days, console_dash)
         except IOError:
@@ -28,6 +28,9 @@ def get_any_csv():
 
     get_prices_from_csv(console)
     counter = 0
+    difference_gain_loose = 0
+    difference_gain_cib = 0
+    difference_gain_new = 0
 
     # Open the data file for the Console
     try:
@@ -64,8 +67,6 @@ def get_any_csv():
                     counter += 1
                     continue
 
-                # TODO - Fix bug where if the title has a slash in it, it breaks my shit. Maybe change split to be like /\?
-                # The title breaking is Ranma 1/2 Hard Battle
                 difference_loose = float(loose_price.replace("$", "")) - float(loose_price_list[counter])
                 difference_cib = float(cib_price.replace("$", "")) - float(cib_price_list[counter])
                 difference_new = float(new_price.replace("$", "")) - float(new_price_list[counter])
@@ -77,6 +78,18 @@ def get_any_csv():
                 percent_change_loose = get_change(float(loose_price.replace("$", "")), float(old_price_loose))
                 percent_change_cib = get_change(float(cib_price.replace("$", "")), float(old_price_cib))
                 percent_change_new = get_change(float(new_price.replace("$", "")), float(old_price_new))
+
+                if percent_change_loose > difference_gain_loose:
+                    difference_gain_loose = percent_change_loose
+                    difference_name_loose = name
+
+                if percent_change_cib > difference_gain_cib:
+                    difference_gain_cib = percent_change_cib
+                    difference_name_cib = name
+
+                if percent_change_new > difference_gain_new:
+                    difference_gain_new = percent_change_new
+                    difference_name_new = name
 
                 print("The old prices were: ")
 
@@ -117,10 +130,29 @@ def get_any_csv():
 
             counter += 1
 
+    if compare_answer == "yes":
+        if difference_gain_loose > 0:
+            print("The biggest loose gainer in value was " + difference_name_loose + " which increased by a whopping " +
+                  str(round(difference_gain_loose, 2)) + "%! You should've bought it " + compare_days_str + " days ago!")
+        else:
+            print("No games gained value in loose!")
+
+        if difference_gain_cib > 0:
+                print("The biggest complete gainer in value was " + difference_name_cib + " which increased by a whopping "
+                      + str(round(difference_gain_cib, 2)) + "%! You should've bought it " + compare_days_str + " days ago!")
+        else:
+            print("No games gained value in complete!")
+
+        if difference_gain_new > 0:
+            print("The biggest new gainer in value was " + difference_name_new + " which increased by a whopping " +
+                  str(round(difference_gain_new)) + "%! You should've bought it " + compare_days_str + " days ago!")
+        else:
+            print("No games gained value in new!")
+
 
 def get_change(current, previous):
     if current == previous:
-        return 100.0
+        return 0
     try:
         return (abs(current - previous) / previous) * 100.0
     except ZeroDivisionError:
