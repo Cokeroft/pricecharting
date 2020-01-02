@@ -62,8 +62,22 @@ def get_any_csv():
 
             # Run the compare function if the user wants to
             if compare_answer == "yes":
-                if game_id_list[counter].strip() != game_id:
-                    print("Oops, looks like the game ID doesn't match!")
+                try:
+                    if game_id_list[counter].strip() != game_id:
+                        # TODO - Need to fix the case where if list has 1400 entries, then one is added or removed, it stops working
+                        # Maybe good solution is to compare lengths before doing the compare?
+                        # Or best solution is to do it line by line, see if the compare title is the same
+                        print("Oops, looks like the game ID doesn't match!")
+                        print()
+                        # counter += 1
+                        continue
+                except IndexError:
+                    print("Oops you've hit the end of the file, RIP!")
+                    exit()
+
+                if loose_price_list[counter] == "" or cib_price_list[counter] == "" or new_price_list[counter] == "":
+                    print("The item '" + name + "' is missing some compare data!")
+                    print()
                     counter += 1
                     continue
 
