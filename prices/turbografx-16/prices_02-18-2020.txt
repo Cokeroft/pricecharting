@@ -1,0 +1,159 @@
+14490 //  Aero Blasters //  $50.64 //  $70.00 //  $256.59 // 
+32782 //  Ai: Cho Aniki [Super CD] //  $26.05 //  $56.76 //  $113.52 // 
+12043 //  Air Zonk //  $115.00 //  $274.99 //  $695.00 // 
+12044 //  Alien Crush //  $25.55 //  $32.80 //  $76.00 // 
+14491 //  Andre Panza Kick Boxing //  $17.08 //  $20.99 //  $69.23 // 
+68009 //  Atlantean //   //  $89.95 //   // 
+14492 //  Ballistix //  $30.42 //  $59.14 //  $74.00 // 
+14493 //  Battle Royale //  $15.77 //  $25.49 //  $62.82 // 
+32783 //  Beyond Shadowgate [Super CD] //  $220.92 //  $449.99 //  $899.98 // 
+12046 //  Blazing Lazers //  $39.98 //  $53.64 //  $103.77 // 
+12047 //  Bloody Wolf //  $35.25 //  $48.85 //  $223.86 // 
+14494 //  Bomberman //  $49.80 //  $67.90 //  $184.86 // 
+12048 //  Bomberman 93 //  $99.99 //  $179.99 //  $302.08 // 
+12049 //  "Bonk 1 Bonks Adventure" //  $35.09 //  $40.84 //  $145.19 // 
+12050 //  "Bonk 2 Bonks Revenge" //  $45.96 //  $58.08 //  $107.42 // 
+12051 //  "Bonk 3 Bonks Big Adventure" //  $241.08 //  $523.71 //  $1032.55 // 
+32763 //  "Bonk 3 Bonks Big Adventure [Super CD]" //  $220.82 //  $969.49 //  $1938.98 // 
+14495 //  Boxyboy //  $26.63 //  $34.23 //  $208.06 // 
+12052 //  Bravoman //  $25.61 //  $37.45 //  $51.22 // 
+32775 //  Buster Bros [Super CD] //  $35.00 //  $54.00 //  $54.00 // 
+18628 //  Cadash //  $83.22 //  $119.94 //  $450.00 // 
+32785 //  Camp California [Super CD] //  $113.61 //  $177.58 //  $355.16 // 
+59723 //  Carrying Case //   //   //   // 
+32773 //  Castlevania X: Rondo of Blood [Super CD] //  $151.31 //  $175.25 //  $350.50 // 
+14496 //  Champions Forever Boxing //  $16.79 //  $29.20 //  $89.96 // 
+14497 //  Chase HQ //  $94.05 //  $171.05 //  $344.53 // 
+12053 //  Chew Man Fu //  $62.50 //  $87.98 //  $177.13 // 
+12054 //  China Warrior //  $15.45 //  $21.82 //  $63.74 // 
+18629 //  Cosmic Fantasy 2 [Super CD] //  $48.63 //  $57.50 //  $88.59 // 
+32787 //  Cotton: Fantastic Night Dreams [Super CD] //  $183.30 //  $400.00 //  $543.33 // 
+12055 //  Cratermaze //  $17.50 //  $39.97 //  $78.75 // 
+14498 //  Cybercore //  $40.00 //  $49.61 //  $89.95 // 
+32769 //  Darius Alpha [Japan] //  $780.69 //  $1553.42 //  $3106.84 // 
+14499 //  Darkwing Duck //  $94.67 //  $132.25 //  $202.50 // 
+14500 //  Davis Cup Tennis //  $15.00 //  $24.48 //  $25.59 // 
+12056 //  Dead Moon //  $70.13 //  $159.35 //  $181.47 // 
+14501 //  Deep Blue //  $32.18 //  $49.16 //  $52.00 // 
+12057 //  "Devils Crush" //  $66.09 //  $74.57 //  $174.99 // 
+12058 //  Double Dungeons //  $22.74 //  $32.99 //  $129.00 // 
+32766 //  Dragon Slayer: The Legend of Heroes [Super CD] //  $128.09 //  $151.14 //  $296.96 // 
+12059 //  Dragon Spirit //  $27.82 //  $39.35 //  $80.50 // 
+12060 //  "Dragons Curse" //  $77.51 //  $139.45 //  $304.96 // 
+12061 //  Drop Off //  $24.55 //  $35.98 //  $69.99 // 
+12062 //  Dungeon Explorer //  $25.68 //  $31.23 //  $104.46 // 
+32778 //  Dungeon Explorer II [Super CD] //  $219.66 //  $262.48 //  $988.47 // 
+32774 //  "Dungeon Master: Therons Quest [Super CD]" //  $56.35 //  $64.01 //  $125.82 // 
+12063 //  Dynastic Hero [Super CD] //  $525.42 //  $1199.99 //  $2364.39 // 
+14440 //  Exile Wicked Phenomenon [Super CD] //  $100.75 //  $199.95 //  $260.50 // 
+14855 //  Exile [Super CD] //  $58.77 //  $68.56 //  $129.96 // 
+14503 //  Falcon //  $18.52 //  $38.51 //  $46.25 // 
+14504 //  Fantasy Zone //  $33.02 //  $41.25 //  $61.42 // 
+18560 //  Fighting Street [Super CD] //  $29.96 //  $47.45 //  $51.51 // 
+14505 //  Final Lap Twin //  $12.28 //  $20.24 //  $45.11 // 
+32772 //  Final Zone II [Super CD] //  $49.96 //  $52.90 //  $105.60 // 
+18697 //  Forgotten Worlds [Super CD] //  $90.00 //  $126.42 //  $151.99 // 
+12064 //  Galaga 90 //  $21.00 //  $33.99 //  $65.34 // 
+12065 //  Gate of Thunder //  $81.41 //  $123.14 //  $123.92 // 
+63944 // Gate of thunder, Bonks Adventure, Bonk\s Revenge //  $59.09 //  $129.99 //  $259.98 // 
+14506 //  Ghost Manor //  $65.39 //  $135.99 //  $167.50 // 
+32788 //  Godzilla [Super CD] //  $190.00 //  $285.31 //  $299.95 // 
+14507 //  Gunboat //  $28.48 //  $34.76 //  $56.95 // 
+14137 //  Hit the Ice //  $23.48 //  $38.21 //  $68.45 // 
+20385 //  Impossamole //  $27.06 //  $40.11 //  $78.48 // 
+18578 //  It Came From The Desert [Super CD] //  $30.01 //  $42.22 //  $70.82 // 
+32784 //  J.B. Harold Murder Club [Super CD] //  $39.37 //  $56.45 //  $111.34 // 
+12066 //  JJ & Jeff //  $20.36 //  $34.81 //  $69.75 // 
+14508 //  Jack Nicklaus Turbo Golf //  $15.24 //  $16.95 //  $169.99 // 
+38573 //  Jack Nicklaus Turbo Golf [Super CD] //  $39.30 //  $89.99 //  $179.61 // 
+14509 //  "Jackie Chans Action Kung Fu" //  $109.11 //  $146.80 //  $274.99 // 
+18541 //  John Madden Duo CD Football [Super CD] //  $27.59 //  $62.13 //  $62.23 // 
+14510 //  Keith Courage in Alpha Zones //  $8.63 //  $13.12 //  $22.37 // 
+14511 //  King Of Casino //  $11.67 //  $15.62 //  $79.01 // 
+14512 //  Klax //  $14.91 //  $24.05 //  $90.00 // 
+32776 //  Last Alert [Super CD] //  $80.42 //  $89.99 //  $216.99 // 
+14513 //  Legend of Hero Tonma //  $496.24 //  $875.00 //  $1414.61 // 
+14514 //  Legendary Axe //  $27.18 //  $37.97 //  $125.00 // 
+14515 //  Legendary Axe II //  $37.96 //  $49.98 //  $100.00 // 
+32765 //  Loom [CD] //  $52.11 //  $70.50 //  $137.50 // 
+32770 //  Lords of Thunder [Super CD] //  $97.09 //  $139.95 //  $213.22 // 
+32781 //  Lords of the Rising Sun [Super CD] //  $32.98 //  $38.53 //  $113.85 // 
+14516 //  Magical Chase //  $2356.85 //  $5211.39 //  $10602.23 // 
+18695 //  Magical Dinosaur Tour //  $22.64 //  $35.17 //  $89.76 // 
+32764 //  Might and Magic III: Isles of Terra [Super CD] //  $228.46 //  $229.27 //  $858.00 // 
+12067 //  Military Madness //  $36.88 //  $51.99 //  $103.98 // 
+12068 //  Monster Lair [Super CD] //  $40.21 //  $53.72 //  $60.65 // 
+12069 //  Moto Roader //  $17.99 //  $29.95 //  $58.50 // 
+12070 //  Neutopia //  $54.99 //  $84.97 //  $155.00 // 
+12071 //  Neutopia II //  $131.27 //  $186.94 //  $317.33 // 
+12072 //  New Adventure Island //  $92.19 //  $142.51 //  $285.02 // 
+14517 //  Night Creatures //  $41.43 //  $64.95 //  $73.78 // 
+12073 //  Ninja Spirit //  $38.44 //  $49.99 //  $127.11 // 
+14518 //  Order of the Griffon //  $54.44 //  $140.79 //  $364.50 // 
+12074 //  Ordyne //  $35.99 //  $59.99 //  $106.87 // 
+14519 //  Pac-Land //  $16.84 //  $21.49 //  $47.45 // 
+14520 //  Parasol Stars //  $85.39 //  $93.28 //  $290.75 // 
+12075 //  Power Golf //  $8.97 //  $13.12 //  $29.99 // 
+18624 //  Prince of Persia [Super CD] //  $37.08 //  $48.40 //  $49.99 // 
+14521 //  Psychosis //  $58.64 //  $77.61 //  $314.99 // 
+12077 //  R-Type //  $41.77 //  $54.25 //  $149.95 // 
+14522 //  Raiden //  $63.19 //  $110.00 //  $690.15 // 
+12076 //  Riot Zone //  $87.32 //  $94.89 //  $104.22 // 
+12078 //  Samurai Ghost //  $70.01 //  $165.37 //  $296.74 // 
+32771 //  Shadow of the Beast [Super CD] //  $48.95 //  $59.99 //  $70.46 // 
+18696 //  Shape Shifter [Super CD] //  $43.25 //  $58.35 //  $75.99 // 
+32780 //  Sherlock Holmes: Consulting Detective Volume II [Super CD] //  $39.99 //  $39.99 //  $48.00 // 
+32779 //  Sherlock Holmes: Consulting Detective [Super CD] //  $14.01 //  $19.94 //  $35.85 // 
+12079 //  Shockman //  $81.95 //  $211.81 //  $268.71 // 
+14523 //  Side Arms //  $25.00 //  $32.00 //  $73.59 // 
+12080 //  Silent Debuggers //  $26.01 //  $46.71 //  $59.95 // 
+37931 //  Sim Earth the Living Planet [Super CD] //  $34.47 //  $34.77 //  $51.00 // 
+14253 //  Sinistron //  $42.00 //  $64.96 //  $210.05 // 
+14524 //  Snatcher //  $14.99 //  $19.99 //  $65.44 // 
+12081 //  Soldier Blade //  $180.75 //  $258.95 //  $826.74 // 
+14525 //  Somer Assault //  $65.16 //  $123.78 //  $261.54 // 
+14526 //  Sonic Spike Volleyball //  $13.91 //  $20.34 //  $34.47 // 
+32790 //  Sorcerian [Super CD] //   //   //   // 
+14527 //  Space Harrier //  $29.98 //  $49.97 //  $128.42 // 
+18623 //  Splash Lake [Super CD] //  $23.24 //  $31.45 //  $42.66 // 
+12082 //  Splatterhouse //  $64.00 //  $90.00 //  $193.52 // 
+12083 //  Super Air Zonk [Super CD] //  $436.63 //  $915.90 //  $1831.80 // 
+12084 //  Super Star Soldier //  $76.49 //  $106.17 //  $149.98 // 
+14528 //  Super Volleyball //  $11.72 //  $22.96 //  $29.99 // 
+32786 //  "Syd Meads Terraforming [Super CD]" //  $594.59 //  $1398.23 //  $2642.04 // 
+14536 //  TV Sports Basketball //  $8.99 //  $12.99 //  $20.65 // 
+14537 //  TV Sports Football //  $6.84 //  $10.24 //  $27.86 // 
+14538 //  TV Sports Hockey //  $9.99 //  $14.04 //  $30.00 // 
+14529 //  "Takin it to the Hoop" //  $9.49 //  $10.99 //  $20.49 // 
+14530 //  TaleSpin //  $33.31 //  $37.64 //  $84.95 // 
+21781 //  The Addams Family [Super CD] //  $25.00 //  $46.31 //  $75.53 // 
+33635 //  The Local Girls of Hawaii //  $109.99 //  $132.45 //  $264.90 // 
+14531 //  Tiger Road //  $35.25 //  $49.13 //  $94.33 // 
+14532 //  Time Cruise //  $41.90 //  $78.00 //  $127.51 // 
+14533 //  Timeball //  $19.09 //  $37.34 //  $100.00 // 
+33201 //  Toilet Kids [Japan] //  $69.99 //  $154.31 //  $314.30 // 
+14534 //  Tricky Kick //  $14.80 //  $22.00 //  $61.57 // 
+60974 //  Turbo Booster //  $143.03 //  $169.99 //  $629.78 // 
+50117 //  Turbo Stick //   //   //   // 
+50116 //  Turbo Tap //  $24.11 //  $37.50 //  $40.00 // 
+32768 //  TurboDuo Console //  $526.53 //  $1219.61 //  $2383.18 // 
+31632 //  TurboExpress //  $279.22 //  $377.04 //  $403.11 // 
+55787 //  TurboExpress Car Adapter //   //   //   // 
+33818 //  TurboGrafx-16 CD System //  $200.00 //  $440.00 //  $899.45 // 
+19984 //  TurboGrafx-16 System //  $120.72 //  $225.00 //  $637.47 // 
+40415 //  Turbografx-16 Controller //  $32.86 //  $72.00 //  $144.00 // 
+14535 //  Turrican //  $44.60 //  $69.99 //  $200.62 // 
+19538 //  Valis II [Super CD] //  $51.59 //  $66.87 //  $300.25 // 
+18658 //  Valis III [Super CD] //  $88.75 //  $96.72 //  $101.23 // 
+19537 //  Valis: The Fantasm Soldier [Super CD] //  $32.18 //  $34.99 //  $69.97 // 
+32789 //  Vasteel II [Super CD] //   //   //   // 
+32777 //  Vasteel [Super CD] //  $95.35 //  $133.52 //  $429.08 // 
+14539 //  Veigues Tactical Gladiator //  $35.31 //  $50.71 //  $101.46 // 
+12085 //  Victory Run //  $10.47 //  $16.23 //  $45.19 // 
+12086 //  Vigilante //  $17.76 //  $27.51 //  $55.01 // 
+12087 //  World Class Baseball //  $9.68 //  $11.72 //  $23.92 // 
+14540 //  World Court Tennis //  $15.23 //  $24.99 //  $47.02 // 
+12088 //  World Sports Competition //  $110.33 //  $193.49 //  $324.72 // 
+14542 //  Yo Bro //  $25.82 //  $40.31 //  $73.38 // 
+18608 //  Ys Books I & II [Super CD] //  $59.14 //  $88.63 //  $353.29 // 
+18577 //  Ys III Wanderers from Ys [Super CD] //  $104.26 //  $123.99 //  $242.08 // 

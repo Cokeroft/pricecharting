@@ -39,6 +39,7 @@ def compare2(offset, console):
     cib_price_list = []
     new_price_list = []
     game_id_list = []
+    name_list = []
     for x in contents:
         if f.mode == 'r':
             splitter = x.split("//")
@@ -51,7 +52,8 @@ def compare2(offset, console):
             cib_price_list.append(cib_price)
             new_price_list.append(new_price)
             game_id_list.append(code)
-    return loose_price_list, cib_price_list, new_price_list, game_id_list
+            name_list.append(name)
+    return loose_price_list, cib_price_list, new_price_list, game_id_list, name_list
 
 #def compare_message(loose_price, cib_price, new_price):
     #TODO - I'd like to take what is currently in get_specific_csv into here, so that I can take the numbers and
