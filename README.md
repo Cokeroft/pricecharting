@@ -23,6 +23,20 @@ For example Virtual Boy or Super Nintendo or NES.
  This will create the prices file for the current day for all games from Nintendo, Sony, Sega, 
  Microsoft, and other misc items such as Amiibo and Nintendo Power.
  
+  ## Search
+ 
+ ```bash
+ ./search.py
+ ```
+ 
+ This will let you search for the products you want to search for, return the results in
+ option format and will then let you pick which one to further search for. Let's you narrow
+ down the results a bit if there are a lot!
+ 
+ TODO - Going to add functionality to let you find the ID in the prices file and compare!
+ 
+ ## DEPRECATED BELOW
+ 
  ## Get Data
  ```bash
  ./get_data.py
@@ -30,11 +44,3 @@ For example Virtual Boy or Super Nintendo or NES.
  
  This will get the data IDs used for API searching for a specific console. In the future,
  I'll update this to be able to find a specific ID based off console.
- 
- ## Search
- 
- ```bash
- ./tbd.py
- ```
- 
- This is a WIP, and will allow you to search for products using the API
