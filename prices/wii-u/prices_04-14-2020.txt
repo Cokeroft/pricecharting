@@ -1,0 +1,224 @@
+33629 //  007 Legends //  $11.67 //  $14.29 //  $19.79 // 
+34585 //  "Adventure Time: Explore the Dungeon Because I Dont Know" //  $9.57 //  $11.01 //  $13.49 // 
+36131 //  Adventure Time: Finn and Jake Investigations //  $3.74 //  $5.49 //  $5.53 // 
+33888 //  Amazing Spiderman //  $11.80 //  $18.30 //  $55.61 // 
+34838 //  Amazing Spiderman 2 //  $10.45 //  $14.10 //  $26.41 // 
+34469 //  Angry Birds Star Wars //  $6.90 //  $7.26 //  $13.16 // 
+34159 //  Angry Birds Trilogy //  $10.95 //  $16.36 //  $28.06 // 
+36266 //  Animal Crossing Amiibo Festival //  $5.00 //  $6.18 //  $10.86 // 
+45081 //  Animal Crossing Amiibo Festival [amiibo Bundle] //  $6.00 //  $6.50 //  $8.89 // 
+33310 //  "Assassins Creed III" //  $5.74 //  $6.48 //  $8.99 // 
+34473 //  "Assassins Creed IV: Black Flag" //  $7.22 //  $11.37 //  $19.49 // 
+58112 //  Axiom Verge Multiverse Edition //  $49.99 //  $56.90 //  $93.12 // 
+36214 //  Barbie and Her Sisters: Puppy Rescue //  $11.21 //  $11.99 //  $16.95 // 
+34591 //  Barbie: Dreamhouse Party //  $14.99 //  $20.02 //  $29.67 // 
+33312 //  Batman: Arkham City Armored Edition //  $7.38 //  $8.55 //  $16.75 // 
+34460 //  Batman: Arkham Origins //  $7.00 //  $7.22 //  $7.55 // 
+35450 //  Bayonetta 2 //  $13.00 //  $19.68 //  $28.81 // 
+36933 //  Bayonetta 2 (Single Disc) //  $12.06 //  $13.24 //  $18.26 // 
+33634 //  Ben 10: Omniverse //  $8.49 //  $9.38 //  $14.39 // 
+34506 //  Ben 10: Omniverse 2 //  $9.88 //  $12.00 //  $21.20 // 
+37481 //  Brunswick Pro Bowling //  $5.56 //  $6.74 //  $8.05 // 
+34758 //  "Cabelas Big Game Hunter: Pro Hunts" //  $25.37 //  $32.99 //  $57.65 // 
+33570 //  "Cabelas Dangerous Hunts 2013" //  $9.27 //  $10.93 //  $16.89 // 
+33398 //  Call of Duty Black Ops II //  $11.00 //  $15.99 //  $30.74 // 
+34509 //  Call of Duty Ghosts //  $11.49 //  $14.50 //  $19.85 // 
+35398 //  Captain Toad: Treasure Tracker //  $12.80 //  $14.83 //  $21.02 // 
+37771 //  Captain Toad: Treasure Tracker [amiibo Bundle] //  $14.65 //  $18.37 //  $26.83 // 
+37757 //  Cars 3 Driven to Win //  $5.24 //  $11.03 //  $11.99 // 
+33399 //  Darksiders II //  $10.12 //  $11.18 //  $22.04 // 
+37790 //  Darksiders [Warmastered Edition] //  $12.04 //  $14.00 //  $16.99 // 
+34456 //  "Deus Ex: Human Revolution Directors Cut" //  $12.16 //  $23.28 //  $32.99 // 
+36332 //  "Devils Third" //  $54.97 //  $150.53 //  $168.97 // 
+68939 //  Disney Infinity 2.0 Edition [Game Only] //   //   //  $3.00 // 
+68938 //  Disney Infinity 3.0 Edition [Game Only] //   //   //   // 
+35918 //  Disney Infinity 3.0 Starter Pack //  $8.95 //  $10.54 //  $10.68 // 
+34174 //  Disney Infinity Starter Pack //  $13.64 //  $14.99 //  $22.01 // 
+35078 //  Disney Infinity: Marvel Super Heroes Starter Pak 2.0 //  $21.90 //  $23.99 //  $29.88 // 
+35271 //  Disney Infinity: Toy Box Starter Pack 2.0 //  $9.99 //  $13.13 //  $20.00 // 
+34145 //  "Disneys Planes" //  $7.62 //  $11.17 //  $19.05 // 
+34695 //  Donkey Kong Country: Tropical Freeze //  $11.37 //  $13.68 //  $19.99 // 
+36490 //  Donkey Kong Country: Tropical Freeze [Nintendo Selects] //  $10.69 //  $11.99 //  $18.99 // 
+34527 //  DuckTales Remastered //  $21.88 //  $22.99 //  $44.56 // 
+33323 //  ESPN Sports Connection //  $9.98 //  $10.72 //  $29.30 // 
+33403 //  Epic Mickey 2: The Power of Two //  $6.98 //  $7.22 //  $11.48 // 
+33326 //  FIFA Soccer 13 //  $9.50 //  $12.61 //  $28.59 // 
+33574 //  Family Party: 30 Great Games Obstacle Arcade //  $6.49 //  $6.62 //  $9.78 // 
+34034 //  Fast and the Furious: Showdown //  $14.12 //  $15.73 //  $39.28 // 
+34328 //  Funky Barn //  $14.28 //  $22.76 //  $50.00 // 
+34084 //  Game & Wario //  $23.52 //  $35.92 //  $60.13 // 
+33327 //  Game Party Champions //  $5.68 //  $6.63 //  $9.14 // 
+50228 //  Gamecube Controller Adapter //  $32.17 //  $37.00 //  $54.69 // 
+36435 //  "Giana Sisters Twisted Dreams Directors Cut" //  $7.44 //  $9.43 //  $9.99 // 
+36142 //  Guitar Hero Live Bundle //  $5.15 //  $26.47 //  $32.74 // 
+36139 //  Guitar Hero Live [2 Pack Bundle] //  $42.98 //  $48.18 //  $91.48 // 
+35451 //  Hello Kitty Kruisers //  $38.10 //  $47.17 //  $64.75 // 
+34280 //  "Hot Wheels: Worlds Best Driver" //  $13.54 //  $20.02 //  $47.99 // 
+34931 //  How to Train Your Dragon 2 //  $10.06 //  $19.52 //  $37.03 // 
+35089 //  Hyrule Warriors //  $9.96 //  $10.55 //  $25.24 // 
+35090 //  Hyrule Warriors [Limited Edition] //  $380.00 //  $800.00 //  $1329.35 // 
+33981 //  Injustice: Gods Among Us //  $8.52 //  $8.54 //  $16.99 // 
+33631 //  Jeopardy! //  $12.22 //  $19.90 //  $25.17 // 
+34319 //  Just Dance 2014 //  $4.97 //  $7.25 //  $10.63 // 
+34321 //  Just Dance 2014 [Wii Remote Bundle] //  $16.48 //  $20.00 //  $28.02 // 
+35193 //  Just Dance 2015 //  $5.33 //  $6.96 //  $8.89 // 
+36153 //  Just Dance 2016 //  $6.20 //  $7.12 //  $10.71 // 
+36159 //  Just Dance 2016: Gold Edition //  $11.50 //  $18.22 //  $20.50 // 
+37044 //  Just Dance 2017 //  $5.44 //  $7.35 //  $8.61 // 
+37051 //  Just Dance 2017 Gold Edition //  $14.30 //  $18.69 //  $28.23 // 
+40323 //  Just Dance 2018 //  $10.58 //  $11.75 //  $12.55 // 
+52663 //  Just Dance 2019 //  $18.15 //  $22.43 //  $25.10 // 
+33332 //  Just Dance 4 //  $6.36 //  $7.61 //  $9.84 // 
+34432 //  Just Dance Kids 2014 //  $9.73 //  $10.04 //  $23.75 // 
+36160 //  Just Dance: Disney Party 2 //  $6.26 //  $7.58 //  $11.24 // 
+35560 //  Kirby and the Rainbow Curse //  $15.24 //  $17.75 //  $29.83 // 
+36315 //  Kung Fu Panda Showdown of the Legendary Legends //  $10.46 //  $10.73 //  $12.52 // 
+34037 //  LEGO Batman 2 //  $5.49 //  $6.06 //  $8.49 // 
+35306 //  LEGO Batman 3: Beyond Gotham //  $4.60 //  $6.17 //  $8.49 // 
+33928 //  LEGO City Undercover //  $5.04 //  $5.97 //  $10.38 // 
+69297 //  LEGO Dimensions //  $5.50 //  $12.00 //   // 
+36074 //  LEGO Dimensions Starter Pack //  $6.33 //  $6.93 //  $16.80 // 
+35779 //  LEGO Jurassic World //  $4.14 //  $6.99 //  $8.99 // 
+34435 //  LEGO Marvel Super Heroes //  $4.79 //  $5.43 //  $7.75 // 
+63969 //  LEGO Marvel Super Heroes [Walmart Edition] //   //   //   // 
+36410 //  "LEGO Marvels Avengers" //  $6.43 //  $7.50 //  $10.27 // 
+34671 //  LEGO Movie Videogame //  $4.05 //  $5.00 //  $8.50 // 
+36683 //  LEGO Star Wars The Force Awakens //  $6.02 //  $6.48 //  $9.48 // 
+34806 //  LEGO The Hobbit //  $7.65 //  $8.23 //  $14.08 // 
+35832 //  Legend of Kay Anniversary //  $8.09 //  $9.82 //  $10.64 // 
+33337 //  Madden NFL 13 //  $9.01 //  $9.99 //  $25.00 // 
+36678 //  Mario & Sonic at the Rio 2016 Olympic Games //  $30.88 //  $35.75 //  $56.42 // 
+34554 //  Mario & Sonic at the Sochi 2014 Olympic Games //  $11.99 //  $15.68 //  $43.71 // 
+34555 //  Mario & Sonic at the Sochi 2014 Olympic Games [Controller Bundle] //  $42.84 //  $54.99 //  $72.76 // 
+34919 //  Mario Kart 8 //  $19.92 //  $21.05 //  $35.99 // 
+34960 //  Mario Kart 8 [Limited Edition] //  $125.35 //  $144.15 //  $451.53 // 
+35693 //  Mario Party 10 //  $22.00 //  $28.99 //  $36.64 // 
+37786 //  Mario Party 10 Bowser [amiibo Bundle] //  $20.80 //  $21.06 //  $43.18 // 
+35694 //  Mario Party 10 Mario [amiibo Bundle] //  $22.50 //  $26.49 //  $41.00 // 
+37787 //  Mario Party 10 Peach [amiibo Bundle] //  $19.99 //  $26.68 //  $49.33 // 
+36280 //  Mario Tennis Ultra Smash //  $10.09 //  $11.99 //  $14.02 // 
+33579 //  Marvel Avengers: Battle For Earth //  $7.00 //  $9.43 //  $20.24 // 
+33338 //  Mass Effect 3 //  $7.49 //  $7.68 //  $9.38 // 
+36428 //  Mighty No. 9 //  $6.13 //  $7.05 //  $8.38 // 
+36667 //  Minecraft //  $17.81 //  $25.41 //  $34.87 // 
+37479 //  Minecraft: Story Mode Complete Adventure //  $15.78 //  $17.59 //  $26.26 // 
+34487 //  Monster High: 13 Wishes //  $9.72 //  $12.96 //  $24.99 // 
+36294 //  Monster High: New Ghoul in School //  $6.00 //  $7.10 //  $9.50 // 
+33929 //  Monster Hunter 3 Ultimate //  $7.78 //  $8.95 //  $19.95 // 
+33383 //  NBA 2K13 //  $15.18 //  $17.90 //  $42.24 // 
+35399 //  NES Remix Pack //  $11.44 //  $15.98 //  $26.21 // 
+36494 //  NES Remix Pack [Nintendo Selects] //  $11.98 //  $13.29 //  $25.00 // 
+33931 //  Need for Speed Most Wanted //  $10.75 //  $16.80 //  $24.35 // 
+34225 //  New Super Luigi U //  $15.99 //  $20.63 //  $54.99 // 
+33397 //  New Super Mario Bros. U //  $19.47 //  $20.99 //  $41.55 // 
+35650 //  New Super Mario Bros. U + New Super Luigi U //  $19.99 //  $24.99 //  $45.36 // 
+33405 //  "Ninja Gaiden 3: Razors Edge" //  $5.99 //  $6.56 //  $9.00 // 
+34501 //  Nintendo Fit Meter //  $1.15 //  $1.32 //  $1.86 // 
+33396 //  Nintendo Land //  $6.04 //  $7.86 //  $11.80 // 
+34624 //  Nintendo Land [Luigi Wii Remote Bundle] //  $61.57 //  $74.72 //  $104.64 // 
+34489 //  Pac-Man and the Ghostly Adventures //  $9.25 //  $10.00 //  $10.06 // 
+35170 //  Pac-Man and the Ghostly Adventures 2 //  $12.99 //  $14.32 //  $45.11 // 
+36974 //  Paper Mario Color Splash //  $23.00 //  $24.97 //  $33.47 // 
+35385 //  Penguins of Madagascar //  $8.91 //  $11.11 //  $17.91 // 
+34164 //  Phineas & Ferb: Quest for Cool Stuff //  $13.12 //  $18.49 //  $22.99 // 
+34143 //  Pikmin 3 //  $15.00 //  $18.50 //  $31.05 // 
+36493 //  Pikmin 3 [Nintendo Selects] //  $14.70 //  $16.95 //  $24.97 // 
+35276 //  Planes: Fire & Rescue //  $9.99 //  $11.55 //  $19.99 // 
+36567 //  Pokken Tournament //  $9.16 //  $11.38 //  $19.66 // 
+33341 //  Rabbids Land //  $8.75 //  $9.47 //  $17.93 // 
+33582 //  Rapala Pro Bass Fishing //  $15.99 //  $23.79 //  $47.51 // 
+34245 //  Rayman Legends //  $9.99 //  $13.38 //  $20.87 // 
+34040 //  Resident Evil Revelations //  $9.38 //  $11.94 //  $16.43 // 
+33584 //  Rise Of The Guardians //  $10.63 //  $12.12 //  $29.99 // 
+36261 //  Rodea the Sky Soldier //  $11.99 //  $14.00 //  $14.92 // 
+36436 //  Rodea the Sky Soldier Limited Edition //  $34.00 //  $43.57 //  $66.20 // 
+37480 //  Runbow Deluxe Edition //  $8.50 //  $9.10 //  $12.48 // 
+33346 //  Scribblenauts Unlimited //  $4.25 //  $4.94 //  $10.87 // 
+34294 //  Scribblenauts Unmasked: A DC Comics Adventure //  $5.53 //  $6.09 //  $10.02 // 
+38409 //  Scribblenauts Unmasked: A DC Comics Adventure [DVD Bundle] //  $27.36 //  $31.44 //  $119.39 // 
+37188 //  Shantae Half-Genie Hero //  $21.93 //  $23.64 //  $29.60 // 
+62374 //  Shantae Half-Genie Hero [Risky Beats Edition] //  $17.94 //  $21.70 //  $30.67 // 
+36231 //  Shovel Knight //  $13.36 //  $14.75 //  $22.94 // 
+33407 //  Sing Party //  $5.91 //  $6.25 //  $11.55 // 
+53796 //  Sing Party [Microphone Bundle] //  $11.05 //  $15.86 //  $15.99 // 
+33411 //  "Skylanders Giants Starter Pack" //  $10.80 //  $15.72 //  $16.39 // 
+37008 //  Skylanders Imaginators: Starter Pack  //  $6.02 //  $7.70 //  $13.42 // 
+35990 //  Skylanders SuperChargers Starter Pack //  $9.68 //  $12.29 //  $13.81 // 
+35996 //  Skylanders SuperChargers: Dark Edition Starter Pack //  $29.75 //  $32.49 //  $45.48 // 
+67881 //  Skylanders Swap Force [Dark Edition] //   //   //   // 
+34410 //  Skylanders Swap Force: Starter Pack //  $11.25 //  $16.86 //  $19.16 // 
+35132 //  Skylanders Trap Team Dark Edition: Starter Pack //  $33.02 //  $39.38 //  $59.10 // 
+35126 //  Skylanders Trap Team: Starter Pack //  $12.98 //  $16.35 //  $16.68 // 
+35452 //  Sniper Elite V2 //  $10.16 //  $12.38 //  $20.99 // 
+36229 //  "Snoopys Grand Adventure" //  $6.99 //  $7.75 //  $9.35 // 
+33349 //  Sonic & All-Stars Racing Transformed //  $7.44 //  $9.45 //  $16.54 // 
+70282 //  Sonic & Sega All Stars Racing Transformed [Bonus Edition] //   //   //   // 
+35313 //  Sonic Boom: Rise of Lyric //  $11.98 //  $14.99 //  $33.32 // 
+34495 //  Sonic Lost World //  $12.11 //  $16.71 //  $27.55 // 
+35765 //  Splatoon //  $11.14 //  $12.95 //  $18.99 // 
+34187 //  Splinter Cell: Blacklist //  $7.53 //  $11.37 //  $16.69 // 
+34956 //  Splinter Cell: Blacklist Upper Echelon Edition //  $10.25 //  $10.51 //  $16.60 // 
+34448 //  "SpongeBob SquarePants: Planktons Robotic Revenge" //  $13.00 //  $14.58 //  $51.43 // 
+37156 //  Star Fox Guard //  $3.57 //  $3.80 //  $4.77 // 
+36571 //  Star Fox Zero //  $6.18 //  $7.00 //  $9.99 // 
+45082 //  Star Fox Zero & Star Fox Guard Bundle //  $4.72 //  $8.48 //  $9.99 // 
+37088 //  SteamWorld Collection //  $11.99 //  $22.77 //  $32.99 // 
+34615 //  Super Mario 3D World //  $14.88 //  $16.94 //  $29.24 // 
+36492 //  Super Mario 3D World [Nintendo Selects] //  $14.21 //  $14.43 //  $26.11 // 
+35958 //  Super Mario Maker //  $11.98 //  $14.99 //  $33.02 // 
+58054 //  Super Mario Maker [Book Bundle] //  $15.83 //  $18.45 //  $31.54 // 
+35376 //  Super Smash Bros. for Wii U //  $14.73 //  $16.37 //  $31.89 // 
+35378 //  Super Smash Bros. for Wii U [Controller Bundle] //  $27.37 //  $65.46 //  $130.63 // 
+33406 //  Tank! Tank! Tank! //  $14.01 //  $17.71 //  $32.74 // 
+33417 //  Tekken Tag Tournament 2 //  $10.31 //  $16.02 //  $38.49 // 
+36690 //  Terraria //  $9.04 //  $12.99 //  $15.23 // 
+36664 //  The Book of Unwritten Tales 2 //  $19.99 //  $44.99 //  $62.50 // 
+33921 //  The Croods: Prehistoric Party //  $20.53 //  $27.42 //  $37.17 // 
+34128 //  The Smurfs 2 //  $9.46 //  $13.14 //  $20.82 // 
+67325 //  The Voice: I Want You //  $6.64 //  $9.20 //  $22.49 // 
+35203 //  The Voice: I Want You [Microphone Bundle] //  $10.68 //  $12.27 //  $18.16 // 
+36680 //  Tokyo Mirage Sessions #FE //  $19.08 //  $22.45 //  $22.63 // 
+36679 //  Tokyo Mirage Sessions #FE [Special Edition] //  $23.51 //  $45.00 //  $60.00 // 
+33418 //  Transformers: Prime //  $9.69 //  $11.99 //  $19.43 // 
+34948 //  Transformers: Rise of the Dark Spark //  $8.99 //  $10.74 //  $26.76 // 
+37080 //  Tumblestone //  $12.96 //  $14.91 //  $18.50 // 
+34110 //  Turbo: Super Stunt Squad //  $24.99 //  $43.49 //  $115.19 // 
+33934 //  Walking Dead: Survival Instinct //  $9.62 //  $11.99 //  $25.00 // 
+33419 //  Warriors Orochi 3 Hyper //  $11.70 //  $12.07 //  $14.97 // 
+34913 //  Watch Dogs //  $10.33 //  $12.18 //  $20.23 // 
+33633 //  Wheel of Fortune //  $16.90 //  $23.28 //  $35.11 // 
+36525 //  Wii Fit U (game only) //  $5.25 //  $6.25 //  $6.32 // 
+34646 //  Wii Fit U with Balance Board and Fit Meter //  $22.35 //  $29.24 //  $40.99 // 
+34645 //  Wii Fit U with Fit Meter //  $6.29 //  $7.10 //  $9.94 // 
+35453 //  Wii Party U //  $20.23 //  $27.21 //  $37.53 // 
+34979 //  Wii Sports Club //  $37.21 //  $43.30 //  $54.80 // 
+33364 //  Wii U Console Basic White 8GB //  $80.00 //  $150.00 //  $338.91 // 
+33363 //  Wii U Console Deluxe Black 32GB //  $125.06 //  $131.63 //  $462.46 // 
+34958 //  Wii U Console Deluxe: Mario & Luigi Edition //  $141.80 //  $157.51 //  $550.00 // 
+34957 //  Wii U Console Deluxe: Mario Kart 8 Edition //  $120.95 //  $153.51 //  $388.53 // 
+50156 //  Wii U Console Deluxe: Smash Splat Edition //  $109.12 //  $146.82 //  $420.00 // 
+67399 //  Wii U Console Deluxe: Super Mario Maker Edition //  $288.66 //  $341.25 //  $490.73 // 
+37113 //  Wii U Console Deluxe: Super Mario World Edition //  $128.26 //  $160.90 //  $505.69 // 
+34959 //  Wii U Console Deluxe: Zelda Wind Waker Edition //  $146.75 //  $201.27 //  $635.99 // 
+34822 //  Wii U Console Deluxe: ZombiU Edition //  $206.15 //  $249.69 //  $350.00 // 
+45083 //  Wii U Party [Controller Bundle] //  $27.30 //  $31.39 //  $64.19 // 
+33366 //  Wii U Pro Controller Black //  $20.89 //  $28.01 //  $38.95 // 
+33367 //  Wii U Pro Controller White //  $26.31 //  $28.11 //  $90.69 // 
+33420 //  Wipeout 3 //  $6.56 //  $8.90 //  $18.48 // 
+34420 //  Wipeout: Create & Crash //  $9.36 //  $12.95 //  $37.22 // 
+34271 //  Wonderful 101 //  $13.99 //  $17.20 //  $25.88 // 
+36322 //  Xenoblade Chronicles X //  $14.96 //  $17.99 //  $22.88 // 
+36323 //  Xenoblade Chronicles X [Special Edition] //  $44.63 //  $44.95 //  $62.93 // 
+36115 //  "Yoshis Woolly World" //  $14.50 //  $17.93 //  $31.20 // 
+58205 //  "Yoshis Woolly World [Blue Yarn Yoshi Bundle]" //  $30.43 //  $35.00 //  $38.21 // 
+36116 //  "Yoshis Woolly World [Green Yarn Yoshi Bundle]" //  $24.87 //  $28.58 //  $40.03 // 
+58206 //  "Yoshis Woolly World [Pink Yarn Yoshi Bundle]" //  $22.60 //  $25.99 //  $33.98 // 
+33358 //  Your Shape Fitness Evolved 2013 //  $3.99 //  $5.03 //  $6.73 // 
+37321 //  Zelda Breath of the Wild //  $24.97 //  $34.91 //  $38.98 // 
+36467 //  Zelda Twilight Princess HD //  $34.81 //  $39.97 //  $64.88 // 
+36483 //  Zelda Twilight Princess HD [amiibo Bundle] //  $39.91 //  $51.38 //  $70.08 // 
+34270 //  Zelda Wind Waker HD //  $22.04 //  $26.34 //  $42.68 // 
+34405 //  Zelda Wind Waker HD [Limited Edition] //  $40.82 //  $63.14 //  $132.00 // 
+68937 //  Zelda Wind Waker HD [Nitendo Selects] //   //  $21.99 //   // 
+33395 //  ZombiU //  $4.74 //  $5.15 //  $8.54 // 
+34522 //  Zumba Fitness World Party //  $9.12 //  $10.84 //  $19.49 // 

@@ -16,6 +16,8 @@ def get_any_csv():
     console = input("Which console do you want to search for? ")
     console_dash = console.replace(" ", "-").lower()
     compare_answer = input("Do you want to also compare the prices? ").lower()
+
+    # This opens the file we are comparing against and sets to the variables we will use much later.
     if compare_answer == "yes":
         compare_days_str = input("And how many days ago do you want to compare against? ")
         compare_days = int(compare_days_str)
@@ -25,7 +27,9 @@ def get_any_csv():
             print("That data does not exist, try another date!")
             exit()
 
+    # This is the magic that gets us our current data file
     get_prices_from_csv(console)
+
     # Set all the values before we get into the for loop
     counter = 0
     difference_gain_loose = 0
@@ -42,6 +46,7 @@ def get_any_csv():
 
     print()
     active_game_id_list = []
+    lost_and_found_game_ids = []
 
     for x in contents:
         if prices_file.mode == 'r':
@@ -53,6 +58,7 @@ def get_any_csv():
             loose_price = splitter[2].replace(" ", "")
             cib_price = splitter[3].replace(" ", "")
             new_price = splitter[4].replace(" ", "")
+
             # Check to see if we're missing data, in which case we skip. Otherwise it looks wonky!
             if loose_price == "" or cib_price == "" or new_price == "":
                 print("The item '" + name + "' is missing some data!")
@@ -66,6 +72,17 @@ def get_any_csv():
             if compare_answer == "yes":
                 try:
                     if game_id_list[counter].strip() != game_id:
+                        if game_id in game_id_list[counter:-1]:
+                            # This fixes the list IF the item was reordered in the future part of the list
+                            print("Looks like this ID was reordered, oops!")
+                            print("But here is our best attempt to getting the prices anyways")
+                            print()
+                            compare_next(loose_price, loose_price_list, cib_price, cib_price_list, new_price,
+                                         new_price_list, counter + 1)
+                            lost_and_found_game_ids.append(game_id_list[counter])
+                            counter += 2
+                            continue
+
                         new_active_game_id_list = active_game_id_list
                         if game_id_list[counter].strip() in new_active_game_id_list:
                             # This will fix the list and also report the misplaced item.
@@ -76,13 +93,22 @@ def get_any_csv():
                                          new_price_list, counter+1)
                             counter += 2
                             continue
+
+                        if game_id in lost_and_found_game_ids:
+                            # This is where I do something to show those results now... How do I find them?
+                            print("I need to add a feature here that parses "
+                                  "the list and let's see find the values by game ID.")
+
+                        # If not on a list and not in the future, well, who knows what went wrong
                         print("Oops, looks like the game ID doesn't match!")
                         print()
                         continue
+
                 except IndexError:
                     print("Oops you've hit the end of the file, RIP!")
                     exit()
 
+                # Can't report if we are missing data so we need to stop the for loop here
                 if loose_price_list[counter] == "" or cib_price_list[counter] == "" or new_price_list[counter] == "":
                     print("The item '" + name + "' is missing some compare data!")
                     print()
@@ -199,6 +225,7 @@ def get_change(current, previous):
         return 0
 
 
+# This function just helps me compare when the weird scenarios arise. Basically the same as above
 def compare_next(loose_price, loose_price_list, cib_price, cib_price_list, new_price, new_price_list, counter):
     difference_loose = float(loose_price.replace("$", "")) - float(loose_price_list[counter])
     difference_cib = float(cib_price.replace("$", "")) - float(cib_price_list[counter])
