@@ -29,6 +29,9 @@ def get_prices_from_csv(console):
         game_id_counter = 0
 
         # Full list of the console games, or whatever you search for
+        if "turbo" in console:
+            # Since TurboGrafx-16 is very particular, need to change this for the user. It's not pretty, but it works
+            console = "TurboGrafx-16"
         proper_list = [x for x in my_list if console in x]
         if len(proper_list) == 0:
             print("What did you do? That console doesn't exist")
