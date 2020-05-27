@@ -1,0 +1,240 @@
+18175 //  5 in 1 Fun Pak //  $5.47 //  $6.25 //  $18.88 // 
+18176 //  Addams Family //  $8.24 //  $19.93 //  $42.85 // 
+18177 //  Adventures of Batman and Robin //  $8.89 //  $33.89 //  $59.00 // 
+18178 //  Aerial Assault //  $7.43 //  $29.98 //  $98.90 // 
+18179 //  Aladdin //  $5.83 //  $10.00 //  $18.95 // 
+18180 //  Alien 3 //  $10.72 //  $24.38 //  $54.81 // 
+18182 //  Andre Agassi Tennis //  $9.52 //  $12.65 //  $15.73 // 
+18183 //  Arcade Classics //  $9.48 //  $20.99 //  $46.54 // 
+18184 //  Arch Rivals //  $6.20 //  $23.22 //  $59.99 // 
+15040 //  Arena Maze of Death //  $28.34 //  $57.24 //  $84.80 // 
+18185 //  Ariel the Little Mermaid //  $7.40 //  $33.61 //  $39.75 // 
+18186 //  Asterix and the Great Rescue //  $6.69 //  $25.00 //  $33.99 // 
+18188 //  Ax Battler a Legend of Golden Axe //  $14.99 //  $24.99 //  $75.00 // 
+18189 //  Baku Baku //  $9.24 //  $38.64 //  $49.14 // 
+18192 //  Batman Forever //  $6.15 //  $18.75 //  $36.19 // 
+18193 //  Batman Returns //  $8.46 //  $18.01 //  $32.42 // 
+18194 //  Batter Up //  $5.49 //  $21.58 //  $38.86 // 
+18195 //  Battleship //  $6.90 //  $29.59 //  $36.47 // 
+18196 //  Battletoads //  $18.97 //  $43.95 //  $104.76 // 
+18197 //  Beavis and Butthead //  $10.50 //  $20.01 //  $51.95 // 
+18198 //  Berenstain Bears Camping Adventures //  $5.84 //  $13.34 //  $24.01 // 
+70314 //  Blue Sega Game Gear //  $119.99 //  $335.97 //  $623.95 // 
+18199 //  Bonkers Wax Up //  $7.54 //  $44.40 //  $57.28 // 
+18200 //  "Bram Stokers Dracula" //  $9.33 //  $12.57 //  $22.74 // 
+18201 //  Bubble Bobble //  $32.50 //  $187.85 //  $342.02 // 
+18203 //  Bugs Bunny Double Trouble //  $6.62 //  $23.95 //  $29.99 // 
+18204 //  Bust a Move //  $8.14 //  $21.68 //  $27.25 // 
+65277 //  CJ Elephant Fugitive //   //   //   // 
+18206 //  "Caesars Palace" //  $2.19 //  $5.95 //  $7.25 // 
+18207 //  Captain America and the Avengers //  $16.36 //  $59.18 //  $355.00 // 
+35636 //  Casino Fun Pak //  $7.42 //  $22.20 //  $39.95 // 
+18208 //  Castle of Illusion //  $9.99 //  $15.98 //  $73.82 // 
+18209 //  Chakan //  $7.16 //  $25.18 //  $48.44 // 
+18210 //  Chase HQ //  $7.44 //  $10.00 //  $38.69 // 
+18211 //  Cheese Cat-Astrophe Starring Speedy Gonzales //  $10.99 //  $26.02 //  $58.55 // 
+18212 //  Chessmaster //  $4.48 //  $7.50 //  $19.99 // 
+18213 //  Chicago Syndicate //  $10.14 //  $26.63 //  $34.04 // 
+18214 //  Choplifter III //  $9.99 //  $20.11 //  $26.73 // 
+18215 //  Chuck Rock //  $6.95 //  $11.99 //  $99.99 // 
+18216 //  Chuck Rock II Son of Chuck //  $10.40 //  $48.86 //  $65.80 // 
+18217 //  Cliffhanger //  $9.40 //  $17.15 //  $48.87 // 
+18218 //  Clutch Hitter //  $2.46 //  $15.56 //  $17.69 // 
+18220 //  Columns //  $4.94 //  $7.48 //  $19.90 // 
+18222 //  Cool Spot //  $8.57 //  $16.00 //  $50.00 // 
+18223 //  Cosmic Spacehead //  $39.83 //  $101.52 //  $190.37 // 
+18224 //  Crystal Warriors //  $24.99 //  $70.22 //  $132.19 // 
+18225 //  Cutthroat Island //  $4.89 //  $25.90 //  $26.24 // 
+18227 //  Defenders of Oasis //  $26.70 //  $62.78 //  $131.35 // 
+18228 //  Desert Speedtrap Starring Road Runner and Wile E Coyote //  $4.99 //  $11.99 //  $48.78 // 
+18229 //  Desert Strike Return to the Gulf //  $8.39 //  $42.99 //  $49.95 // 
+18230 //  Devilish //  $10.00 //  $17.08 //  $43.04 // 
+18232 //  Double Dragon //  $19.00 //  $31.62 //  $100.01 // 
+18233 //  "Dr Robotniks Mean Bean Machine" //  $8.25 //  $21.74 //  $39.18 // 
+18234 //  Dragon Crystal //  $12.00 //  $18.97 //  $55.70 // 
+18235 //  Dragon: The Bruce Lee Story //  $6.44 //  $13.02 //  $19.97 // 
+18237 //  Dynamite Headdy //  $12.48 //  $20.02 //  $64.90 // 
+18238 //  Earthworm Jim //  $18.36 //  $50.76 //  $100.00 // 
+18239 //  Ecco the Dolphin //  $4.74 //  $13.21 //  $24.49 // 
+18240 //  Ecco the Tides of Time //  $4.99 //  $13.50 //  $24.69 // 
+18243 //  "Evander Holyfields Real Deal Boxing" //  $3.57 //  $14.95 //  $16.00 // 
+18245 //  F-15 Strike Eagle //  $10.07 //  $43.27 //  $60.00 // 
+18251 //  FIFA International Soccer //  $3.63 //  $14.52 //  $26.14 // 
+18252 //  FIFA Soccer 96 //  $10.00 //  $13.00 //  $23.40 // 
+18248 //  Fantastic Dizzy //  $49.93 //  $200.01 //  $360.02 // 
+18249 //  Fantasy Zone //  $17.70 //  $21.49 //  $38.69 // 
+18250 //  Fatal Fury Special //  $28.49 //  $47.10 //  $79.78 // 
+18253 //  Foreman for Real //  $4.73 //  $13.99 //  $19.97 // 
+18254 //  Formula 1 //  $7.90 //  $35.00 //  $41.08 // 
+34170 //  Frank Thomas Big Hurt Baseball //  $2.71 //  $14.09 //  $15.05 // 
+18255 //  Fred Couples Golf //  $4.54 //  $11.37 //  $14.47 // 
+18262 //  G-LOC Air Battle //  $3.27 //  $10.92 //  $22.56 // 
+18263 //  GP Rider //  $5.87 //  $19.13 //  $34.42 // 
+34633 //  Game Genie //  $12.00 //  $29.99 //  $89.95 // 
+18257 //  Garfield Caught in the Act //  $5.82 //  $15.69 //  $44.99 // 
+18259 //  Gear Works //  $10.99 //  $25.13 //  $27.06 // 
+18260 //  "George Foremans KO Boxing" //  $4.78 //  $10.00 //  $10.99 // 
+18264 //  Greendog the Beached Surfer Dude //  $9.47 //  $22.86 //  $41.16 // 
+18266 //  Halley Wars //  $15.86 //  $30.00 //  $56.66 // 
+18267 //  Home Alone //  $10.98 //  $31.78 //  $99.78 // 
+18268 //  Hook //  $9.40 //  $25.00 //  $48.89 // 
+18271 //  Incredible Crash Dummies //  $8.00 //  $9.83 //  $39.26 // 
+18272 //  Incredible Hulk //  $9.99 //  $17.37 //  $25.98 // 
+18273 //  Indiana Jones and the Last Crusade //  $7.69 //  $27.66 //  $44.01 // 
+18274 //  Iron Man X-O Manowar in Heavy Metal //  $14.97 //  $43.00 //  $149.99 // 
+18275 //  Itchy and Scratchy Game //  $13.83 //  $18.97 //  $50.28 // 
+18277 //  James Pond 2 Codename Robocod //  $7.90 //  $23.73 //  $42.69 // 
+18278 //  Jeopardy //  $4.97 //  $15.11 //  $19.99 // 
+18279 //  Jeopardy Sports Edition //  $5.90 //  $16.89 //  $18.49 // 
+18282 //  Joe Montana Football //  $3.23 //  $12.95 //  $17.72 // 
+18283 //  Judge Dredd //  $5.99 //  $15.64 //  $31.00 // 
+18284 //  Junction //  $7.95 //  $22.74 //  $33.99 // 
+18285 //  Jungle Book //  $5.43 //  $7.37 //  $9.57 // 
+18286 //  Jungle Strike //  $12.10 //  $44.54 //  $74.00 // 
+18287 //  Jurassic Park //  $6.68 //  $16.90 //  $36.73 // 
+18288 //  Kawasaki Superbikes //  $12.23 //  $50.83 //  $91.48 // 
+18291 //  Klax //  $4.49 //  $14.00 //  $38.37 // 
+18292 //  "Krustys Fun House" //  $11.80 //  $31.78 //  $57.24 // 
+34796 //  Land of Illusion //  $11.88 //  $27.48 //  $56.09 // 
+18293 //  Last Action Hero //  $10.75 //  $77.51 //  $139.51 // 
+18294 //  Legend of Illusion Starring Mickey Mouse //  $7.58 //  $29.99 //  $30.92 // 
+18295 //  Lemmings //  $9.00 //  $15.78 //  $68.57 // 
+18296 //  Lost World Jurassic Park //  $16.99 //  $19.35 //  $35.80 // 
+18231 //  Lucky Dime Caper Starring Donald Duck //  $11.49 //  $28.93 //  $91.01 // 
+18315 //  MLBPA Baseball //  $2.98 //  $13.05 //  $20.00 // 
+18298 //  Madden 95 //  $3.01 //  $13.94 //  $15.19 // 
+18299 //  Madden 96 //  $8.65 //  $21.86 //  $39.36 // 
+18302 //  Majors Pro Baseball //  $2.38 //  $10.49 //  $11.93 // 
+18304 //  Marble Madness //  $10.79 //  $31.29 //  $54.50 // 
+18306 //  Mega Man //  $122.97 //  $612.71 //  $613.35 // 
+18310 //  "Mickeys Ultimate Challenge" //  $9.94 //  $29.74 //  $32.50 // 
+18311 //  Micro Machines //  $24.99 //  $120.00 //  $219.00 // 
+18313 //  Mighty Morphin Power Rangers //  $4.58 //  $15.00 //  $30.32 // 
+18314 //  Mighty Morphin Power Rangers the Movie //  $5.48 //  $21.75 //  $30.00 // 
+18316 //  Monster Truck Wars //  $5.79 //  $14.95 //  $26.91 // 
+18317 //  Mortal Kombat //  $8.00 //  $18.47 //  $52.99 // 
+18319 //  Mortal Kombat II //  $8.72 //  $15.00 //  $32.46 // 
+18320 //  Ms Pac Man //  $6.73 //  $7.50 //  $12.99 // 
+18321 //  NBA Action //  $2.41 //  $6.52 //  $25.21 // 
+18322 //  NBA Jam //  $3.87 //  $13.00 //  $18.46 // 
+18323 //  NBA Jam Tournament Edition //  $5.47 //  $10.89 //  $39.85 // 
+18324 //  NFL 95 //  $2.58 //  $7.62 //  $8.86 // 
+18325 //  NFL Quarterback Club 95 //  $3.53 //  $6.66 //  $11.99 // 
+18326 //  NFL Quarterback Club 96 //  $2.24 //  $9.26 //  $11.94 // 
+18327 //  NHL All-Star Hockey //  $2.78 //  $6.97 //  $9.16 // 
+18328 //  NHL Hockey //  $5.00 //  $18.95 //  $21.63 // 
+18329 //  Ninja Gaiden //  $14.89 //  $63.18 //  $81.00 // 
+68882 //  Offical Game Gear Bag //  $24.22 //  $67.82 //  $125.94 // 
+18332 //  Olympic Gold Barcelona 92 //  $3.61 //  $10.08 //  $18.15 // 
+18335 //  Outrun Europa //  $8.37 //  $24.47 //  $43.51 // 
+18343 //  PGA Tour 96 //  $2.53 //  $5.99 //  $9.61 // 
+18344 //  PGA Tour Golf //  $4.39 //  $6.95 //  $11.95 // 
+37767 //  PGA Tour Golf II //  $3.99 //  $12.99 //  $25.02 // 
+18336 //  Pac Attack //  $6.91 //  $11.20 //  $36.36 // 
+18337 //  Pac Man //  $6.97 //  $12.26 //  $12.75 // 
+18339 //  Paperboy //  $10.99 //  $22.99 //  $41.38 // 
+18340 //  Paperboy 2 //  $12.47 //  $26.99 //  $58.81 // 
+65103 //  Pete Sampras Tennis //  $195.04 //  $206.56 //  $935.17 // 
+18347 //  Phantom 2040 //  $10.00 //  $26.50 //  $28.07 // 
+18348 //  Pinball Dreams //  $12.95 //  $34.99 //  $65.00 // 
+18350 //  "Poker Face Pauls Blackjack" //  $2.96 //  $8.61 //  $14.22 // 
+18351 //  "Poker Face Pauls Gin" //  $3.58 //  $15.88 //  $15.95 // 
+18352 //  "Poker Face Pauls Poker" //  $2.72 //  $6.25 //  $14.49 // 
+18353 //  "Poker Face Pauls Solitaire" //  $2.31 //  $6.87 //  $12.68 // 
+66786 //  Popils //  $7.18 //  $36.65 //  $65.97 // 
+18356 //  Predator 2 //  $13.43 //  $32.91 //  $135.00 // 
+18357 //  Primal Rage //  $9.38 //  $15.00 //  $29.00 // 
+18358 //  Prince of Persia //  $10.07 //  $11.47 //  $26.67 // 
+18359 //  Psychic World //  $7.98 //  $23.99 //  $43.86 // 
+18360 //  Putt and Putter Miniature Golf //  $4.25 //  $15.39 //  $48.44 // 
+18366 //  RBI Baseball 94 //  $4.30 //  $9.96 //  $9.99 // 
+18367 //  RC Grand Prix //  $10.34 //  $111.12 //  $199.99 // 
+18369 //  Ren and Stimpy Quest for the Shaven Yak //  $6.30 //  $24.95 //  $32.78 // 
+18370 //  Revenge of Drancon //  $9.19 //  $25.36 //  $52.13 // 
+18371 //  Riddick Bowe Boxing //  $5.45 //  $11.58 //  $19.04 // 
+18372 //  Rise of the Robots //  $12.98 //  $100.04 //  $375.00 // 
+18373 //  Ristar //  $15.00 //  $27.85 //  $78.66 // 
+18374 //  Road Rash //  $10.50 //  $23.98 //  $65.00 // 
+18375 //  Robocop 3 //  $12.69 //  $12.95 //  $70.00 // 
+18376 //  Robocop vs The Terminator //  $13.71 //  $27.39 //  $49.30 // 
+18378 //  Samurai Shodown //  $12.98 //  $25.56 //  $35.91 // 
+18379 //  Scratch Golf //  $8.09 //  $22.32 //  $40.12 // 
+13194 //  Sega Game Gear Handheld //  $46.55 //  $100.37 //  $130.03 // 
+18384 //  Shaq Fu //  $10.99 //  $24.99 //  $44.98 // 
+18386 //  Shining Force Sword of Hajya //  $30.00 //  $69.86 //  $156.01 // 
+18387 //  Shinobi //  $12.50 //  $30.40 //  $152.14 // 
+18388 //  Shinobi II the Silent Fury //  $12.95 //  $25.36 //  $50.02 // 
+18389 //  Side Pocket //  $6.99 //  $25.72 //  $29.21 // 
+18393 //  Slider //  $4.92 //  $19.67 //  $49.61 // 
+18395 //  Solitaire FunPak //  $19.99 //  $47.04 //  $99.99 // 
+18396 //  Solitaire Poker //  $3.19 //  $9.99 //  $16.59 // 
+18397 //  Sonic Blast //  $19.25 //  $26.37 //  $29.49 // 
+18398 //  Sonic Chaos //  $4.55 //  $12.24 //  $28.72 // 
+18400 //  Sonic Drift 2 //  $16.04 //  $26.40 //  $81.99 // 
+18401 //  Sonic Labyrinth //  $17.25 //  $79.19 //  $416.67 // 
+18403 //  Sonic Spinball //  $5.85 //  $9.23 //  $13.99 // 
+18406 //  Sonic Triple Trouble //  $8.30 //  $22.45 //  $59.96 // 
+18404 //  Sonic the Hedgehog //  $6.82 //  $16.93 //  $30.51 // 
+18405 //  Sonic the Hedgehog 2 //  $2.12 //  $6.58 //  $10.99 // 
+66783 //  Sonic the Hedgehog 2 & Sonic Tails //  $3.67 //  $12.32 //  $22.18 // 
+18407 //  Space Harrier //  $19.57 //  $21.95 //  $84.96 // 
+18408 //  Spiderman //  $9.99 //  $42.33 //  $79.01 // 
+18409 //  Spiderman Return of the Sinister Six //  $7.20 //  $14.49 //  $70.46 // 
+18410 //  "Spiderman X-Men Arcades Revenge" //  $12.31 //  $92.06 //  $120.00 // 
+34016 //  Sports Illustrated Championship Football & Baseball //  $25.99 //  $64.25 //  $115.65 // 
+18411 //  Sports Trivia //  $2.53 //  $6.41 //  $7.80 // 
+18412 //  Star Trek Generations Beyond the Nexus //  $9.99 //  $20.95 //  $43.17 // 
+18413 //  Star Trek the Next Generation Advanced Holodeck Tutorial //  $8.12 //  $14.71 //  $43.00 // 
+18414 //  Star Wars //  $12.17 //  $30.65 //  $55.67 // 
+18416 //  Stargate //  $6.98 //  $21.32 //  $22.99 // 
+18417 //  Streets of Rage //  $10.88 //  $24.00 //  $74.95 // 
+18418 //  Streets of Rage 2 //  $13.98 //  $18.84 //  $52.48 // 
+18419 //  Strider Returns //  $14.85 //  $30.29 //  $44.00 // 
+18420 //  Super Battletank //  $3.35 //  $4.67 //  $5.97 // 
+18421 //  Super Columns //  $3.01 //  $8.93 //  $15.00 // 
+18422 //  Super Golf //  $10.43 //  $39.99 //  $91.65 // 
+18424 //  Super Monaco GP //  $2.53 //  $17.26 //  $31.08 // 
+18425 //  Super Monaco GP II //  $4.25 //  $12.62 //  $23.70 // 
+18426 //  Super Off Road //  $12.57 //  $49.99 //  $70.00 // 
+18427 //  Super Smash TV //  $11.85 //  $29.99 //  $36.25 // 
+18428 //  Super Space Invaders //  $7.99 //  $16.66 //  $29.99 // 
+20127 //  Super Star Wars: Return of the Jedi //  $16.97 //  $47.47 //  $85.51 // 
+34632 //  Super Wide Gear //  $10.59 //  $25.99 //  $46.80 // 
+18430 //  "Surf Ninjas" //  $6.93 //  $12.21 //  $37.56 // 
+18432 //  T2 The Arcade Game //  $8.07 //  $19.95 //  $72.99 // 
+49624 //  TV Tuner //  $18.70 //  $42.67 //  $76.81 // 
+18433 //  "Tails Adventure" //  $44.14 //  $117.96 //  $199.99 // 
+18435 //  TaleSpin //  $8.99 //  $28.65 //  $44.15 // 
+18438 //  Taz Mania //  $5.18 //  $12.01 //  $19.86 // 
+18437 //  Taz in Escape from Mars //  $3.38 //  $15.38 //  $18.99 // 
+18439 //  Tempo Jr //  $25.90 //  $89.99 //  $174.99 // 
+18440 //  Tengen World Cup Soccer //  $5.54 //  $17.00 //  $17.30 // 
+18441 //  Terminator //  $12.92 //  $26.77 //  $60.00 // 
+32439 //  Terminator 2 Judgment Day //  $8.07 //  $19.99 //  $41.84 // 
+18442 //  Tesserae //  $6.36 //  $19.24 //  $19.39 // 
+14482 //  The Lion King //  $4.80 //  $9.00 //  $9.44 // 
+18391 //  The Simpsons Bart vs the Space Mutants //  $7.61 //  $19.26 //  $36.35 // 
+18191 //  The Simpsons Bart vs the World //  $10.69 //  $49.67 //  $174.12 // 
+18390 //  The Simpsons Bartman Meets Radioactive Man //  $14.00 //  $20.00 //  $99.99 // 
+18445 //  Tom and Jerry the Movie //  $6.46 //  $15.61 //  $36.66 // 
+18446 //  True Lies //  $8.35 //  $48.89 //  $69.99 // 
+18447 //  Urban Strike //  $37.00 //  $143.75 //  $599.99 // 
+18451 //  VR Troopers //  $5.65 //  $15.59 //  $16.08 // 
+18448 //  Vampire Master of Darkness //  $26.85 //  $43.03 //  $55.00 // 
+18449 //  Virtua Fighter Animation //  $6.96 //  $15.88 //  $25.92 // 
+18464 //  WWF Raw //  $9.18 //  $19.00 //  $30.82 // 
+18465 //  WWF Wrestlemania Steel Cage Challenge //  $9.02 //  $44.99 //  $80.99 // 
+15669 //  "Walt Disneys Deep Duck Trouble" //  $6.20 //  $7.42 //  $10.99 // 
+34169 //  Wheel of Fortune //  $5.21 //  $25.65 //  $45.14 // 
+18453 //  Wimbledon Tennis //  $3.99 //  $11.05 //  $13.87 // 
+18454 //  Winter Olympics //  $4.42 //  $9.95 //  $25.00 // 
+18458 //  Woody Pop //  $7.21 //  $17.51 //  $19.99 // 
+18459 //  World Class Leader Board Golf //  $3.82 //  $10.70 //  $19.26 // 
+18460 //  World Cup USA 94 //  $5.95 //  $17.76 //  $30.94 // 
+18462 //  World Series Baseball //  $2.30 //  $7.87 //  $11.96 // 
+18463 //  World Series Baseball 95 //  $1.98 //  $10.39 //  $13.00 // 
+18466 //  X-Men //  $7.05 //  $16.98 //  $38.30 // 
+18467 //  "X-Men Gamemasters Legacy" //  $3.99 //  $20.12 //  $45.91 // 
+18468 //  X-Men Mojo World //  $11.99 //  $20.94 //  $44.68 // 
+18471 //  Zool Ninja of the Nth Dimension //  $10.24 //  $130.00 //  $234.00 // 
+18472 //  Zoop //  $3.49 //  $14.99 //  $18.73 // 

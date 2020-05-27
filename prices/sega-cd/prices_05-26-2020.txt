@@ -1,0 +1,158 @@
+14684 //  3 Ninjas Kick Back / Hook //  $56.07 //  $70.09 //  $97.34 // 
+14685 //  A/X-101 //  $24.99 //  $33.47 //  $63.05 // 
+12560 //  AH-3 Thunderstrike //  $12.70 //  $18.00 //  $30.12 // 
+14715 //  Advanced Dungeons & Dragons Eye of The Beholder //  $21.00 //  $36.39 //  $53.34 // 
+13092 //  Adventures of Batman and Robin //  $36.98 //  $53.16 //  $109.72 // 
+12990 //  Adventures of Willy Beamish //  $11.68 //  $34.99 //  $53.91 // 
+14686 //  After Burner III //  $13.85 //  $30.69 //  $54.75 // 
+13960 //  Android Assault //  $98.00 //  $122.46 //  $206.11 // 
+14687 //  Animals //  $16.55 //  $18.19 //  $25.49 // 
+14691 //  BC Racers //  $45.07 //  $45.57 //  $75.63 // 
+37477 //  Backup RAM Cart //  $70.15 //  $92.51 //  $159.99 // 
+14688 //  Batman Returns //  $25.52 //  $61.00 //  $129.54 // 
+14689 //  Battle Frenzy //  $25.01 //  $27.98 //   // 
+14690 //  Battlecorps //  $15.96 //  $26.86 //  $42.50 // 
+14692 //  Bill Walsh College Football //  $5.19 //  $7.74 //  $12.60 // 
+14693 //  Black Hole Assault //  $8.91 //  $24.70 //  $88.99 // 
+14694 //  Bouncers //  $10.25 //  $18.99 //  $48.04 // 
+13958 //  "Bram Stokers Dracula" //  $10.46 //  $13.20 //  $27.76 // 
+14695 //  Brutal Paws of Fury //  $15.00 //  $26.19 //  $26.89 // 
+14697 //  Cadillacs and Dinosaurs Second Cataclysm //  $38.66 //  $62.00 //  $65.00 // 
+14698 //  "Championship Soccer 94" //  $37.47 //  $60.00 //  $89.99 // 
+14699 //  Chuck Rock //  $14.11 //  $37.31 //  $73.18 // 
+14700 //  Chuck Rock II Son of Chuck //  $18.33 //  $29.99 //  $50.99 // 
+13095 //  Cliffhanger //  $11.53 //  $17.57 //  $36.12 // 
+13835 //  Cobra Command //  $10.84 //  $24.78 //  $61.00 // 
+36369 //  "Comptons Interactive Encyclopedia" //  $19.49 //  $24.19 //  $33.80 // 
+14701 //  Corpse Killer //  $15.03 //  $29.99 //  $40.14 // 
+12987 //  Crime Patrol //  $36.71 //  $65.57 //  $75.95 // 
+14702 //  Dark Wizard //  $48.82 //  $71.86 //  $99.00 // 
+14703 //  Demolition Man //  $58.29 //  $99.94 //  $173.35 // 
+14704 //  Double Switch //  $7.48 //  $12.06 //  $23.49 // 
+14705 //  Dracula Unleashed //  $9.18 //  $17.51 //  $33.13 // 
+14706 //  "Dragons Lair" //  $21.57 //  $28.43 //  $49.81 // 
+12992 //  Dune //  $30.65 //  $48.47 //  $67.43 // 
+14707 //  Dungeon Explorer //  $45.69 //  $99.87 //  $242.86 // 
+14708 //  Dungeon Master II: The Legend of Skullkeep //  $16.77 //  $26.83 //  $34.69 // 
+14711 //  ESPN Baseball Tonight //  $10.33 //  $12.26 //  $14.00 // 
+14713 //  ESPN NBA Hang Time 95 //  $37.65 //  $145.50 //  $146.63 // 
+14712 //  ESPN National Hockey Night //  $8.08 //  $10.35 //  $16.99 // 
+14714 //  ESPN Sunday Night NFL //  $7.00 //  $11.29 //  $19.99 // 
+14709 //  Earthworm Jim: Special Edition //  $187.80 //  $225.97 //  $254.75 // 
+14710 //  Ecco The Tides of Time //  $16.44 //  $31.37 //  $36.50 // 
+13834 //  Ecco the Dolphin //  $13.35 //  $26.72 //  $38.32 // 
+38641 //  Ecco the Dolphin & Sega Classics //  $16.82 //  $22.31 //  $44.37 // 
+13001 //  Eternal Champions //  $21.86 //  $34.00 //  $48.46 // 
+12562 //  FIFA International Soccer //  $5.85 //  $9.99 //  $18.63 // 
+13094 //  Fahrenheit //  $14.62 //  $21.75 //  $30.33 // 
+14716 //  Fatal Fury Special //  $150.02 //  $210.87 //  $396.61 // 
+13955 //  Final Fight CD //  $38.38 //  $127.26 //  $239.49 // 
+13961 //  Flashback The Quest for Identity //  $32.02 //  $44.48 //  $90.92 // 
+18647 //  Flink //  $116.36 //  $148.65 //  $164.66 // 
+14717 //  Formula One World Championship: Beyond the Limit //  $8.26 //  $10.83 //  $21.99 // 
+55853 //  GameGun //   //   //   // 
+13093 //  Ground Zero Texas //  $10.78 //  $14.98 //  $28.00 // 
+14718 //  Heart of the Alien //  $61.14 //  $77.92 //  $99.00 // 
+14719 //  Heimdall //  $19.87 //  $29.57 //  $80.00 // 
+13956 //  Hook //  $12.95 //  $28.00 //  $79.63 // 
+14720 //  INXS: Make My Video //  $14.74 //  $20.98 //  $24.79 // 
+14721 //  Iron Helix //  $12.79 //  $19.21 //  $59.95 // 
+14722 //  Jaguar XJ220 //  $8.31 //  $26.50 //  $53.66 // 
+14723 //  Jeopardy //  $11.20 //  $15.82 //  $40.62 // 
+14724 //  Joe Montana NFL Football //  $4.67 //  $8.58 //  $19.38 // 
+12563 //  Jurassic Park //  $10.82 //  $14.95 //  $44.29 // 
+14725 //  Keio Flying Squadron //  $404.60 //  $1357.43 //  $2000.00 // 
+12998 //  Kids on Site //  $8.00 //  $13.98 //  $15.61 // 
+14726 //  Kris Kross: Make My Video //  $7.26 //  $21.23 //  $32.98 // 
+14727 //  Lawnmower Man //  $43.17 //  $60.88 //  $70.00 // 
+12988 //  Lethal Enforcers //  $6.61 //  $32.24 //  $77.48 // 
+12989 //  Lethal Enforcers II Gun Fighters //  $11.02 //  $24.00 //  $44.93 // 
+38224 //  Lethal Enforcers [Gun Bundle] //  $36.26 //  $71.61 //  $92.82 // 
+14728 //  Links The Challenge of Golf //  $11.08 //  $11.21 //  $14.82 // 
+12997 //  Loadstar Legend of Tully Bodine //  $9.16 //  $18.71 //  $34.95 // 
+14729 //  Lords of Thunder //  $231.36 //  $276.31 //  $688.84 // 
+14644 //  Lunar Eternal Blue //  $138.16 //  $148.73 //  $184.09 // 
+14645 //  Lunar The Silver Star //  $78.00 //  $126.73 //  $175.07 // 
+14730 //  Mad Dog II Lost Gold //  $42.87 //  $89.44 //  $91.00 // 
+14731 //  Mad Dog McCree //  $12.52 //  $20.00 //  $37.81 // 
+13732 //  Mansion of Hidden Souls //  $16.02 //  $23.34 //  $79.96 // 
+14732 //  Marky Mark Make My Video //  $10.99 //  $26.23 //  $44.48 // 
+14733 //  "Mary Shelleys Frankenstein & Bram Stokers Dracula" //  $20.90 //  $31.00 //  $34.10 // 
+14734 //  Masked Rider //  $21.31 //  $35.99 //  $62.95 // 
+14735 //  MegaRace //  $24.98 //  $35.67 //  $57.70 // 
+13694 //  Mickey Mania //  $41.29 //  $61.81 //  $85.35 // 
+14736 //  Microcosm //  $9.00 //  $15.24 //  $41.99 // 
+13733 //  Midnight Raiders //  $9.10 //  $12.25 //  $24.51 // 
+12564 //  Mighty Morphin Power Rangers //  $10.98 //  $18.04 //  $32.75 // 
+12996 //  Mortal Kombat //  $21.38 //  $37.47 //  $104.96 // 
+14737 //  My Paint Animated Paint Program //  $17.01 //  $30.31 //  $73.99 // 
+14573 //  NBA Jam //  $9.99 //  $20.18 //  $39.00 // 
+14738 //  NFL Football Trivia Challenge //  $19.90 //  $42.92 //  $81.04 // 
+14462 //  NFL Greatest Teams //  $6.60 //  $11.04 //  $24.95 // 
+14739 //  NHL 94 //  $7.65 //  $15.25 //  $35.78 // 
+14740 //  Night Striker //  $45.63 //  $73.01 //  $135.00 // 
+14741 //  Night Trap //  $25.29 //  $65.00 //  $90.76 // 
+14742 //  Novastorm //  $60.58 //  $64.58 //  $132.50 // 
+14743 //  Panic //  $47.82 //  $75.96 //  $85.30 // 
+12983 //  Pitfall //  $19.72 //  $31.33 //  $50.00 // 
+14744 //  Popful Mail //  $223.21 //  $431.51 //  $650.00 // 
+14696 //  Power Factory: Featuring C+C Music Factory //  $6.92 //  $14.72 //  $20.76 // 
+14746 //  Powermonger //  $11.46 //  $19.99 //  $29.53 // 
+13729 //  Prince of Persia //  $8.88 //  $32.43 //  $64.73 // 
+12986 //  Prize Fighter //  $8.93 //  $11.25 //  $17.00 // 
+14747 //  Puggsy //  $20.48 //  $28.00 //  $63.46 // 
+14750 //  RDF Global Conflict //  $12.91 //  $26.77 //  $79.25 // 
+14748 //  Racing Aces //  $5.81 //  $12.25 //  $23.64 // 
+14749 //  Radical Rex //  $205.05 //  $324.76 //  $650.01 // 
+14752 //  Revenge of the Ninja //  $24.85 //  $39.48 //  $57.94 // 
+14178 //  Revengers of Vengeance //  $39.00 //  $54.08 //  $101.93 // 
+12565 //  Rise of the Dragon //  $20.67 //  $32.85 //  $106.60 // 
+14753 //  Road Avenger //  $23.08 //  $72.87 //  $203.42 // 
+14754 //  Road Rash //  $40.84 //  $67.36 //  $122.52 // 
+14755 //  Robo Aleste //  $55.68 //  $127.16 //  $155.78 // 
+21086 //  Rock Paintings and Hot Hits //  $6.00 //  $8.30 //  $14.95 // 
+14756 //  Samurai Shodown //  $42.60 //  $76.38 //  $104.50 // 
+12554 //  Sega CD Model 1 Console //  $202.50 //  $204.05 //  $207.49 // 
+40428 //  Sega CD Model 2 Console //  $148.13 //  $237.50 //  $444.63 // 
+21085 //  Sega Classics Arcade Collection //  $12.95 //  $17.95 //  $29.47 // 
+13719 //  Sewer Shark //  $6.53 //  $22.72 //  $27.24 // 
+14758 //  Shadow of the Beast II //  $61.53 //  $62.36 //  $77.66 // 
+45789 //  Sherlock Holmes & Sega Classics //  $9.00 //  $17.96 //  $27.00 // 
+12994 //  Sherlock Holmes Volume I //  $5.95 //  $13.21 //  $17.86 // 
+12995 //  Sherlock Holmes Volume II //  $8.97 //  $14.42 //  $35.95 // 
+14760 //  Shin Megami Tensei //  $10.74 //  $16.02 //  $28.84 // 
+14761 //  Shining Force CD //  $150.76 //  $228.91 //  $381.62 // 
+13957 //  Silpheed //  $23.17 //  $28.26 //  $50.19 // 
+14762 //  Slam City //  $20.60 //  $25.93 //  $47.76 // 
+14763 //  Snatcher //  $355.38 //  $581.20 //  $794.74 // 
+14764 //  Sol-Feace //  $12.12 //  $12.47 //  $18.95 // 
+12991 //  Sonic CD //  $39.46 //  $63.52 //  $100.00 // 
+63118 //  Sonic CD [Not For Resale] //  $38.12 //  $55.00 //  $121.50 // 
+14765 //  Soulstar //  $79.99 //  $110.18 //  $237.48 // 
+14766 //  Space Ace //  $29.10 //  $36.98 //  $65.29 // 
+12984 //  Spiderman vs Kingpin //  $38.00 //  $54.87 //  $113.99 // 
+13959 //  Star Wars Chess //  $17.97 //  $48.95 //  $53.66 // 
+14470 //  Star Wars Rebel Assault //  $15.51 //  $26.33 //  $38.78 // 
+14768 //  Starblade //  $38.80 //  $49.00 //  $51.13 // 
+14769 //  Stellar Fire //  $10.97 //  $12.57 //  $17.81 // 
+14770 //  Supreme Warrior //  $21.99 //  $37.50 //  $37.88 // 
+13096 //  Surgical Strike //  $12.73 //  $17.78 //  $24.10 // 
+13730 //  Terminator //  $79.93 //  $102.12 //  $126.96 // 
+14772 //  The Secret of Monkey Island //  $20.02 //  $93.00 //  $102.67 // 
+14767 //  The Space Adventure //  $317.50 //  $522.50 //  $952.50 // 
+14773 //  The Third World War //  $13.53 //  $28.74 //  $39.79 // 
+12985 //  Time Gal //  $23.91 //  $134.76 //  $190.02 // 
+14774 //  Tomcat Alley //  $8.32 //  $11.97 //  $25.11 // 
+14775 //  Trivial Pursuit //  $10.80 //  $11.97 //  $15.78 // 
+14777 //  Ultraverse Prime & Microcosm //  $44.57 //  $62.50 //  $83.59 // 
+14778 //  Urusei Yatsura My Dear Friends //  $12.99 //  $20.96 //  $38.97 // 
+14646 //  Vay //  $84.04 //  $125.00 //  $156.82 // 
+12993 //  WWF Rage in the Cage //  $21.65 //  $30.49 //  $31.10 // 
+14780 //  Wheel of Fortune //  $9.40 //  $14.12 //  $17.30 // 
+14781 //  Who Shot Johnny Rock //  $16.80 //  $20.40 //  $23.50 // 
+14782 //  Wild Woody //  $54.60 //  $70.00 //  $119.60 // 
+14783 //  Wing Commander //  $18.71 //  $24.92 //  $45.00 // 
+14784 //  Wirehead //  $29.62 //  $39.99 //  $69.84 // 
+14785 //  Wolfchild //  $24.95 //  $55.29 //  $101.10 // 
+13731 //  Wonder Dog //  $12.98 //  $75.87 //  $119.99 // 
+14787 //  World Cup USA 94 //  $8.46 //  $19.95 //  $34.95 // 
