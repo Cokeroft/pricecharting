@@ -1,0 +1,1116 @@
+36693 //  7 Days to Die //  $17.49 //  $24.78 //  $34.99 // 
+52706 //  8 to Glory //  $12.18 //  $12.20 //  $19.47 // 
+50752 //  8-Bit Armies //  $9.45 //  $12.29 //  $12.74 // 
+54477 //  8-Bit Armies [Limited Edition] //  $30.00 //  $38.46 //  $41.42 // 
+58401 //  A Plague Tale: Innocence //  $17.35 //  $19.99 //  $28.30 // 
+45687 //  A Way Out //  $18.81 //  $20.86 //  $26.10 // 
+53766 //  ATV Drift & Tricks [Definitive Edition] //  $10.61 //  $11.36 //  $17.99 // 
+37415 //  ATV Renegades //  $12.46 //  $17.79 //  $24.51 // 
+69366 //  AVICII Invector //  $9.75 //  $11.31 //  $13.65 // 
+37243 //  Abzu //  $12.51 //  $14.49 //  $18.95 // 
+53994 //  Ace Combat 7 Skies Unknown //  $23.17 //  $26.99 //  $29.94 // 
+54997 //  Aces of The Luftwaffe Squadron //  $13.38 //  $15.29 //  $19.88 // 
+36133 //  Adventure Time: Finn and Jake Investigations //  $6.27 //  $7.57 //  $9.84 // 
+47070 //  Adventure Time: Pirates of the Enchiridion //  $9.20 //  $10.68 //  $13.00 // 
+38065 //  "Aerea Collectors Edition" //  $89.12 //  $96.36 //  $124.78 // 
+36783 //  Agatha Christie: The ABC Murders //  $10.76 //  $10.92 //  $18.88 // 
+62487 //  Age of Wonders: Planetfall //  $20.68 //  $23.27 //  $33.13 // 
+38564 //  Agents of Mayhem //  $4.04 //  $5.70 //  $6.60 // 
+46492 //  Agony //  $12.96 //  $13.56 //  $20.45 // 
+36247 //  "Alekhines Gun" //  $3.99 //  $9.91 //  $10.50 // 
+35134 //  Alien: Isolation //  $9.93 //  $13.68 //  $18.68 // 
+49770 //  Alien: Isolation Nostromo Edition //  $11.51 //  $12.38 //  $16.11 // 
+34835 //  Amazing Spiderman 2 //  $35.00 //  $50.00 //  $75.00 // 
+40439 //  "Americas Greatest Game Shows: Wheel of Fortune & Jeopardy" //  $11.09 //  $13.07 //  $21.07 // 
+57983 //  American Ninja Warrior //  $14.08 //  $14.98 //  $23.99 // 
+58546 //  Among the Sleep [Enhanced Edition] //  $7.50 //  $8.19 //  $22.99 // 
+34610 //  Angry Birds: Star Wars //  $9.99 //  $13.04 //  $19.65 // 
+54984 //  Anthem //  $6.47 //  $7.60 //  $8.95 // 
+54986 //  Anthem [Legion of Dawn Edition] //  $9.99 //  $10.26 //  $13.53 // 
+69311 //  Apex Legends [Bloodhound Edition] //   //   //  $13.78 // 
+69312 //  Apex Legends [Lifeline Edition] //   //   //  $14.39 // 
+39069 //  Ark Survival Evolved //  $16.50 //  $16.90 //  $19.09 // 
+39070 //  "Ark Survival Evolved Explorers Edition" //  $33.50 //  $34.21 //  $74.98 // 
+36786 //  Arslan The Warriors of Legend //  $9.05 //  $10.35 //  $12.99 // 
+36520 //  "Assassins Creed Chronicles" //  $9.99 //  $10.97 //  $14.92 // 
+58082 //  "Assassins Creed III Remastered" //  $14.96 //  $16.18 //  $22.46 // 
+34574 //  "Assassins Creed IV: Black Flag" //  $8.88 //  $13.22 //  $15.78 // 
+63140 //  "Assassins Creed IV: Black Flag [Limited Edition]" //  $103.51 //  $133.62 //  $161.72 // 
+52120 //  "Assassins Creed Odyssey" //  $14.99 //  $17.47 //  $21.33 // 
+52121 //  "Assassins Creed Odyssey [Deluxe Edition]" //  $20.71 //  $21.99 //  $31.83 // 
+51997 //  "Assassins Creed Odyssey [Gold Edition]" //  $27.15 //  $30.00 //  $43.66 // 
+65253 //  "Assassins Creed Rogue Remastered" //  $14.24 //  $17.07 //  $25.97 // 
+36169 //  "Assassins Creed Syndicate" //  $5.07 //  $6.18 //  $12.00 // 
+36171 //  "Assassins Creed Syndicate Gold Edition" //  $5.97 //  $6.69 //  $13.50 // 
+37124 //  "Assassins Creed The Ezio Collection" //  $11.25 //  $11.98 //  $14.53 // 
+37202 //  "Assassins Creed Unity Limited Edition" //  $4.50 //  $6.35 //  $12.68 // 
+40367 //  "Assassins Creed: Origins" //  $9.76 //  $11.26 //  $16.99 // 
+46982 //  "Assassins Creed: Origins Dawn of the Creed Collectors Edition" //  $156.51 //  $179.99 //  $225.45 // 
+40368 //  "Assassins Creed: Origins Deluxe Edition" //  $15.34 //  $19.99 //  $31.98 // 
+40370 //  "Assassins Creed: Origins Gods Collectors Edition" //  $99.99 //  $122.45 //  $126.32 // 
+40369 //  "Assassins Creed: Origins Gold Edition" //  $30.46 //  $33.71 //  $65.00 // 
+40371 //  "Assassins Creed: Origins Legendary Edition" //  $760.00 //  $874.00 //  $1136.21 // 
+35292 //  "Assassins Creed: Unity" //  $5.17 //  $5.80 //  $12.40 // 
+35295 //  "Assassins Creed: Unity Collectors Edition" //  $44.44 //  $49.81 //  $93.52 // 
+36440 //  Assetto Corsa //  $12.34 //  $15.46 //  $19.95 // 
+67801 //  Astroneer //  $16.78 //  $19.99 //  $22.75 // 
+37404 //  Atari Flashback Classics Vol 1 //  $16.06 //  $18.87 //  $20.65 // 
+37405 //  Atari Flashback Classics Vol 2 //  $9.99 //  $12.99 //  $14.03 // 
+53820 //  Atari Flashback Classics Vol 3 //  $23.81 //  $25.00 //  $52.56 // 
+65147 //  Attack On Titan 2: Final Battle //  $33.43 //  $38.44 //  $38.99 // 
+36801 //  Attack on Titan //  $16.28 //  $16.85 //  $24.66 // 
+45194 //  Attack on Titan 2 //  $15.31 //  $16.99 //  $23.23 // 
+38408 //  Aven Colony //  $14.92 //  $16.99 //  $24.59 // 
+36123 //  Back to the Future: The Game 30th Anniversary //  $10.49 //  $12.12 //  $13.99 // 
+39611 //  Baja Edge of Control HD //  $8.65 //  $13.62 //  $20.97 // 
+63939 //  "Baldurs Gate 1 & 2 Enhanced Edition" //  $23.98 //  $27.49 //  $33.14 // 
+70964 //  "Baldurs Gate 1 & 2 Enhanced Edition [Collectors Pack]" //   //   //   // 
+47104 //  Banner Saga Trilogy //  $10.70 //  $12.00 //  $15.72 // 
+35792 //  Batman: Arkham Knight //  $6.64 //  $9.95 //  $15.37 // 
+35793 //  Batman: Arkham Knight Limited Edition //  $48.00 //  $49.99 //  $122.49 // 
+35796 //  Batman: Arkham Knight Serious Edition //  $106.96 //  $115.42 //  $149.88 // 
+37021 //  Batman: Return to Arkham //  $10.95 //  $14.95 //  $16.54 // 
+39971 //  Batman: The Enemy Within //  $12.89 //  $13.22 //  $17.00 // 
+36913 //  Batman: The Telltale Series //  $8.61 //  $8.74 //  $10.17 // 
+39967 //  Battle Chasers: Nightwar //  $7.61 //  $7.61 //  $11.91 // 
+36605 //  Battle Worlds Kronos //  $7.38 //  $8.50 //  $10.69 // 
+36425 //  Battleborn //  $2.38 //  $3.75 //  $4.29 // 
+37016 //  Battlefield 1 //  $4.49 //  $4.55 //  $5.91 // 
+37018 //  Battlefield 1 Early Enlister Deluxe Edition //  $3.33 //  $4.97 //  $6.13 // 
+37019 //  "Battlefield 1 Exclusive Collectors Edition" //  $64.29 //  $73.93 //  $75.00 // 
+42408 //  Battlefield 1 Revolution //  $5.71 //  $6.17 //  $8.49 // 
+34575 //  Battlefield 4 //  $6.19 //  $6.90 //  $11.49 // 
+34856 //  Battlefield 4 [Limited Edition] //  $8.80 //  $15.18 //  $15.75 // 
+35615 //  Battlefield Hardline //  $4.75 //  $4.87 //  $8.99 // 
+35621 //  Battlefield Hardline: Deluxe Edition //  $5.46 //  $8.75 //  $14.01 // 
+53747 //  Battlefield V //  $13.15 //  $15.00 //  $18.05 // 
+53748 //  Battlefield V [Deluxe Edition] //  $16.73 //  $16.87 //  $23.42 // 
+68746 //  Bayonetta and Vanquish 10th Anniversary Bundle //  $27.57 //  $31.71 //  $37.99 // 
+45132 //  Beast Quest //  $6.17 //  $6.25 //  $10.03 // 
+66533 //  Bee Simulator //  $8.00 //  $18.99 //  $21.00 // 
+40482 //  Ben 10 //  $10.75 //  $13.45 //  $17.50 // 
+53772 //  Bendy and the Ink Machine //  $14.68 //  $14.99 //  $22.43 // 
+37193 //  Big Buck Hunter Arcade //  $7.50 //  $9.46 //  $12.99 // 
+36910 //  BioShock The Collection //  $8.52 //  $14.89 //  $19.99 // 
+45679 //  Bioshock [10th Anniversary] //  $197.30 //  $248.65 //  $276.22 // 
+40551 //  Black Mirror //  $10.50 //  $12.26 //  $20.90 // 
+40264 //  Blackguards 2 //  $7.80 //  $7.86 //  $11.88 // 
+35633 //  Bladestorm: Nightmare //  $11.97 //  $12.99 //  $19.85 // 
+35810 //  BlazBlue: Chrono Phantasma Extend //  $7.67 //  $11.15 //  $14.88 // 
+69346 //  Bleeding Edge //   //   //   // 
+36000 //  Blood Bowl II //  $9.36 //  $10.99 //  $19.04 // 
+59594 //  Bloodstained: Ritual of the Night //  $17.06 //  $19.99 //  $23.68 // 
+63648 //  Borderlands 3 //  $3.00 //  $13.66 //  $21.85 // 
+63651 //  Borderlands 3 [Deluxe Edition] //  $19.42 //  $19.81 //  $33.99 // 
+63690 //  "Borderlands 3 [Diamond Loot Chest Collectors Edition]" //  $139.13 //  $160.00 //  $188.85 // 
+63652 //  Borderlands 3 [Super Deluxe Edition] //  $27.82 //  $32.67 //  $40.64 // 
+58080 //  Borderlands [Game of the Year] //  $11.83 //  $13.36 //  $16.80 // 
+35644 //  Borderlands: The Handsome Collection //  $6.88 //  $8.05 //  $12.10 // 
+35646 //  Borderlands: The Handsome Collection [Claptrap-in-a-Box] //  $157.16 //  $169.72 //  $220.03 // 
+54005 //  Borderlands: The Handsome Collection [Gentleman Claptrap-in-a-Box] //  $185.71 //  $199.99 //  $259.99 // 
+50088 //  Bridge Constructor Portal //  $11.59 //  $13.49 //  $17.99 // 
+35924 //  Brothers //  $8.49 //  $8.84 //  $12.32 // 
+49651 //  Brunswick Pro Bowling //  $9.50 //  $9.62 //  $14.58 // 
+37385 //  Bulletstorm: Full Clip Edition //  $8.19 //  $9.99 //  $13.42 // 
+45186 //  Burnout Paradise Remastered //  $8.81 //  $10.16 //  $14.01 // 
+35623 //  "Cabelas African Adventures" //  $11.55 //  $11.72 //  $22.51 // 
+58198 //  Call Of Duty Black Ops III [Pro Edition] //   //   //   // 
+52700 //  Call of Cthulhu //  $16.89 //  $18.33 //  $25.00 // 
+35258 //  Call of Duty Advanced Warfare //  $6.51 //  $7.39 //  $13.71 // 
+35249 //  Call of Duty Advanced Warfare [Atlas Limited Edition] //  $13.22 //  $16.18 //  $25.00 // 
+35253 //  Call of Duty Advanced Warfare [Atlas Pro Edition] //  $13.16 //  $14.99 //  $44.43 // 
+35545 //  Call of Duty Advanced Warfare [Day Zero] //  $5.95 //  $6.08 //  $8.35 // 
+40302 //  Call of Duty Advanced Warfare [Gold Edition] //  $8.40 //  $11.09 //  $18.45 // 
+36240 //  Call of Duty Black Ops III //  $13.12 //  $15.00 //  $22.83 // 
+39667 //  Call of Duty Black Ops III Gold Edition //  $12.76 //  $13.00 //  $24.19 // 
+52690 //  Call of Duty Black Ops III Hardened Edition //  $12.50 //  $13.76 //  $21.02 // 
+36393 //  Call of Duty Black Ops III Juggernog Edition //  $260.00 //  $309.99 //  $549.99 // 
+45064 //  Call of Duty Black Ops III Zombie Chronicles //  $19.99 //  $20.49 //  $35.00 // 
+34563 //  Call of Duty Ghosts //  $7.03 //  $8.05 //  $12.99 // 
+34568 //  Call of Duty Ghosts [Hardened Edition] //  $18.47 //  $26.06 //  $50.00 // 
+34563 //  Call of Duty Ghosts [Prestige Edition] //  $33.73 //  $39.55 //  $55.94 // 
+40435 //  Call of Duty WWII //  $9.01 //  $12.50 //  $17.99 // 
+55705 //  Call of Duty WWII [Gold Edition] //  $13.99 //  $16.29 //  $24.95 // 
+40436 //  Call of Duty WWII [Pro Edition] //  $22.84 //  $24.99 //  $61.41 // 
+55706 //  Call of Duty WWII [Valor Collection] //  $49.99 //  $57.49 //  $69.99 // 
+63163 //  Call of Duty World at War //  $12.14 //  $14.10 //  $18.63 // 
+52148 //  Call of Duty: Black Ops 4 //  $13.00 //  $17.21 //  $25.12 // 
+52151 //  Call of Duty: Black Ops 4 [Mystery Box Edition] //  $140.37 //  $161.42 //  $196.52 // 
+37095 //  Call of Duty: Infinite Warfare //  $5.00 //  $5.99 //  $9.95 // 
+37097 //  Call of Duty: Infinite Warfare Legacy Edition //  $6.26 //  $6.27 //  $14.46 // 
+37403 //  Call of Duty: Infinite Warfare Legacy Pro Edition //  $19.80 //  $36.07 //  $47.00 // 
+65425 //  Call of Duty: Modern Warfare //  $36.76 //  $45.38 //  $51.61 // 
+38062 //  Call of Duty: Modern Warfare Remastered //  $16.77 //  $19.09 //  $21.30 // 
+65427 //  Call of Duty: Modern Warfare [Dark Edition] //  $208.20 //  $230.89 //  $237.60 // 
+65426 //  Call of Duty: Modern Warfare [Precision Edition] //  $56.82 //  $57.19 //  $79.78 // 
+59665 //  Car Mechanic Simulator //  $14.99 //  $37.78 //  $44.67 // 
+36715 //  Carmageddon Max Damage //  $8.09 //  $8.14 //  $13.35 // 
+53696 //  Carnival Games //  $11.25 //  $12.93 //  $16.99 // 
+37755 //  Cars 3 Driven to Win //  $12.42 //  $14.04 //  $19.72 // 
+37105 //  Cartoon Network Battle Crashers //  $8.33 //  $9.93 //  $12.26 // 
+66941 //  Citadel: Forged with Fire //  $15.22 //  $17.50 //  $20.99 // 
+37801 //  Cities Skylines //  $19.95 //  $19.99 //  $28.13 // 
+67298 //  Cities Skylines [Parklife Edition] //  $25.00 //  $25.15 //  $25.86 // 
+66571 //  Civilization VI //  $28.83 //  $31.09 //  $37.50 // 
+67800 //  Close to the Sun //  $12.14 //  $13.63 //  $16.90 // 
+63929 //  Code Vein //  $27.46 //  $27.49 //  $30.00 // 
+66873 //  Code Vein [Revenant Bundle] //  $142.85 //  $153.84 //  $199.99 // 
+46416 //  Conan Exiles //  $15.08 //  $15.18 //  $19.86 // 
+38056 //  Constructor //  $6.61 //  $7.58 //  $9.43 // 
+63779 //  Contra Rogue Corps //  $15.39 //  $15.41 //  $19.75 // 
+63134 //  Control //  $27.64 //  $29.88 //  $37.38 // 
+54473 //  Crackdown 3 //  $11.98 //  $12.75 //  $16.37 // 
+47056 //  Crash Bandicoot N. Sane Trilogy //  $22.37 //  $22.49 //  $29.26 // 
+59596 //  Crash Team Racing: Nitro Fueled //  $19.99 //  $21.55 //  $29.22 // 
+52166 //  Crayola Scoot //  $12.87 //  $14.97 //  $17.99 // 
+65593 //  Cuphead //  $33.92 //  $39.01 //  $76.36 // 
+68750 //  DCL The Game //  $28.56 //  $30.76 //  $38.99 // 
+50759 //  Dakar 18 //  $15.32 //  $16.34 //  $21.94 // 
+66552 //  Dangerous Driving //  $16.56 //  $17.67 //  $26.00 // 
+63252 //  Dark Pictures Anthology: Man of Medan //  $13.56 //  $15.09 //  $18.99 // 
+35670 //  Dark Souls II: Scholar of the First Sin //  $8.47 //  $10.92 //  $17.62 // 
+36527 //  Dark Souls III //  $9.22 //  $11.10 //  $13.29 // 
+36530 //  "Dark Souls III Collectors Edition" //  $73.69 //  $83.62 //  $159.99 // 
+37418 //  Dark Souls III: The Fire Fades Edition //  $8.04 //  $11.59 //  $19.95 // 
+46452 //  Dark Souls Remastered //  $14.83 //  $14.99 //  $17.89 // 
+52659 //  Dark Souls Trilogy //  $42.16 //  $48.48 //  $60.02 // 
+68615 //  Darksiders Genesis //  $22.90 //  $27.73 //  $33.00 // 
+68616 //  "Darksiders Genesis [Collectors Edition]" //  $34.78 //  $40.00 //  $40.00 // 
+68617 //  Darksiders Genesis [Nephilim Edition] //  $267.56 //  $307.68 //  $365.08 // 
+36235 //  Darksiders II [Deathinitive Edition] //  $11.92 //  $12.02 //  $16.93 // 
+53804 //  Darksiders III //  $9.99 //  $9.99 //  $11.97 // 
+53806 //  Darksiders III [Apocalypse Edition] //  $257.19 //  $295.71 //  $380.01 // 
+53805 //  "Darksiders III [Collectors Edition]" //  $63.31 //  $68.19 //  $88.65 // 
+37135 //  Darksiders [Warmastered Edition] //  $13.25 //  $14.99 //  $18.48 // 
+65554 //  DayZ //  $25.29 //  $29.23 //  $35.84 // 
+47026 //  De Blob //  $9.71 //  $11.17 //  $13.15 // 
+54003 //  De Blob 2 //  $10.43 //  $11.39 //  $11.99 // 
+39062 //  Dead Alliance //  $5.90 //  $7.07 //  $8.99 // 
+36638 //  Dead Island Definitive Edition //  $14.38 //  $15.38 //  $20.56 // 
+36916 //  Dead Rising //  $8.17 //  $8.98 //  $12.10 // 
+36961 //  Dead Rising 2 //  $6.01 //  $7.69 //  $11.22 // 
+34577 //  Dead Rising 3 //  $6.85 //  $6.89 //  $11.08 // 
+37155 //  Dead Rising 4 //  $7.93 //  $9.12 //  $11.04 // 
+35289 //  Dead Rising [Apocalypse Edition] //  $7.61 //  $8.95 //  $15.07 // 
+37795 //  Dead by Daylight //  $15.96 //  $19.99 //  $23.47 // 
+70992 //  Dead by Daylight [Nightmare Edition] //   //   //   // 
+35558 //  Dead or Alive 5 Last Round //  $11.51 //  $14.64 //  $25.58 // 
+55789 //  Dead or Alive 6 //  $12.17 //  $13.62 //  $18.31 // 
+36278 //  Deadpool //  $9.97 //  $13.14 //  $17.00 // 
+40337 //  Deer Hunter Reloaded //  $7.11 //  $7.16 //  $12.77 // 
+70896 //  Deformers //   //   //   // 
+70895 //  Deformers [Limited Edition] //   //   //   // 
+35030 //  Destiny //  $4.33 //  $5.29 //  $8.00 // 
+38051 //  Destiny 2 //  $4.99 //  $4.99 //  $9.40 // 
+38052 //  "Destiny 2 Collectors Edition" //  $49.88 //  $59.36 //  $69.99 // 
+50147 //  Destiny 2 Forsaken Legendary Collection //  $7.59 //  $13.09 //  $15.63 // 
+50149 //  Destiny 2 Forsaken Legendary Collection [Gamestop Edition] //  $108.67 //  $124.97 //  $162.46 // 
+38053 //  Destiny 2 Limited Edition //  $22.46 //  $23.74 //  $39.99 // 
+37224 //  Destiny The Collection //  $9.51 //  $10.00 //  $19.99 // 
+35035 //  Destiny: Limited Edition //  $19.17 //  $26.49 //  $38.00 // 
+36395 //  "Destiny: Taken King Collectors Edition" //  $66.74 //  $72.24 //  $107.00 // 
+35969 //  Destiny: Taken King Legendary Edition //  $4.61 //  $4.86 //  $8.45 // 
+35039 //  Destiny: The Ghost Edition //  $103.59 //  $114.82 //  $145.58 // 
+36770 //  Deus Ex: Mankind Divided //  $4.66 //  $4.95 //  $6.31 // 
+36772 //  "Deus Ex: Mankind Divided Collectors Edition" //  $22.50 //  $34.36 //  $41.82 // 
+55830 //  Devil May Cry 5 //  $16.60 //  $19.52 //  $25.50 // 
+55832 //  "Devil May Cry 5 [Collectors Edition]" //  $78.21 //  $84.23 //  $109.49 // 
+55831 //  Devil May Cry 5 [Deluxe Edition] //  $26.22 //  $37.69 //  $52.96 // 
+45128 //  Devil May Cry HD Collection //  $10.88 //  $11.41 //  $16.48 // 
+35599 //  Devil May Cry: Definitive Edition //  $7.46 //  $8.75 //  $11.48 // 
+53897 //  Diablo III Eternal Collection //  $15.54 //  $21.47 //  $27.49 // 
+35000 //  Diablo III Reaper of Souls [Ultimate Evil Edition] //  $9.22 //  $11.99 //  $17.97 // 
+37740 //  Dirt 4 //  $14.93 //  $17.63 //  $22.98 // 
+36515 //  Dirt Rally //  $11.87 //  $12.16 //  $17.81 // 
+54989 //  Dirt Rally 2.0 //  $19.95 //  $22.92 //  $22.99 // 
+37438 //  Dishonored 2 //  $4.85 //  $5.99 //  $8.74 // 
+37109 //  Dishonored 2 [Limited Edition] //  $5.17 //  $10.05 //  $12.16 // 
+37111 //  "Dishonored 2 [Premium Collectors Edition]" //  $37.38 //  $61.75 //  $80.00 // 
+35875 //  Dishonored [Definitive Edition] //  $9.17 //  $10.00 //  $12.68 // 
+39630 //  Dishonored: Death of the Outsider //  $5.80 //  $6.57 //  $10.05 // 
+65539 //  Disney Classic Games: Aladdin and The Lion King //  $14.62 //  $16.50 //  $20.50 // 
+37762 //  Disney Infinity 3.0 //  $11.40 //  $12.50 //  $30.67 // 
+35919 //  Disney Infinity 3.0 Starter Pack //  $13.99 //  $15.77 //  $24.58 // 
+35079 //  Disney Infinity: Marvel Super Heroes Starter Pak 2.0 //  $25.04 //  $26.78 //  $37.49 // 
+35267 //  Disney Infinity: Toy Box Starter Pack 2.0 //  $12.90 //  $22.58 //  $25.00 // 
+40381 //  Disneyland Adventures //  $11.66 //  $14.78 //  $20.03 // 
+50135 //  Divinity: Original Sin II [Definitive Edition] //  $14.32 //  $17.27 //  $20.72 // 
+36202 //  Divinity: Original Sin [Enhanced Edition] //  $12.49 //  $19.19 //  $35.75 // 
+45794 //  "Dont Starve" //  $11.51 //  $12.95 //  $16.01 // 
+36610 //  Doom //  $9.60 //  $12.25 //  $18.98 // 
+70310 //  Doom 3 BFG Edition //   //   //   // 
+36611 //  "Doom Collectors Edition" //  $34.74 //  $40.32 //  $94.99 // 
+69280 //  Doom Eternal //  $47.75 //  $49.99 //  $52.35 // 
+69304 //  "Doom Eternal [Collectors Edition]" //  $121.85 //  $166.17 //  $309.70 // 
+69306 //  Doom Eternal [Deluxe Edition] //  $60.59 //  $84.99 //  $87.99 // 
+67406 //  Doom Slayers Collection //  $19.64 //  $24.40 //  $25.45 // 
+35334 //  Dragon Age: Inquisition //  $6.30 //  $7.36 //  $10.14 // 
+35336 //  Dragon Age: Inquisition Deluxe Edition //  $6.53 //  $10.23 //  $19.99 // 
+36391 //  "Dragon Age: Inquisition Inquisitors Edition" //  $88.77 //  $99.10 //  $199.98 // 
+39670 //  Dragon Age: Inquisition [Game of the Year] //  $12.90 //  $13.75 //  $30.03 // 
+44943 //  Dragon Ball FighterZ //  $13.00 //  $15.00 //  $20.37 // 
+44946 //  Dragon Ball FighterZ Collectorz Edition //  $78.92 //  $99.99 //  $130.44 // 
+44947 //  Dragon Ball FighterZ Fighterz Edition //   //   //   // 
+35654 //  Dragon Ball Xenoverse //  $6.98 //  $8.24 //  $14.95 // 
+37573 //  Dragon Ball Xenoverse 2 //  $13.78 //  $13.95 //  $19.94 // 
+37054 //  "Dragon Ball Xenoverse 2 [Collectors Edition]" //  $85.15 //  $97.71 //  $156.11 // 
+37052 //  Dragon Ball Xenoverse 2 [Day One] //  $13.54 //  $13.60 //  $19.45 // 
+35653 //  Dragon Ball Xenoverse [Day One] //  $6.26 //  $9.00 //  $18.57 // 
+67533 //  Dragon Ball Z: Kakarot //  $33.55 //  $36.14 //  $41.44 // 
+67535 //  "Dragon Ball Z: Kakarot [Collectors Edition]" //  $52.00 //  $136.20 //  $200.00 // 
+39963 //  "Dragons Dogma: Dark Arisen" //  $14.01 //  $15.47 //  $19.97 // 
+54475 //  Dragons: Dawn of New Riders //  $13.04 //  $15.00 //  $18.42 // 
+67479 //  Dreamfall Chapters //  $12.95 //  $12.95 //  $22.99 // 
+35159 //  Duck Dynasty //  $5.95 //  $7.12 //  $9.65 // 
+37598 //  Duke Nukem 3D 20th Anniversary World Tour //  $15.00 //  $16.00 //  $21.00 // 
+40280 //  Dungeons III //  $8.56 //  $10.37 //  $13.57 // 
+35470 //  Dying Light //  $8.97 //  $10.57 //  $20.74 // 
+36488 //  Dying Light The Following Enhanced Edition //  $13.07 //  $16.73 //  $21.99 // 
+35572 //  Dynasty Warriors 8: Empires //  $17.20 //  $17.20 //  $24.29 // 
+45051 //  Dynasty Warriors 9 //  $12.76 //  $13.92 //  $17.99 // 
+47061 //  Earthfall Deluxe Edition //  $7.17 //  $8.02 //  $10.94 // 
+36809 //  Elder Scrolls Online Gold Edition //  $5.18 //  $5.49 //  $9.95 // 
+58607 //  Elder Scrolls Online: Elsweyr //  $13.95 //  $18.16 //  $24.24 // 
+37734 //  Elder Scrolls Online: Morrowind //  $5.49 //  $5.49 //  $5.54 // 
+37751 //  "Elder Scrolls Online: Morrowind [Collectors Edition]" //  $33.23 //  $44.99 //  $98.00 // 
+46946 //  Elder Scrolls Online: Summerset //  $6.17 //  $7.99 //  $9.97 // 
+46947 //  "Elder Scrolls Online: Summerset [Collectors Edition]" //  $34.64 //  $41.63 //  $48.49 // 
+35772 //  Elder Scrolls Online: Tamriel Unlimited //  $4.18 //  $5.04 //  $7.96 // 
+36398 //  Elder Scrolls Online: Tamriel Unlimited [Imperial Edition] //  $37.00 //  $45.91 //  $159.93 // 
+37078 //  Elder Scrolls V: Skyrim Special Edition  //  $16.97 //  $23.00 //  $29.90 // 
+52010 //  Elder Scrolls V: Skyrim [Dragonborn Bundle] //  $34.12 //  $40.00 //  $47.82 // 
+40286 //  Elex //  $8.50 //  $9.22 //  $11.99 // 
+53923 //  "Elex [Collectors Edition]" //  $25.00 //  $46.79 //  $70.63 // 
+37831 //  Elite Dangerous Legendary Edition //  $20.00 //  $22.47 //  $29.65 // 
+35550 //  Evolve //  $3.95 //  $4.38 //  $7.25 // 
+36219 //  Evolve: Ultimate Edition //  $10.64 //  $11.75 //  $15.28 // 
+45727 //  Extinction //  $5.56 //  $5.95 //  $8.11 // 
+45728 //  Extinction Deluxe Edition //  $9.25 //  $10.64 //  $15.26 // 
+35818 //  F1 2015 //  $7.17 //  $10.07 //  $11.48 // 
+36753 //  F1 2016 //  $8.38 //  $9.97 //  $11.63 // 
+38637 //  F1 2017 //  $9.38 //  $9.94 //  $13.00 // 
+50230 //  F1 2018 //  $13.00 //  $15.89 //  $21.00 // 
+59735 //  F1 2019 [Legends Edition] //  $47.84 //  $55.00 //  $71.50 // 
+59734 //  F1 2019: Anniversary Edition //  $29.17 //  $30.24 //  $51.13 // 
+34791 //  FIFA 14 //  $3.69 //  $3.87 //  $5.50 // 
+35070 //  FIFA 15 //  $3.48 //  $4.26 //  $7.11 // 
+35075 //  FIFA 15: Ultimate Edition //  $3.90 //  $4.37 //  $7.24 // 
+36003 //  FIFA 16 //  $3.71 //  $3.74 //  $5.42 // 
+36007 //  FIFA 16 Deluxe Edition //  $6.00 //  $8.07 //  $8.68 // 
+36953 //  FIFA 17 //  $3.60 //  $3.99 //  $5.13 // 
+36956 //  FIFA 17 Deluxe Edition //  $2.05 //  $5.36 //  $17.10 // 
+39926 //  FIFA 18 //  $4.46 //  $5.96 //  $7.68 // 
+39927 //  FIFA 18 Ronaldo Edition //  $4.80 //  $10.99 //  $11.10 // 
+50750 //  FIFA 19 //  $9.75 //  $10.23 //  $11.98 // 
+50751 //  FIFA 19 [Champions Edition] //  $11.23 //  $13.10 //  $19.32 // 
+63931 //  FIFA 20 //  $20.58 //  $26.42 //  $30.42 // 
+63934 //  FIFA 20 [Champions Edition] //  $28.42 //  $29.99 //  $40.58 // 
+58294 //  Fade to Silence //  $13.24 //  $15.11 //  $20.24 // 
+36250 //  Fallout 4 //  $5.00 //  $7.50 //  $12.73 // 
+36253 //  Fallout 4 Pip-Boy Edition //  $53.39 //  $60.00 //  $91.19 // 
+39920 //  Fallout 4 [Game of the Year Pip-Boy Edition] //  $72.78 //  $80.76 //  $104.92 // 
+39918 //  Fallout 4 [Game of the Year] //  $17.43 //  $17.99 //  $28.49 // 
+53741 //  Fallout 76 //  $9.54 //  $10.00 //  $10.79 // 
+53743 //  Fallout 76 [Power Armor Edition] //  $65.25 //  $77.59 //  $103.06 // 
+53742 //  Fallout 76 [Tricentennial Edition] //  $12.28 //  $12.31 //  $14.50 // 
+35187 //  Fantasia: Music Evolved //  $3.37 //  $4.45 //  $6.19 // 
+65491 //  Far Cry 3 [Classic Edition] //  $4.35 //  $15.02 //  $21.99 // 
+35344 //  Far Cry 4 //  $5.10 //  $8.07 //  $12.97 // 
+35926 //  Far Cry 4 [Complete Edition] //  $8.11 //  $8.56 //  $22.25 // 
+35350 //  Far Cry 4 [Kyrat Edition] //  $33.49 //  $38.51 //  $44.99 // 
+35540 //  Far Cry 4 [Limited Edition] //  $6.25 //  $6.53 //  $12.93 // 
+45694 //  Far Cry 5 //  $10.59 //  $15.24 //  $20.13 // 
+45699 //  Far Cry 5 Deluxe Edition //  $13.00 //  $14.41 //  $25.15 // 
+45698 //  Far Cry 5 Gold Edition //  $24.49 //  $39.00 //  $44.84 // 
+36442 //  Far Cry Primal //  $8.95 //  $11.51 //  $15.64 // 
+36486 //  Far Cry Primal [Deluxe Edition] //  $21.00 //  $31.68 //  $64.69 // 
+54490 //  Far Cry: New Dawn //  $14.49 //  $14.99 //  $20.00 // 
+35751 //  Farming Simulator 15 //  $8.49 //  $10.12 //  $14.83 // 
+37059 //  Farming Simulator 17 //  $9.44 //  $12.48 //  $15.42 // 
+40483 //  Farming Simulator 17 Platinum Edition //  $11.24 //  $13.10 //  $14.85 // 
+53767 //  Farming Simulator 19 //  $25.48 //  $26.92 //  $33.81 // 
+34594 //  Fighter Within //  $7.38 //  $8.58 //  $11.16 // 
+35624 //  Final Fantasy Type-0 HD //  $4.97 //  $5.10 //  $7.99 // 
+35627 //  "Final Fantasy Type-0 HD [Collectors Edition]" //  $32.78 //  $37.78 //  $56.00 // 
+62442 //  Final Fantasy X X-2 HD Remaster //  $27.00 //  $27.58 //  $41.63 // 
+58295 //  Final Fantasy XII: The Zodiac Age //  $22.00 //  $23.67 //  $34.15 // 
+37144 //  Final Fantasy XV //  $5.68 //  $6.04 //  $9.50 // 
+37145 //  Final Fantasy XV [Deluxe Edition] //  $14.12 //  $19.77 //  $27.52 // 
+45106 //  Final Fantasy XV [Royal Edition] //  $11.12 //  $12.41 //  $16.38 // 
+37148 //  "Final Fantasy XV [Ultimate Collectors Edition]" //  $280.00 //  $319.99 //  $345.00 // 
+50213 //  Fishing Sim World //  $22.22 //  $24.72 //  $31.62 // 
+37382 //  Flatout 4 Total Insanity //  $12.43 //  $13.00 //  $17.17 // 
+37261 //  For Honor //  $5.66 //  $5.72 //  $9.98 // 
+37268 //  "For Honor Apollyon Collectors Edition" //  $134.70 //  $154.90 //  $187.02 // 
+37265 //  For Honor Deluxe Edition //  $9.97 //  $24.96 //  $36.25 // 
+37264 //  For Honor Gold Edition //  $13.41 //  $39.99 //  $43.80 // 
+52173 //  For Honor Marching Fire Edition //  $7.82 //  $8.90 //  $11.39 // 
+37956 //  Fortnite //  $12.51 //  $24.65 //  $45.95 // 
+69313 //  Fortnite [Darkfire Bundle] //  $11.07 //  $11.92 //  $22.02 // 
+53730 //  Fortnite: Deep Freeze //  $12.81 //  $16.00 //  $26.73 // 
+35543 //  Forza Horizon 2 //  $17.83 //  $19.00 //  $19.35 // 
+35096 //  Forza Horizon 2 [Day One] //  $10.73 //  $12.84 //  $14.50 // 
+36964 //  Forza Horizon 3 //  $11.12 //  $11.26 //  $21.88 // 
+36965 //  Forza Horizon 3 Ultimate //  $25.24 //  $34.33 //  $49.33 // 
+52719 //  Forza Horizon 4 //  $24.53 //  $30.24 //  $34.48 // 
+51995 //  Forza Horizon 4 Ultimate Edition //  $46.82 //  $47.25 //  $114.11 // 
+34573 //  Forza Motorsport 5 //  $7.01 //  $8.98 //  $14.62 // 
+34572 //  Forza Motorsport 5 Limited Edition //  $13.50 //  $14.22 //  $30.51 // 
+35974 //  Forza Motorsport 6 //  $11.98 //  $12.29 //  $17.81 // 
+39958 //  Forza Motorsport 7 //  $24.99 //  $25.00 //  $39.94 // 
+39959 //  Forza Motorsport 7 Ultimate Edition //  $47.11 //  $47.28 //  $81.28 // 
+40274 //  Friday the 13th //  $12.88 //  $13.48 //  $27.49 // 
+50766 //  "Friday the 13th [Ultimate Slasher Collectors Edition]" //  $44.43 //  $46.61 //  $51.00 // 
+50765 //  Friday the 13th [Ultimate Slasher Edition] //  $12.50 //  $18.51 //  $23.95 // 
+65552 //  Frostpunk: Console Edition //  $17.60 //  $20.24 //  $33.40 // 
+36287 //  Game of Thrones A Telltale Games Series //  $11.11 //  $12.45 //  $25.20 // 
+68557 //  Gang Beasts //  $26.08 //  $29.99 //  $44.40 // 
+68562 //  Garfield Kart: Furious Racing //  $19.74 //  $25.98 //  $29.16 // 
+63610 //  Gears 5 //  $17.63 //  $21.03 //  $34.29 // 
+63612 //  "Gears 5 [Collectors Edition]" //  $80.06 //  $92.07 //  $92.52 // 
+63611 //  Gears 5 [Ultimate Edition] //  $34.44 //  $39.99 //  $48.54 // 
+36989 //  Gears of War 4 //  $7.81 //  $8.54 //  $16.24 // 
+36991 //  "Gears of War 4 Collectors Edition" //  $83.05 //  $89.44 //  $116.27 // 
+36990 //  Gears of War 4 Ultimate Edition //  $7.99 //  $13.37 //  $33.86 // 
+35877 //  Gears of War Ultimate Edition //  $4.87 //  $5.21 //  $11.61 // 
+36514 //  Gears of War Ultimate Edition and Rare Replay //  $11.99 //  $14.99 //  $16.25 // 
+58031 //  Generation Zero //  $14.96 //  $19.22 //  $20.85 // 
+63894 //  "Generation Zero [Collectors Edition]" //  $34.66 //  $37.33 //  $48.53 // 
+54051 //  Genesis Alpha One //  $11.93 //  $13.40 //  $17.68 // 
+37100 //  Geometry Wars 3: Dimensions Evolved //  $4.93 //  $5.99 //  $6.65 // 
+64697 //  Ghost Recon Breakpoint //  $16.82 //  $19.74 //  $19.99 // 
+64698 //  Ghost Recon Breakpoint [Gold Edition] //  $24.01 //  $26.68 //  $41.99 // 
+64699 //  Ghost Recon Breakpoint [Ultimate Edition] //  $26.09 //  $36.46 //  $36.47 // 
+37308 //  Ghost Recon Wildlands //  $12.00 //  $12.07 //  $19.70 // 
+37312 //  Ghost Recon Wildlands [Deluxe Edition] //  $15.04 //  $36.00 //  $38.25 // 
+42309 //  Ghost Recon Wildlands [Ghost Edition] //  $34.78 //  $40.00 //  $48.69 // 
+37315 //  Ghost Recon Wildlands [War Within the Cartel Edition] //  $24.19 //  $49.99 //  $66.54 // 
+36721 //  Ghostbusters //  $13.26 //  $13.58 //  $22.22 // 
+65045 //  Ghostbusters: The Video Game Remastered //  $19.89 //  $20.53 //  $29.99 // 
+37830 //  Golf Club 2 //  $8.80 //  $10.37 //  $16.24 // 
+53737 //  Golf Club 2019 //  $11.55 //  $15.99 //  $20.50 // 
+35702 //  "Golf Club Collectors Edition" //  $10.50 //  $10.89 //  $14.65 // 
+35354 //  Grand Theft Auto V //  $14.58 //  $16.88 //  $20.99 // 
+49649 //  Grand Theft Auto V [Premium Edition] //  $13.83 //  $17.34 //  $21.25 // 
+45092 //  Gravel //  $8.23 //  $9.14 //  $11.51 // 
+63672 //  GreedFall //  $30.31 //  $33.20 //  $33.50 // 
+69033 //  Grip //   //   //   // 
+37469 //  Guardians of the Galaxy //  $9.95 //  $10.43 //  $14.51 // 
+67774 //  Guitar Hero Live //  $21.53 //  $23.37 //  $67.00 // 
+36141 //  Guitar Hero Live Bundle //  $24.95 //  $53.98 //  $165.00 // 
+36137 //  Guitar Hero Live [2 Pack Bundle] //  $39.99 //  $79.88 //  $147.50 // 
+36203 //  Halo 5 Guardians //  $8.64 //  $9.99 //  $14.99 // 
+36205 //  "Halo 5 Guardians [Limited Collectors Edition]" //  $31.24 //  $40.78 //  $95.32 // 
+36204 //  Halo 5 Guardians [Limited Edition] //  $19.70 //  $19.72 //  $32.87 // 
+37274 //  Halo Wars 2 //  $7.46 //  $8.68 //  $10.26 // 
+37273 //  Halo Wars 2 Ultimate Edition //  $7.99 //  $9.89 //  $11.78 // 
+35300 //  Halo: The Master Chief Collection //  $21.93 //  $25.17 //  $29.74 // 
+37363 //  Has-Been Heroes //  $4.45 //  $6.97 //  $9.41 // 
+36145 //  Hasbro Family Fun Pack //  $12.39 //  $13.82 //  $17.38 // 
+37123 //  Hasbro Family Fun Pack Conquest Edition //  $10.98 //  $15.07 //  $18.04 // 
+53836 //  "Hellblade Senuas Sacrifice" //  $20.12 //  $23.35 //  $23.73 // 
+42302 //  Hello Neighbor //  $9.99 //  $11.40 //  $15.09 // 
+53860 //  Hello Neighbor Hide & Seek //  $9.99 //  $10.00 //  $13.25 // 
+53720 //  Hitman 2 //  $15.99 //  $16.49 //  $20.49 // 
+53721 //  "Hitman 2 [Collectors Edition]" //  $64.34 //  $68.88 //  $100.02 // 
+53722 //  Hitman 2 [Gold Edition] //  $26.39 //  $30.35 //  $42.49 // 
+36470 //  "Hitman Collectors Edition" //  $52.62 //  $67.72 //  $108.81 // 
+37240 //  Hitman The Complete First Season //  $9.07 //  $9.87 //  $17.30 // 
+46427 //  Hitman: Definitive Edition //  $10.46 //  $13.66 //  $17.77 // 
+36618 //  Homefront The Revolution //  $3.92 //  $4.99 //  $6.07 // 
+36622 //  Homefront The Revolution Goliath Edition //  $24.94 //  $41.59 //  $105.99 // 
+47052 //  Hotel Transylvania 3: Monsters Overboard //  $11.95 //  $13.75 //  $19.49 // 
+37938 //  Hunting Simulator //  $15.35 //  $18.54 //  $27.71 // 
+67706 //  "Ice Age: Scrats Nutty Adventure" //  $26.96 //  $29.22 //  $35.38 // 
+50181 //  Immortal Unchained //  $14.80 //  $20.82 //  $24.10 // 
+65150 //  Indivisible //  $11.29 //  $11.54 //  $15.99 // 
+37324 //  Industry Giant 2 //  $7.37 //  $7.99 //  $11.60 // 
+37066 //  Infinite Air //  $5.23 //  $11.12 //  $11.45 // 
+37578 //  Injustice 2 //  $10.00 //  $10.04 //  $12.96 // 
+45701 //  Injustice 2 Legendary Edition //  $13.15 //  $15.75 //  $17.20 // 
+37581 //  Injustice 2 Ultimate Edition //  $16.29 //  $18.73 //  $29.17 // 
+39619 //  Inside Limbo Double Pack //  $11.75 //  $13.25 //  $13.66 // 
+63449 //  Invisible Hours //  $7.14 //  $9.22 //  $13.95 // 
+36149 //  Jackbox Party Pack //  $21.63 //  $26.95 //  $38.99 // 
+53830 //  Jagged Alliance Rage //  $10.64 //  $11.51 //  $14.89 // 
+67880 //  Journey to the Savage Planet //  $19.55 //  $23.43 //  $23.50 // 
+65567 //  Jumanji: The Video Game //  $24.63 //  $25.24 //  $37.00 // 
+54484 //  Jump Force //  $18.67 //  $19.71 //  $25.05 // 
+54488 //  "Jump Force [Collectors Edition]" //  $91.46 //  $99.46 //  $135.73 // 
+54487 //  Jump Force [Ultimate Edition] //  $25.48 //  $29.30 //  $34.99 // 
+47029 //  Jurassic World Evolution //  $32.16 //  $35.21 //  $45.77 // 
+36305 //  Just Cause 3 //  $4.43 //  $6.15 //  $12.21 // 
+36308 //  "Just Cause 3 Collectors Edition" //  $20.30 //  $20.97 //  $39.99 // 
+53823 //  Just Cause 4 //  $12.85 //  $13.88 //  $17.92 // 
+53825 //  Just Cause 4 [Gold Edition] //  $24.84 //  $25.39 //  $33.37 // 
+58518 //  Just Cause 4 [Steelbook Edition] //  $14.78 //  $17.00 //  $17.00 // 
+34792 //  Just Dance 2014 //  $5.66 //  $6.98 //  $9.92 // 
+35192 //  Just Dance 2015 //  $5.25 //  $5.47 //  $7.99 // 
+36154 //  Just Dance 2016 //  $5.46 //  $5.49 //  $7.16 // 
+36157 //  Just Dance 2016: Gold Edition //  $6.33 //  $14.95 //  $17.55 // 
+37047 //  Just Dance 2017 //  $7.93 //  $7.99 //  $8.99 // 
+37050 //  Just Dance 2017 Gold Edition //  $10.48 //  $17.50 //  $20.05 // 
+40329 //  Just Dance 2018 //  $9.36 //  $11.23 //  $12.68 // 
+52662 //  Just Dance 2019 //  $12.20 //  $14.97 //  $17.74 // 
+65502 //  Just Dance 2020 //  $18.52 //  $21.55 //  $24.28 // 
+36162 //  Just Dance: Disney Party 2 //  $8.29 //  $8.91 //  $14.95 // 
+36808 //  Just Sing //  $8.00 //  $8.56 //  $10.73 // 
+35085 //  Killer Instinct: Combo Breaker Pack //  $9.50 //  $12.69 //  $19.63 // 
+36940 //  Killer Instinct: Definitive Edition //  $14.50 //  $25.05 //  $46.15 // 
+66766 //  Killer Queen Black //  $21.42 //  $23.07 //  $29.99 // 
+39066 //  Killing Floor 2 //  $16.73 //  $24.33 //  $32.70 // 
+35147 //  Kinect Sensor //  $27.01 //  $39.72 //  $51.64 // 
+35148 //  Kinect Sensor with Dance Central Spotlight //  $78.02 //  $89.72 //  $116.64 // 
+34799 //  Kinect Sports Rivals //  $15.50 //  $22.38 //  $29.99 // 
+37705 //  "Kings Quest The Complete Collection" //  $8.89 //  $9.46 //  $13.72 // 
+45095 //  Kingdom Come Deliverance //  $8.04 //  $9.81 //  $10.42 // 
+59542 //  Kingdom Come Deliverance [Royal Edition] //  $15.06 //  $16.90 //  $21.99 // 
+45040 //  Kingdom Come Deliverance [Special Edition] //  $15.36 //  $16.09 //  $26.46 // 
+54056 //  Kingdom Hearts III //  $13.84 //  $16.81 //  $17.71 // 
+55877 //  Kingdom Hearts III [Deluxe Edition + Bring Arts Figures] //  $171.42 //  $197.13 //  $240.00 // 
+54057 //  Kingdom Hearts III [Deluxe Edition] //  $24.99 //  $26.44 //  $36.50 // 
+36311 //  Kung Fu Panda Showdown of the Legendary Legends //  $11.88 //  $12.00 //  $21.15 // 
+40495 //  L.A. Noire //  $12.77 //  $14.40 //  $19.78 // 
+35304 //  LEGO Batman 3: Beyond Gotham //  $9.46 //  $9.99 //  $14.37 // 
+37377 //  LEGO City Undercover //  $9.99 //  $13.09 //  $16.99 // 
+45729 //  LEGO City Undercover [Toy Bundle] //  $16.55 //  $19.02 //  $20.73 // 
+52159 //  LEGO DC Super Villains //  $12.25 //  $15.67 //  $19.19 // 
+52162 //  LEGO DC Super Villains [Deluxe Edition] //  $18.03 //  $20.74 //  $34.85 // 
+36073 //  LEGO Dimensions Starter Pack //  $13.74 //  $21.80 //  $75.28 // 
+52712 //  LEGO Harry Potter Collection //  $13.95 //  $15.43 //  $17.99 // 
+35776 //  LEGO Jurassic World //  $6.34 //  $7.99 //  $11.68 // 
+55846 //  LEGO Marvel Collection //  $17.63 //  $20.00 //  $24.50 // 
+34793 //  LEGO Marvel Super Heroes //  $6.56 //  $7.11 //  $10.03 // 
+40489 //  LEGO Marvel Super Heroes 2 //  $10.11 //  $10.95 //  $14.97 // 
+40486 //  LEGO Marvel Super Heroes 2 Deluxe Edition //  $18.63 //  $20.00 //  $29.95 // 
+36413 //  "LEGO Marvels Avengers" //  $9.50 //  $9.52 //  $13.93 // 
+54994 //  LEGO Movie 2 Videogame //  $12.80 //  $12.99 //  $16.36 // 
+34668 //  LEGO Movie Videogame //  $4.48 //  $6.25 //  $9.37 // 
+39908 //  LEGO Ninjago Movie //  $10.73 //  $12.15 //  $15.99 // 
+36689 //  LEGO Star Wars The Force Awakens //  $7.36 //  $8.33 //  $10.65 // 
+36684 //  LEGO Star Wars The Force Awakens Deluxe Edition //  $12.10 //  $13.74 //  $13.99 // 
+34804 //  LEGO The Hobbit //  $14.54 //  $19.72 //  $25.88 // 
+46988 //  LEGO The Incredibles //  $6.04 //  $13.32 //  $16.69 // 
+37305 //  LEGO Worlds //  $8.48 //  $9.99 //  $14.00 // 
+70227 //  La Mulana 1 & 2 [Hidden Treasures Edition] //  $42.14 //  $45.38 //  $58.99 // 
+36377 //  Lichdom: Battlemage //  $5.50 //  $5.51 //  $7.07 // 
+36643 //  Life Is Strange //  $9.57 //  $10.48 //  $12.52 // 
+36646 //  Life Is Strange Limited Edition //  $35.00 //  $40.88 //  $80.00 // 
+67716 //  Life is Strange 2 //  $27.83 //  $30.00 //  $37.99 // 
+67718 //  "Life is Strange 2 [Collectors Edition]" //   //   //   // 
+45109 //  Life is Strange: Before the Storm //  $7.49 //  $8.26 //  $10.35 // 
+45110 //  Life is Strange: Before the Storm [Limited Edition] //  $11.51 //  $16.02 //  $16.21 // 
+45111 //  Life is Strange: Before the Storm [Vinyl Edition] //   //   //   // 
+40378 //  Little Nightmares Complete Edition //  $14.97 //  $15.21 //  $27.49 // 
+37434 //  Little Nightmares Six Edition //  $22.75 //  $35.71 //  $50.00 // 
+37709 //  "Locks Quest" //  $7.00 //  $9.79 //  $13.79 // 
+35235 //  Lords of the Fallen //  $5.89 //  $6.97 //  $9.98 // 
+36221 //  Lords of the Fallen Complete Edition //  $6.77 //  $7.10 //  $9.97 // 
+37260 //  Lords of the Fallen Limited Edition //  $6.14 //  $6.97 //  $8.60 // 
+45703 //  MX vs ATV All Out //  $10.84 //  $14.16 //  $19.99 // 
+55844 //  MX vs ATV All Out [Anniversary Edition] //  $17.34 //  $19.24 //  $22.99 // 
+36776 //  MX vs ATV Supercross Encore Edition //  $5.56 //  $6.84 //  $10.15 // 
+36674 //  MXGP 2 //  $6.02 //  $9.29 //  $13.28 // 
+65227 //  MXGP 2019 //  $25.92 //  $28.79 //  $38.87 // 
+37799 //  MXGP 3 //  $3.64 //  $9.70 //  $12.99 // 
+47019 //  MXGP Pro //  $9.34 //  $10.25 //  $15.75 // 
+35929 //  Mad Max //  $8.73 //  $9.74 //  $15.00 // 
+62368 //  Madden 19 & FIFA 19 //  $14.14 //  $18.18 //  $23.12 // 
+35007 //  Madden NFL 15 //  $2.45 //  $3.99 //  $5.10 // 
+35012 //  Madden NFL 15: Ultimate Edition //  $3.99 //  $4.31 //  $14.37 // 
+35880 //  Madden NFL 16 //  $3.72 //  $3.99 //  $5.22 // 
+35883 //  Madden NFL 16 Deluxe Edition //  $5.21 //  $5.36 //  $7.29 // 
+36764 //  Madden NFL 17 //  $3.54 //  $3.87 //  $5.91 // 
+36767 //  Madden NFL 17 Deluxe Edition //  $4.24 //  $11.12 //  $11.24 // 
+38628 //  Madden NFL 18 //  $4.66 //  $5.15 //  $6.21 // 
+38629 //  Madden NFL 18 GOAT Edition //  $8.18 //  $8.19 //  $17.16 // 
+42401 //  Madden NFL 18 Limited Edition //  $6.74 //  $7.69 //  $9.87 // 
+49638 //  Madden NFL 19 //  $6.23 //  $9.95 //  $13.65 // 
+49614 //  Madden NFL 19 [Hall of Fame Edition] //  $7.99 //  $11.42 //  $13.44 // 
+62497 //  Madden NFL 20 //  $23.83 //  $24.99 //  $29.97 // 
+62445 //  Madden NFL 20 [Superstar Edition] //  $30.01 //  $31.92 //  $39.82 // 
+34571 //  Madden NFL 25 //  $3.06 //  $4.00 //  $12.39 // 
+36975 //  Mafia III //  $7.29 //  $7.99 //  $10.30 // 
+36977 //  "Mafia III Collectors Editoin" //  $15.99 //  $16.37 //  $33.53 // 
+36980 //  Mafia III Deluxe Edition //  $8.28 //  $13.95 //  $20.18 // 
+37102 //  Marvel Pinball: Epic Collection Vol. 1 //  $11.21 //  $15.79 //  $18.40 // 
+39652 //  Marvel vs Capcom: Infinite //  $15.11 //  $18.77 //  $27.95 // 
+39656 //  "Marvel vs Capcom: Infinite Collectors Edition" //  $57.49 //  $57.52 //  $80.61 // 
+39654 //  Marvel vs Capcom: Infinite Deluxe Edition //  $17.38 //  $19.99 //  $29.62 // 
+37337 //  Mass Effect Andromeda //  $3.94 //  $4.76 //  $5.95 // 
+37339 //  Mass Effect Andromeda Deluxe Edition //  $3.50 //  $9.89 //  $15.22 // 
+51987 //  Mega Man 11 //  $7.75 //  $11.16 //  $14.46 // 
+36448 //  Mega Man Legacy Collection //  $8.96 //  $10.00 //  $14.17 // 
+38532 //  Mega Man Legacy Collection 2 //  $8.41 //  $8.99 //  $10.07 // 
+36708 //  Mega Man Legacy Collection Special Edition //  $89.60 //  $96.49 //  $125.44 // 
+47092 //  Mega Man X Legacy Collection 1 + 2 //  $11.99 //  $12.85 //  $18.17 // 
+68868 //  Mega Man Zero/ZX Legacy Collection //  $27.98 //  $28.29 //  $43.00 // 
+36994 //  Metal Gear Solid V The Definitive Experience //  $14.42 //  $17.94 //  $19.73 // 
+34751 //  Metal Gear Solid V: Ground Zeroes //  $5.00 //  $5.17 //  $10.39 // 
+35937 //  Metal Gear Solid V: The Phantom Pain //  $5.91 //  $7.94 //  $10.00 // 
+35935 //  "Metal Gear Solid V: The Phantom Pain [Collectors Edition]" //  $40.00 //  $46.77 //  $86.74 // 
+35933 //  Metal Gear Solid V: The Phantom Pain [Day One] //  $6.99 //  $8.22 //  $11.54 // 
+45069 //  Metal Gear Survive //  $5.94 //  $7.99 //  $9.91 // 
+54480 //  Metro Exodus //  $18.52 //  $18.61 //  $21.87 // 
+54481 //  Metro Exodus [Aurora Limited Edition] //  $34.99 //  $35.87 //  $47.95 // 
+35016 //  Metro Redux //  $10.25 //  $11.73 //  $14.99 // 
+37804 //  Micro Machines World Series //  $6.49 //  $7.86 //  $13.06 // 
+35099 //  Middle Earth: Shadow of Mordor //  $4.51 //  $4.99 //  $9.23 // 
+35764 //  Middle Earth: Shadow of Mordor [Game of the Year] //  $8.48 //  $9.61 //  $15.55 // 
+40240 //  Middle Earth: Shadow of War //  $5.50 //  $6.70 //  $8.93 // 
+50085 //  Middle Earth: Shadow of War Definitive Edition //  $8.66 //  $11.49 //  $18.24 // 
+40241 //  Middle Earth: Shadow of War Gold Edition //  $13.82 //  $14.93 //  $23.17 // 
+40244 //  Middle Earth: Shadow of War Mithril Edition //  $192.00 //  $220.78 //  $268.80 // 
+36429 //  Mighty No. 9 //  $5.00 //  $6.20 //  $7.77 // 
+36431 //  Mighty No. 9 Signature Edition //  $10.98 //  $21.61 //  $25.33 // 
+35361 //  Minecraft //  $14.48 //  $14.61 //  $24.62 // 
+40450 //  Minecraft Explorers Pack //  $11.50 //  $12.21 //  $19.27 // 
+36672 //  Minecraft Favorites Pack //  $15.99 //  $19.10 //  $27.45 // 
+52145 //  Minecraft Master Collection //  $21.06 //  $24.61 //  $43.37 // 
+37058 //  Minecraft: Story Mode Complete Adventure //  $9.80 //  $12.48 //  $16.13 // 
+36111 //  Minecraft: Story Mode Season Pass //  $6.47 //  $6.51 //  $12.00 // 
+39965 //  Minecraft: Story Mode Season Two //  $10.94 //  $15.65 //  $33.38 // 
+36452 //  "Mirrors Edge Catalyst" //  $4.83 //  $6.05 //  $7.78 // 
+36453 //  "Mirrors Edge Catalyst [Collectors Edition]" //  $33.99 //  $55.00 //  $55.93 // 
+35363 //  Monopoly Family Fun Pack //  $10.47 //  $15.49 //  $18.90 // 
+45048 //  Monster Energy Supercross //  $10.00 //  $12.60 //  $14.99 // 
+54410 //  Monster Energy Supercross 2 //  $17.12 //  $17.49 //  $18.92 // 
+67876 //  Monster Energy Supercross 3 //  $38.42 //  $42.50 //  $48.75 // 
+44950 //  Monster Hunter: World //  $10.84 //  $11.00 //  $13.77 // 
+44951 //  "Monster Hunter: World Collectors Edition" //  $102.50 //  $111.97 //  $170.00 // 
+63607 //  Monster Hunter: World Iceborne Master Edition //  $24.99 //  $27.97 //  $39.91 // 
+63608 //  Monster Hunter: World Iceborne Master Edition [Deluxe] //  $53.50 //  $61.52 //  $74.90 // 
+59658 //  Monster Jam Steel Titans //  $18.01 //  $19.07 //  $32.25 // 
+59660 //  "Monster Jam Steel Titans [Collectors Edition]" //  $42.08 //  $48.39 //  $63.74 // 
+37406 //  Monster Jam: Crush It //  $10.00 //  $13.45 //  $19.92 // 
+52171 //  Monstrum //   //   //   // 
+58277 //  Mortal Kombat 11 //  $20.60 //  $22.90 //  $26.94 // 
+63076 //  "Mortal Kombat 11 [Kollectors Edition]" //  $47.83 //  $55.00 //  $184.83 // 
+58278 //  Mortal Kombat 11 [Premium Edition] //  $39.99 //  $42.69 //  $70.46 // 
+35676 //  Mortal Kombat X //  $7.90 //  $9.41 //  $13.44 // 
+35679 //  "Mortal Kombat X: Kollectors Edition" //  $38.83 //  $44.72 //  $91.80 // 
+35681 //  "Mortal Kombat X: Kollectors Edition Amazon Exclusive" //  $137.25 //  $157.84 //  $190.17 // 
+36462 //  Mortal Kombat XL //  $10.00 //  $10.09 //  $15.99 // 
+50070 //  Mothergunship //  $9.75 //  $11.28 //  $14.99 // 
+37230 //  Moto Racer 4 //  $8.98 //  $10.33 //  $19.98 // 
+37936 //  MotoGP 17 //  $8.00 //  $9.04 //  $14.99 // 
+58613 //  MotoGP 19 //  $29.99 //  $30.97 //  $39.37 // 
+70913 //  MotoGP 20 //   //   //   // 
+71013 //  Moving Out //   //   //   // 
+40390 //  MudRunner //  $16.00 //  $16.54 //  $22.40 // 
+52667 //  MudRunner American Wilds //  $10.56 //  $22.50 //  $25.86 // 
+34923 //  Murdered: Soul Suspect //  $4.95 //  $5.56 //  $6.77 // 
+52703 //  Mutant Football League Dynasty Edition //  $9.99 //  $11.24 //  $12.91 // 
+62447 //  Mutant Year Zero: Road to Eden //  $11.40 //  $12.46 //  $15.55 // 
+52681 //  "My Hero Ones Justice" //  $14.83 //  $17.05 //  $20.48 // 
+69024 //  "My Hero Ones Justice 2" //  $42.50 //  $49.99 //  $50.99 // 
+69027 //  "My Hero Ones Justice 2 [Collectors Edition]" //  $92.85 //  $99.99 //  $129.99 // 
+58398 //  My Time at Portia //  $13.65 //  $15.00 //  $22.15 // 
+39624 //  NASCAR Heat 2 //  $8.56 //  $9.46 //  $11.75 // 
+50195 //  NASCAR Heat 3 //  $9.99 //  $11.31 //  $18.04 // 
+67236 //  NASCAR Heat 4 //  $20.00 //  $26.64 //  $33.39 // 
+36923 //  NASCAR Heat Evolution //  $9.41 //  $9.73 //  $14.59 // 
+52153 //  NBA 2K Playgrounds 2 //  $10.53 //  $11.61 //  $13.92 // 
+34570 //  NBA 2K14 //  $3.20 //  $3.73 //  $4.22 // 
+35143 //  NBA 2K15 //  $3.35 //  $3.72 //  $5.59 // 
+36014 //  NBA 2K16 //  $3.10 //  $4.25 //  $7.24 // 
+36015 //  NBA 2K16 Michael Jordan Special Edition //  $11.10 //  $15.04 //  $32.53 // 
+36949 //  NBA 2K17 //  $3.99 //  $4.99 //  $7.76 // 
+36950 //  NBA 2K17 [Legend Edition Gold] //  $17.00 //  $24.81 //  $35.88 // 
+37039 //  NBA 2K17 [Legend Edition] //  $8.40 //  $17.16 //  $27.54 // 
+39634 //  NBA 2K18 //  $3.54 //  $4.38 //  $5.12 // 
+39637 //  NBA 2K18 Legend Edition //  $7.91 //  $10.28 //  $24.99 // 
+39638 //  NBA 2K18 Legend Edition Gold //  $5.00 //  $11.03 //  $22.99 // 
+50186 //  NBA 2K19 //  $5.97 //  $6.24 //  $9.99 // 
+50187 //  NBA 2K19 20th Anniversary Edition //  $10.95 //  $15.75 //  $18.65 // 
+63602 //  NBA 2K20 //  $22.00 //  $24.11 //  $29.40 // 
+63601 //  NBA 2K20 [Legend Edition] //  $28.28 //  $32.00 //  $49.33 // 
+34596 //  NBA Live 14 //  $3.87 //  $3.95 //  $6.15 // 
+35239 //  NBA Live 15 //  $3.94 //  $4.99 //  $5.00 // 
+36078 //  NBA Live 16 //  $5.01 //  $5.24 //  $7.85 // 
+39625 //  NBA Live 18 //  $4.69 //  $6.09 //  $6.16 // 
+50178 //  NBA Live 19 //  $7.99 //  $9.89 //  $12.35 // 
+35043 //  NHL 15 //  $2.97 //  $3.89 //  $5.61 // 
+35047 //  NHL 15 [Ultimate Edition] //  $1.61 //  $5.00 //  $12.04 // 
+35976 //  NHL 16 //  $3.40 //  $4.60 //  $4.70 // 
+35977 //  NHL 16 [Deluxe Edition] //  $4.36 //  $4.76 //  $12.72 // 
+36901 //  NHL 17 //  $3.31 //  $5.01 //  $6.11 // 
+36903 //  NHL 17 Deluxe Edition //  $9.68 //  $13.92 //  $26.50 // 
+39628 //  NHL 18 //  $5.00 //  $6.94 //  $7.03 // 
+50185 //  NHL 19 //  $8.71 //  $11.46 //  $12.99 // 
+65344 //  NHL 20 //  $25.23 //  $29.49 //  $34.99 // 
+36433 //  Naruto Shippuden Ultimate Ninja Storm 4 //  $10.88 //  $10.99 //  $17.99 // 
+37245 //  Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto //  $10.87 //  $13.52 //  $15.85 // 
+38639 //  Naruto Shippuden: Ultimate Ninja Storm Legacy  //  $51.54 //  $62.16 //  $86.39 // 
+50133 //  Naruto to Boruto: Shinobi Striker //  $10.74 //  $10.90 //  $14.27 // 
+36223 //  Need for Speed //  $7.10 //  $8.09 //  $14.31 // 
+36225 //  Need for Speed Deluxe Edition //  $12.04 //  $13.91 //  $15.65 // 
+65510 //  Need for Speed Heat //  $32.00 //  $32.49 //  $38.81 // 
+65511 //  Need for Speed Heat [Deluxe Edition] //  $59.64 //  $64.23 //  $83.50 // 
+40549 //  Need for Speed Payback //  $8.13 //  $9.32 //  $15.08 // 
+40451 //  Need for Speed Payback Deluxe Edition //  $12.70 //  $15.25 //  $23.98 // 
+34599 //  Need for Speed Rivals //  $7.08 //  $8.96 //  $13.19 // 
+35197 //  Need for Speed Rivals Complete Edition //  $11.36 //  $14.83 //  $31.73 // 
+66882 //  Neverwinter Nights Enhanced Edition //  $23.42 //  $25.47 //  $34.00 // 
+70970 //  "Neverwinter Nights Enhanced Edition [Collectors Pack]" //   //   //   // 
+52670 //  Nickelodeon Kart Racers //  $18.32 //  $19.00 //  $25.07 // 
+47095 //  "No Mans Sky" //  $20.00 //  $23.82 //  $26.39 // 
+66969 //  Northgard //  $19.12 //  $21.99 //  $24.95 // 
+42307 //  Okami HD //  $9.01 //  $9.55 //  $13.22 // 
+36639 //  One Piece Burning Blood //  $10.40 //  $10.80 //  $16.85 // 
+69350 //  One Piece: Pirate Warriors 4 //   //   //   // 
+57976 //  One Piece: World Seeker //  $14.78 //  $20.44 //  $20.47 // 
+68870 //  One Punch Man: A Hero Nobody Knows //  $33.73 //  $37.49 //  $48.18 // 
+53958 //  Onimusha Warlords //  $12.17 //  $14.00 //  $17.71 // 
+46955 //  Onrush //  $8.49 //  $11.35 //  $13.50 // 
+36781 //  Ori and the Blind Forest Definitive Edition //  $17.83 //  $18.93 //  $24.95 // 
+69031 //  Ori and the Will of the Wisps //  $16.06 //  $20.49 //  $22.48 // 
+69032 //  "Ori and the Will of the Wisps [Collectors Edition]" //  $33.54 //  $38.00 //  $47.12 // 
+37422 //  Outlast Trinity //  $13.89 //  $14.65 //  $19.17 // 
+58118 //  Outward //  $21.99 //  $23.85 //  $25.54 // 
+49616 //  Overcooked 2 //  $15.55 //  $17.17 //  $29.99 // 
+38618 //  Overcooked Gourmet Edition //  $11.77 //  $14.99 //  $20.95 // 
+53841 //  Override Mech City Brawl //  $7.99 //  $9.98 //  $12.51 // 
+36634 //  Overwatch Origins Edition //  $13.99 //  $20.00 //  $29.88 // 
+36632 //  "Overwatch [Collectors Edition]" //  $51.73 //  $65.76 //  $89.96 // 
+42343 //  Overwatch [Game of the Year] //  $13.99 //  $22.55 //  $24.48 // 
+55721 //  Overwatch [Legendary Edition] //  $19.99 //  $22.39 //  $30.44 // 
+37091 //  Pac-Man Championship Edition 2 + Arcade Game Series  //  $11.30 //  $11.42 //  $15.44 // 
+45085 //  Past Cure //  $8.31 //  $9.37 //  $12.50 // 
+52669 //  Paw Patrol on a Roll //  $19.99 //  $22.36 //  $27.99 // 
+36987 //  Payday 2 The Big Score //  $9.40 //  $11.11 //  $15.64 // 
+35786 //  Payday 2: Crimewave //  $8.88 //  $9.61 //  $11.39 // 
+39956 //  Pharaonic Deluxe Edition //  $6.49 //  $8.97 //  $10.00 // 
+39068 //  Pillars of Eternity Complete Edition //  $9.42 //  $10.50 //  $13.68 // 
+67785 //  Pillars of Eternity II: Deadfire Ultimate Edition //  $40.07 //  $44.98 //  $58.47 // 
+67787 //  "Pillars of Eternity II: Deadfire Ultimate [Collectors Edition]" //  $92.85 //  $99.99 //  $129.99 // 
+58603 //  PixArk //  $10.75 //  $10.95 //  $16.04 // 
+65299 //  Planescape: Torment & Icewind Dale Enhanced Editions //   //   //   // 
+70967 //  "Planescape: Torment & Icewind Dale Enhanced Editions [Collectors Pack]" //   //   //   // 
+66775 //  Plants vs. Zombies: Battle for Neighborville //  $15.34 //  $17.50 //  $26.38 // 
+34702 //  Plants vs. Zombies: Garden Warfare //  $6.25 //  $6.43 //  $13.56 // 
+36457 //  Plants vs. Zombies: Garden Warfare 2 //  $9.18 //  $10.00 //  $13.27 // 
+36459 //  Plants vs. Zombies: Garden Warfare 2 Deluxe Edition //  $17.72 //  $24.60 //  $39.99 // 
+45751 //  "PlayerUnknowns Battlegrounds" //  $8.95 //  $10.99 //  $12.00 // 
+37605 //  Portal Knights //  $8.98 //  $10.33 //  $11.10 // 
+37472 //  Prey //  $5.40 //  $6.25 //  $8.07 // 
+36694 //  Prison Architect //  $10.86 //  $11.66 //  $15.45 // 
+35308 //  Pro Evolution Soccer 2015 //  $3.02 //  $4.00 //  $5.99 // 
+35982 //  Pro Evolution Soccer 2016 //  $5.08 //  $10.00 //  $10.66 // 
+36904 //  Pro Evolution Soccer 2017 //  $5.13 //  $7.24 //  $9.38 // 
+39614 //  Pro Evolution Soccer 2018 //  $6.72 //  $7.44 //  $10.00 // 
+39617 //  Pro Evolution Soccer 2018 Legendary Edition //  $15.67 //  $22.09 //  $31.67 // 
+50078 //  Pro Evolution Soccer 2019 //  $9.00 //  $15.00 //  $19.27 // 
+50079 //  Pro Evolution Soccer 2019 David Beckham Edition //  $46.83 //  $53.84 //  $65.57 // 
+54364 //  Pro Fishing Simulator //  $17.20 //  $19.74 //  $37.99 // 
+37323 //  Professional Farmer 2017 //  $5.96 //  $7.18 //  $7.62 // 
+35711 //  Project Cars //  $5.27 //  $7.51 //  $11.98 // 
+39911 //  Project Cars 2 //  $8.49 //  $11.79 //  $15.29 // 
+37068 //  Project Cars [Game of the Year] //  $11.21 //  $12.19 //  $19.67 // 
+53735 //  Project Highrise Architect Edition //  $11.56 //  $11.69 //  $16.04 // 
+35144 //  Project Spark //  $5.25 //  $5.49 //  $8.59 // 
+37370 //  Prototype Biohazard Bundle //  $29.46 //  $33.09 //  $40.85 // 
+45135 //  Pure Farming 2018 //  $6.24 //  $7.89 //  $11.70 // 
+36521 //  Quantum Break //  $6.23 //  $7.76 //  $9.05 // 
+36518 //  RBI Baseball 16 //  $6.27 //  $8.23 //  $14.56 // 
+45199 //  RBI Baseball 18 //  $11.99 //  $12.50 //  $20.50 // 
+55792 //  RBI Baseball 19 //  $21.37 //  $21.71 //  $28.23 // 
+37356 //  RBI Baseball 2017 //  $9.92 //  $10.19 //  $12.69 // 
+35367 //  Rabbids Invasion //  $6.74 //  $7.64 //  $10.29 // 
+66977 //  Race with Ryan //  $20.83 //  $23.58 //  $25.00 // 
+66981 //  Race with Ryan [Car Bundle] //  $40.54 //  $43.67 //  $56.77 // 
+45067 //  Rad Rodgers //  $9.63 //  $11.81 //  $13.11 // 
+58403 //  Rage 2 //  $14.11 //  $14.62 //  $19.08 // 
+58407 //  "Rage 2 [Collectors Edition]" //  $30.00 //  $30.00 //  $44.62 // 
+58406 //  Rage 2 [Deluxe Edition] //  $15.69 //  $16.11 //  $23.99 // 
+40239 //  Raid: World War II //  $2.99 //  $5.49 //  $8.46 // 
+44958 //  Railway Empire //  $14.32 //  $16.38 //  $24.69 // 
+36316 //  Rainbow Six Siege //  $9.71 //  $10.01 //  $16.67 // 
+37250 //  Rainbow Six Siege Year 2 //  $14.58 //  $24.88 //  $34.99 // 
+45045 //  Rainbow Six Siege [Advanced Edition] //  $16.69 //  $17.98 //  $23.37 // 
+45043 //  Rainbow Six Siege [Complete Edition] //  $24.37 //  $25.00 //  $49.95 // 
+36319 //  Rainbow Six Siege [Gold Edition] //  $12.72 //  $14.43 //  $41.72 // 
+40339 //  Rapala Fishing Pro Series //  $12.39 //  $18.16 //  $29.04 // 
+35837 //  Rare Replay //  $7.90 //  $9.68 //  $15.39 // 
+34694 //  Rayman Legends //  $9.99 //  $11.06 //  $18.42 // 
+36908 //  ReCore //  $6.24 //  $8.03 //  $11.78 // 
+36909 //  "ReCore Collectors Edition" //  $29.34 //  $57.38 //  $85.69 // 
+42381 //  ReCore Definitive Edition //  $8.99 //  $10.99 //  $30.50 // 
+40290 //  Real Farm //  $9.59 //  $10.14 //  $15.11 // 
+52674 //  Red Dead Redemption 2 //  $19.98 //  $29.49 //  $34.99 // 
+52677 //  Red Dead Redemption 2 [Special Edition] //  $39.69 //  $40.00 //  $59.52 // 
+52679 //  Red Dead Redemption 2 [Ultimate Edition] //  $27.50 //  $40.74 //  $86.41 // 
+47031 //  Red Faction Guerrilla Remarstered //  $13.22 //  $14.29 //  $18.40 // 
+39078 //  Redout //  $6.62 //  $7.61 //  $10.86 // 
+65555 //  Remothered: Tormented Fathers //  $18.24 //  $20.98 //  $26.49 // 
+54044 //  Resident Evil 2 //  $18.77 //  $24.99 //  $31.45 // 
+54046 //  "Resident Evil 2 [Collectors Edition]" //  $52.92 //  $168.85 //  $337.33 // 
+54045 //  Resident Evil 2 [Deluxe Edition] //  $30.00 //  $30.96 //  $75.89 // 
+70224 //  Resident Evil 3 //  $42.61 //  $48.94 //  $49.18 // 
+70226 //  "Resident Evil 3 [Collectors Edition]" //  $247.46 //  $311.25 //  $334.46 // 
+36796 //  Resident Evil 4 //  $12.73 //  $15.80 //  $17.89 // 
+36778 //  Resident Evil 5 //  $10.33 //  $11.55 //  $16.22 // 
+36779 //  Resident Evil 6 //  $10.59 //  $14.84 //  $19.90 // 
+37225 //  Resident Evil 7 Biohazard //  $11.18 //  $12.61 //  $16.20 // 
+45072 //  "Resident Evil 7 Biohazard Collectors Edition" //  $290.52 //  $292.52 //  $457.18 // 
+42303 //  Resident Evil 7 Biohazard Gold Edition //  $16.12 //  $19.74 //  $26.72 // 
+70486 //  Resident Evil 7 Biohazard [Deluxe Edition] //  $15.61 //  $17.95 //  $119.99 // 
+36379 //  Resident Evil Origins Collection //  $15.95 //  $18.40 //  $22.06 // 
+39074 //  Resident Evil Revelations //  $11.65 //  $12.52 //  $19.61 // 
+35630 //  Resident Evil Revelations 2 //  $10.77 //  $13.70 //  $17.99 // 
+36106 //  Ride //  $10.15 //  $12.72 //  $13.58 // 
+37270 //  Ride 2 //  $9.72 //  $10.00 //  $19.60 // 
+53808 //  Ride 3 //  $27.34 //  $28.00 //  $29.99 // 
+37609 //  Rime //  $8.60 //  $8.90 //  $10.31 // 
+36258 //  Rise of the Tomb Raider //  $7.27 //  $9.94 //  $13.49 // 
+40349 //  "Rise of the Tomb Raider [Collectors Edition]" //  $89.12 //  $89.63 //  $215.87 // 
+40481 //  Road Rage //  $10.04 //  $10.71 //  $14.08 // 
+36089 //  Rock Band 4 //  $17.43 //  $18.81 //  $27.95 // 
+36093 //  Rock Band 4 [Band-in-a-Box Bundle] //  $315.00 //  $521.08 //  $632.50 // 
+36090 //  Rock Band 4 [Guitar Bundle] //  $47.25 //  $146.89 //  $159.30 // 
+37025 //  Rock Band Rivals Band Kit Bundle //  $95.00 //  $420.89 //  $467.03 // 
+37023 //  Rock Band Rivals Guitar Bundle //  $67.08 //  $170.00 //  $285.00 // 
+36713 //  "Rocket League Collectors Edition" //  $13.62 //  $14.57 //  $17.93 // 
+50081 //  Rocket League Ultimate Edition //  $14.36 //  $17.41 //  $22.84 // 
+35279 //  Rocksmith 2014 Edition //  $21.81 //  $29.90 //  $32.00 // 
+36970 //  Rocksmith 2014 Edition Remastered //  $24.72 //  $40.28 //  $54.67 // 
+38535 //  Rogue Stormers //  $6.08 //  $6.99 //  $11.95 // 
+40285 //  Rogue Trooper Redux //  $11.95 //  $11.97 //  $15.80 // 
+66761 //  Roman Rumble In Las Vegum //  $10.39 //  $11.95 //  $14.91 // 
+35814 //  Rory McIlroy PGA Tour //  $39.83 //  $67.22 //  $75.47 // 
+35577 //  Rugby 15 //  $3.97 //  $5.94 //  $8.12 // 
+40320 //  Rugby 18 //  $12.11 //  $12.74 //  $16.75 // 
+40384 //  Rush: Disney Pixar Adventure //  $14.47 //  $18.00 //  $23.38 // 
+34576 //  Ryse: Son of Rome //  $3.93 //  $5.94 //  $10.07 // 
+35288 //  Ryse: Son of Rome Legendary Edition //  $5.88 //  $6.79 //  $15.00 // 
+35465 //  Saints Row IV: Re-Elected & Gat Out of Hell //  $9.84 //  $12.99 //  $15.25 // 
+59656 //  Samurai Shodown //  $14.25 //  $23.10 //  $32.75 // 
+35597 //  ScreamRide //  $5.83 //  $7.83 //  $10.22 // 
+50221 //  Scribblenauts Mega Pack //  $13.76 //  $13.82 //  $15.37 // 
+45115 //  Scribblenauts Showdown //  $5.03 //  $5.43 //  $10.36 // 
+45197 //  Sea of Thieves //  $13.67 //  $18.50 //  $24.67 // 
+36499 //  Sebastien Loeb Rally Evo //  $7.99 //  $8.10 //  $10.29 // 
+46494 //  Sega Genesis Classics //  $17.12 //  $17.91 //  $21.58 // 
+58029 //  Sekiro: Shadows Die Twice //  $27.15 //  $27.99 //  $36.19 // 
+58066 //  "Sekiro: Shadows Die Twice [Collectors Edition]" //  $117.82 //  $125.00 //  $166.73 // 
+38405 //  Shadow Tactics Blades of the Shogun //  $6.08 //  $6.76 //  $10.00 // 
+35201 //  Shadow Warrior //  $4.76 //  $5.42 //  $10.15 // 
+50234 //  Shadow of The Tomb Raider //  $12.06 //  $13.34 //  $18.99 // 
+50211 //  Shadow of the Tomb Raider [Croft Steelbook Edition] //  $16.81 //  $17.88 //  $25.89 // 
+68884 //  Shadow of the Tomb Raider [Definitive Edition] //  $17.85 //  $21.42 //  $24.99 // 
+50208 //  Shadow of the Tomb Raider [Limited Steelbook Edition] //  $11.36 //  $14.45 //  $18.85 // 
+66897 //  Shadow of the Tomb Raider [Ultimate Edition] //   //   //   // 
+50142 //  Shadows Awakening //  $11.49 //  $11.66 //  $23.71 // 
+35312 //  Shape Up //  $10.62 //  $19.46 //  $19.68 // 
+46959 //  Shaq Fu: A Legend Reborn //  $5.58 //  $6.78 //  $7.99 // 
+49696 //  Shenmue I & II //  $10.83 //  $13.93 //  $16.57 // 
+35111 //  Sherlock Holmes: Crimes & Punishments //  $8.61 //  $12.42 //  $17.03 // 
+37748 //  "Sherlock Holmes: The Devils Daughter" //  $22.99 //  $25.00 //  $30.01 // 
+47049 //  Shining Resonance Refrain //  $20.43 //  $20.73 //  $29.95 // 
+47083 //  Shining Resonance Refrain: Draconic Launch Edition //  $18.06 //  $19.08 //  $31.20 // 
+66973 //  Shovel Knight Treasure Trove //  $26.76 //  $30.76 //  $39.99 // 
+40524 //  Sims 4 //  $16.78 //  $19.95 //  $22.09 // 
+66986 //  Sims 4 Bundle: Island Living //  $21.74 //  $24.99 //  $30.44 // 
+58341 //  Sims 4 Plus Cats and Dogs //  $25.90 //  $27.97 //  $37.39 // 
+40501 //  Sims 4 [Deluxe Party Edition] //  $15.00 //  $20.00 //  $38.50 // 
+38531 //  Sine Mora EX //  $8.00 //  $10.29 //  $14.36 // 
+59663 //  Sinking City //  $15.25 //  $15.44 //  $20.48 // 
+37009 //  Skylanders Imaginators: Starter Pack  //  $10.70 //  $28.19 //  $82.75 // 
+35991 //  Skylanders SuperChargers Starter Pack //  $15.00 //  $26.42 //  $46.50 // 
+35993 //  Skylanders SuperChargers: Dark Edition Starter Pack //  $26.97 //  $37.45 //  $59.99 // 
+34794 //  Skylanders Swap Force: Starter Pack //  $12.21 //  $17.66 //  $59.99 // 
+35129 //  Skylanders Trap Team Dark Edition: Starter Pack //  $29.01 //  $33.36 //  $105.74 // 
+35123 //  Skylanders Trap Team: Starter Pack //  $11.65 //  $19.99 //  $77.47 // 
+67435 //  Slay the Spire //  $1.03 //  $9.59 //  $15.95 // 
+35175 //  Sleeping Dogs: Definitive Edition //  $7.66 //  $8.75 //  $10.83 // 
+50139 //  Slime Rancher //  $19.81 //  $22.49 //  $28.47 // 
+37272 //  Sniper Elite 4 //  $18.50 //  $20.93 //  $27.30 // 
+39602 //  Sniper Elite 4 [Limited Edition] //  $16.01 //  $20.06 //  $34.91 // 
+34968 //  Sniper Elite III //  $10.04 //  $10.30 //  $16.11 // 
+34966 //  "Sniper Elite III [Collectors Edition]" //  $19.23 //  $24.18 //  $34.98 // 
+35602 //  Sniper Elite III [Ultimate Edition] //  $13.00 //  $13.12 //  $20.97 // 
+58394 //  Sniper Elite V2 Remastered //  $21.94 //  $25.18 //  $33.07 // 
+37428 //  Sniper Ghost Warrior 3 //  $11.11 //  $13.38 //  $17.75 // 
+66574 //  Sniper Ghost Warrior: Contracts //  $23.54 //  $28.26 //  $33.00 // 
+36227 //  "Snoopys Grand Adventure" //  $8.49 //  $10.99 //  $19.88 // 
+71019 //  SnowRunner //   //   //   // 
+37256 //  Song of the Deep //  $8.99 //  $9.87 //  $20.60 // 
+40445 //  Sonic Forces //  $11.47 //  $14.25 //  $18.86 // 
+40443 //  Sonic Forces Bonus Edition //  $14.00 //  $15.49 //  $21.37 // 
+38559 //  "Sonic Mania Collectors Edition" //  $36.21 //  $43.80 //  $69.24 // 
+47067 //  Sonic Mania Plus //  $18.35 //  $18.77 //  $27.93 // 
+52655 //  Soul Calibur VI //  $12.12 //  $12.67 //  $14.99 // 
+52657 //  "Soul Calibur VI [Collectors Edition]" //  $44.45 //  $54.95 //  $61.64 // 
+52656 //  Soul Calibur VI [Deluxe Edition] //  $17.63 //  $23.99 //  $54.99 // 
+40291 //  South Park: The Fractured But Whole //  $6.90 //  $8.37 //  $12.27 // 
+40295 //  South Park: The Fractured But Whole Coon Bundle //  $56.17 //  $64.58 //  $83.95 // 
+40293 //  South Park: The Fractured But Whole [Gold Edition] //  $17.76 //  $19.59 //  $27.45 // 
+45056 //  South Park: The Stick of Truth //  $9.13 //  $9.98 //  $12.99 // 
+52127 //  Space Hulk Tactics //  $15.05 //  $16.24 //  $22.95 // 
+66502 //  Sparklite //  $26.09 //  $29.99 //  $36.54 // 
+54359 //  Spike Volleyball //  $9.75 //  $24.65 //  $29.99 // 
+53739 //  Spyro Reignited Trilogy //  $18.54 //  $24.99 //  $30.56 // 
+53832 //  Spyro Reignited Trilogy & Crash Bandicoot N Sane Trilogy //  $41.99 //  $41.99 //  $63.41 // 
+36272 //  Star Wars Battlefront //  $4.16 //  $4.96 //  $10.88 // 
+36275 //  Star Wars Battlefront Deluxe Edition //  $5.25 //  $7.20 //  $17.75 // 
+37131 //  Star Wars Battlefront Ultimate Edition //  $5.50 //  $9.02 //  $16.59 // 
+65564 //  Star Wars Jedi: Fallen Order //  $27.36 //  $28.61 //  $39.20 // 
+65565 //  Star Wars Jedi: Fallen Order [Deluxe Edition] //  $27.87 //  $31.81 //  $39.83 // 
+40478 //  Star Wars: Battlefront II //  $14.13 //  $15.50 //  $20.18 // 
+40477 //  Star Wars: Battlefront II Deluxe Edition //  $16.75 //  $17.86 //  $44.99 // 
+37387 //  "Stardew Valley Collectors Edition" //  $10.09 //  $14.33 //  $18.34 // 
+52175 //  Starlink: Battle for Atlas Starter Pack //  $8.63 //  $11.25 //  $11.75 // 
+46444 //  State of Decay 2 //  $13.45 //  $15.61 //  $19.03 // 
+46433 //  State of Decay 2 Ultimate Edition //  $8.68 //  $16.95 //  $39.72 // 
+35705 //  State of Decay: Year-One Survival Edition //  $9.88 //  $10.80 //  $18.28 // 
+37150 //  Steep //  $9.60 //  $10.27 //  $18.84 // 
+37151 //  Steep Gold Edition //  $22.49 //  $30.74 //  $42.50 // 
+40573 //  Steep Winter Games Edition //  $5.52 //  $7.57 //  $7.89 // 
+40542 //  Stereo Headset Adapter //  $24.99 //  $25.38 //  $33.00 // 
+45076 //  Stern Pinball Arcade //  $11.77 //  $11.99 //  $13.90 // 
+65647 //  Stranded Sails: Explorers of the Cursed Islands //  $26.09 //  $29.99 //  $36.53 // 
+50094 //  Strange Brigade //  $12.25 //  $13.70 //  $14.43 // 
+50095 //  "Strange Brigade Collectors Edition" //  $35.00 //  $35.00 //  $99.99 // 
+68686 //  Stranger of Sword City //  $49.17 //  $56.54 //  $67.44 // 
+46485 //  Street Fighter 30th Anniversary Collection //  $14.86 //  $18.10 //  $20.52 // 
+37328 //  Styx: Shards of Darkness //  $5.10 //  $5.70 //  $8.48 // 
+53844 //  Subnautica //  $15.01 //  $18.76 //  $21.25 // 
+47008 //  Sudden Strike 4 European Battlefields Edition //  $18.40 //  $19.49 //  $28.38 // 
+65553 //  Sudden Strike 4 [Complete Collection] //  $14.67 //  $14.77 //  $27.75 // 
+35544 //  Sunset Overdrive //  $4.73 //  $5.25 //  $6.47 // 
+35242 //  Sunset Overdrive [Day One] //  $3.49 //  $5.00 //  $7.01 // 
+46983 //  Super Bomberman R //  $8.34 //  $9.61 //  $12.84 // 
+37090 //  Super Dungeon Bros  //  $4.63 //  $6.35 //  $8.56 // 
+40449 //  "Super Luckys Tale" //  $12.99 //  $13.88 //  $15.59 // 
+65522 //  Super Monkey Ball: Banana Blitz HD //  $19.62 //  $20.99 //  $25.70 // 
+45119 //  Surviving Mars //  $8.56 //  $10.85 //  $11.99 // 
+45087 //  Sword Art Online: Fatal Bullet //  $15.84 //  $16.70 //  $22.36 // 
+45088 //  Sword Art Online: Fatal Bullet [Phantom Edition] //  $181.43 //  $195.38 //  $254.00 // 
+37430 //  Syberia 3 //  $4.77 //  $5.71 //  $7.99 // 
+45116 //  TT Isle of Man //  $15.55 //  $16.35 //  $34.99 // 
+36589 //  Tales From the Borderlands //  $8.37 //  $8.73 //  $12.00 // 
+53955 //  Tales of Vesperia Definitive Edition //  $14.99 //  $15.25 //  $19.96 // 
+58150 //  Tales of Vesperia Definitive Edition [Anniversary Bundle] //  $178.56 //  $192.30 //  $249.99 // 
+58440 //  Team Sonic Racing //  $21.22 //  $23.00 //  $26.60 // 
+36696 //  Technomancer //  $6.50 //  $8.75 //  $10.47 // 
+36628 //  Teenage Mutant Ninja Turtles Mutants in Manhattan //  $15.63 //  $19.99 //  $28.98 // 
+37715 //  Tekken 7 //  $13.29 //  $14.49 //  $16.84 // 
+37717 //  "Tekken 7 Collectors Edition" //  $46.04 //  $52.95 //  $72.08 // 
+47073 //  Tempest 4000 //  $9.78 //  $11.02 //  $16.31 // 
+46446 //  Tennis World Tour //  $11.48 //  $14.96 //  $38.00 // 
+58553 //  Tennis World Tour: Roland Garros Edition //  $18.56 //  $20.35 //  $28.72 // 
+68558 //  Terminator Resistance //  $51.13 //  $54.99 //  $65.56 // 
+35397 //  Terraria //  $10.00 //  $11.87 //  $17.77 // 
+36010 //  The Book of Unwritten Tales 2 //  $6.19 //  $6.40 //  $8.63 // 
+54049 //  The Council //  $12.50 //  $14.27 //  $18.75 // 
+35391 //  The Crew //  $5.56 //  $7.63 //  $7.67 // 
+47022 //  The Crew 2 //  $14.23 //  $15.99 //  $20.52 // 
+47024 //  The Crew 2 Deluxe Edition //  $21.46 //  $22.76 //  $30.89 // 
+47006 //  The Crew 2 Gold Edition //  $23.55 //  $26.78 //  $35.63 // 
+37142 //  The Crew Ultimate Edition //  $9.57 //  $10.04 //  $14.08 // 
+36285 //  The Crew Wild Run Edition //  $6.93 //  $8.05 //  $12.00 // 
+37746 //  The Dwarves //  $6.99 //  $7.50 //  $17.90 // 
+38635 //  The Escapists 2 //  $15.50 //  $16.74 //  $24.99 // 
+35163 //  The Evil Within //  $7.15 //  $8.19 //  $11.49 // 
+40273 //  The Evil Within 2 //  $9.02 //  $9.90 //  $12.75 // 
+39961 //  The Hunter: Call of the Wild //  $20.00 //  $20.78 //  $24.47 // 
+52169 //  The Hunter: Call of the Wild 2019 //  $21.67 //  $24.02 //  $49.15 // 
+40333 //  The Inner World: The Last Wind Monk //  $5.29 //  $6.06 //  $9.98 // 
+50137 //  The Long Dark //  $13.58 //  $13.99 //  $23.58 // 
+55794 //  The Occupation //  $10.31 //  $10.58 //  $18.00 // 
+65429 //  The Outer Worlds //  $29.03 //  $33.00 //  $35.08 // 
+40553 //  The Pillars of the Earth //  $6.42 //  $7.06 //  $8.99 // 
+45131 //  The Raven Remastered //  $8.00 //  $8.50 //  $11.96 // 
+37577 //  The Surge //  $7.24 //  $8.35 //  $10.97 // 
+63773 //  The Surge 2 //  $19.99 //  $24.75 //  $26.93 // 
+63774 //  The Surge 2 [Limited Edition] //  $28.20 //  $30.72 //  $42.95 // 
+40577 //  The Walking Dead Collection //  $11.99 //  $15.33 //  $21.91 // 
+35179 //  The Walking Dead [Game of the Year] //  $6.99 //  $7.04 //  $16.77 // 
+37283 //  The Walking Dead: A New Frontier //  $8.00 //  $9.20 //  $9.99 // 
+58041 //  The Walking Dead: Final Season //  $18.77 //  $19.93 //  $26.28 // 
+35207 //  The Walking Dead: Season Two //  $5.74 //  $6.61 //  $12.58 // 
+67771 //  The Walking Dead: The Telltale Definitive Series //  $22.17 //  $25.99 //  $34.45 // 
+34707 //  Thief //  $4.51 //  $6.05 //  $8.97 // 
+39650 //  This is the Police //  $5.82 //  $6.68 //  $12.65 // 
+50756 //  This is the Police II //  $7.14 //  $9.00 //  $9.98 // 
+45191 //  Titan Quest //  $6.09 //  $7.00 //  $9.88 // 
+45193 //  "Titan Quest Collectors Edition" //  $53.11 //  $61.08 //  $69.99 // 
+34741 //  Titanfall //  $3.53 //  $4.12 //  $6.12 // 
+37070 //  Titanfall 2 //  $3.13 //  $3.53 //  $5.24 // 
+37075 //  "Titanfall 2 [Collectors Edition]" //  $168.34 //  $193.59 //  $449.00 // 
+37073 //  Titanfall 2 [Deluxe Edition] //  $6.65 //  $7.18 //  $13.00 // 
+34739 //  "Titanfall [Collectors Edition]" //  $133.56 //  $169.99 //  $206.14 // 
+36473 //  "Tom Clancys The Division" //  $5.36 //  $5.76 //  $8.25 // 
+55835 //  "Tom Clancys The Division 2" //  $8.62 //  $8.99 //  $10.99 // 
+55838 //  "Tom Clancys The Division 2 [Gold Edition]" //  $31.57 //  $36.29 //  $47.18 // 
+55837 //  "Tom Clancys The Division 2 [Ultimate Edition]" //  $28.44 //  $32.14 //  $49.95 // 
+36480 //  "Tom Clancys The Division [Collectors Edition]" //  $144.37 //  $145.25 //  $242.82 // 
+36477 //  "Tom Clancys The Division [Gold Edition]" //  $6.30 //  $16.49 //  $23.10 // 
+34656 //  Tomb Raider: Definitive Edition //  $10.50 //  $11.74 //  $18.97 // 
+36079 //  Tony Hawk 5 //  $12.68 //  $14.91 //  $18.95 // 
+37286 //  Torment: Tides Of Numenera //  $5.25 //  $11.80 //  $19.41 // 
+59740 //  Tour de France Season 2019 //  $16.99 //  $46.59 //  $65.23 // 
+40257 //  Town of Light //  $8.99 //  $10.46 //  $16.47 // 
+35861 //  Toy Soldiers War Chest Hall of Fame Edition //  $6.40 //  $8.01 //  $10.90 // 
+36501 //  TrackMania Turbo //  $10.84 //  $14.05 //  $15.97 // 
+47094 //  Train Sim World //  $14.60 //  $24.99 //  $31.99 // 
+36095 //  Transformers: Devastation //  $6.56 //  $14.15 //  $18.98 // 
+34945 //  Transformers: Rise of the Dark Spark //  $22.44 //  $29.91 //  $49.93 // 
+34816 //  Trials Fusion //  $7.36 //  $8.25 //  $15.99 // 
+54991 //  Trials Rising [Gold Edition] //  $9.19 //  $10.11 //  $12.25 // 
+67788 //  Trine 4: The Nightmare Prince //  $8.21 //  $8.79 //  $11.25 // 
+37350 //  Troll and I //  $5.22 //  $5.75 //  $7.50 // 
+37735 //  Tropico 5 [Complete Collection] //  $10.82 //  $11.62 //  $23.67 // 
+36635 //  Tropico 5 [Penultimate Edition] //  $9.31 //  $9.99 //  $13.33 // 
+63937 //  Tropico 6 //  $27.82 //  $28.25 //  $29.93 // 
+68866 //  Two Point Hospital //  $26.78 //  $30.00 //  $37.49 // 
+34939 //  UFC //  $4.93 //  $5.05 //  $9.27 // 
+36505 //  UFC 2 //  $6.09 //  $6.94 //  $10.31 // 
+36507 //  UFC 2 Deluxe Edition //  $10.52 //  $20.00 //  $22.53 // 
+44963 //  UFC 3 //  $11.95 //  $13.02 //  $17.62 // 
+44957 //  UFC 3 Champions Edition //  $14.95 //  $15.71 //  $24.94 // 
+58288 //  Ugly Dolls //  $2.37 //  $7.92 //  $9.54 // 
+70585 //  "Ultimate Enhanced Edition Collectors Pack" //   //   //   // 
+37571 //  Ultimate Marvel vs Capcom 3 //  $23.99 //  $32.85 //  $62.50 // 
+50197 //  V-Rally 4 //  $14.36 //  $16.05 //  $18.78 // 
+58170 //  Valentino Rossi //  $8.87 //  $13.99 //  $18.99 // 
+37427 //  Valhalla Hills //  $6.49 //  $7.78 //  $10.64 // 
+50768 //  Valkyria Chronicles 4 //  $12.50 //  $15.93 //  $25.03 // 
+50771 //  Valkyria Chronicles 4 [Memoirs From Battle Edition] //  $31.52 //  $36.11 //  $39.22 // 
+37833 //  Valkyria Revolution //  $9.18 //  $9.38 //  $16.88 // 
+38584 //  Valkyria Revolution: Vanargand Edition //  $9.50 //  $9.99 //  $18.24 // 
+46953 //  Vampyr //  $13.04 //  $16.98 //  $18.99 // 
+38621 //  Victor Vran Overkill Edition //  $10.81 //  $12.62 //  $24.95 // 
+37358 //  Vikings: Wolves of Midgard //  $10.00 //  $13.97 //  $14.58 // 
+36300 //  WRC 5 //  $7.27 //  $7.89 //  $11.56 // 
+37303 //  WRC 6 //  $8.43 //  $8.98 //  $11.15 // 
+39969 //  WRC 7 //  $13.45 //  $14.06 //  $20.00 // 
+35371 //  WWE 2K15 //  $5.97 //  $9.99 //  $17.46 // 
+35374 //  WWE 2K15: Hulkamania Edition //  $53.05 //  $53.54 //  $106.94 // 
+36208 //  WWE 2K16 //  $4.98 //  $6.71 //  $12.66 // 
+36983 //  WWE 2K17 //  $5.75 //  $6.24 //  $10.69 // 
+37037 //  WWE 2K17 NXT Edition //  $34.72 //  $40.00 //  $64.99 // 
+40267 //  WWE 2K18 //  $6.21 //  $8.00 //  $9.04 // 
+40271 //  WWE 2K18 Cena Edition //  $36.25 //  $39.99 //  $51.10 // 
+40269 //  WWE 2K18 Deluxe Edition //  $8.99 //  $10.21 //  $14.26 // 
+52125 //  WWE 2K19 //  $12.25 //  $14.50 //  $18.19 // 
+52126 //  WWE 2K19 [Deluxe Edition] //  $18.18 //  $18.69 //  $28.91 // 
+65274 //  WWE 2K20 //  $13.00 //  $21.74 //  $24.63 // 
+65276 //  WWE 2K20 [20th Anniversary Edition] //  $51.06 //  $80.00 //  $96.00 // 
+65275 //  WWE 2K20 [Deluxe Edition] //  $22.61 //  $25.99 //  $49.99 // 
+50090 // Warhammer 40,  000: Inquisitor Martyr //  $16.25 //  $16.25 //  $26.48 // 
+36973 //  Warhammer The End Times Vermintide //  $7.11 //  $8.21 //  $10.57 // 
+58609 //  Warhammer: Chaosbane //  $14.35 //  $14.50 //  $20.00 // 
+59544 //  Warhammer: Vermintide II [Deluxe Edition] //  $13.95 //  $15.99 //  $21.49 // 
+35023 //  Warriors Orochi 3: Ultimate //  $7.99 //  $10.50 //  $13.57 // 
+52155 //  Warriors Orochi 4 //  $18.23 //  $19.24 //  $23.52 // 
+69321 //  Warriors Orochi 4 Ultimate //   //   //   // 
+36118 //  "Wasteland 2: Directors Cut" //  $8.96 //  $8.98 //  $12.95 // 
+34910 //  Watch Dogs //  $5.08 //  $5.60 //  $10.45 // 
+37116 //  Watch Dogs 2 //  $8.70 //  $11.39 //  $15.80 // 
+37118 //  Watch Dogs 2 [Deluxe Edition] //  $15.50 //  $19.03 //  $19.89 // 
+37121 //  Watch Dogs 2 [Gold Edition] //  $11.16 //  $13.37 //  $34.53 // 
+34917 //  Watch Dogs: Limited Edition //  $19.20 //  $19.20 //  $52.39 // 
+49641 //  We Happy Few //  $8.93 //  $9.48 //  $14.95 // 
+49643 //  We Happy Few Deluxe Edition //  $10.50 //  $14.18 //  $19.99 // 
+37134 //  We Sing //  $24.99 //  $25.00 //  $36.58 // 
+35754 //  Witcher 3: Wild Hunt //  $11.73 //  $18.17 //  $20.00 // 
+35756 //  "Witcher 3: Wild Hunt [Collectors Edition]" //  $257.46 //  $296.08 //  $330.00 // 
+36799 //  Witcher 3: Wild Hunt [Complete Edition] //  $18.49 //  $19.26 //  $28.22 // 
+35283 //  Wolf Among Us //  $6.49 //  $9.24 //  $10.71 // 
+40364 //  Wolfenstein II: The New Colossus //  $10.00 //  $10.00 //  $13.33 // 
+40366 //  "Wolfenstein II: The New Colossus [Collectors Edition]" //  $29.80 //  $35.57 //  $40.26 // 
+38632 //  Wolfenstein The New Order and The Old Blood //  $8.29 //  $11.79 //  $15.58 // 
+62429 //  Wolfenstein Youngblood //  $13.00 //  $15.92 //  $17.88 // 
+62430 //  Wolfenstein Youngblood [Deluxe Edition] //  $12.34 //  $14.00 //  $18.38 // 
+34884 //  Wolfenstein: The New Order //  $6.59 //  $7.59 //  $9.49 // 
+35821 //  Wolfenstein: The Old Blood //  $7.78 //  $9.97 //  $13.35 // 
+58189 //  World War Z //  $15.99 //  $17.24 //  $20.99 // 
+53692 //  World of Final Fantasy Maxima //  $9.66 //  $11.29 //  $15.73 // 
+68564 //  World of Warships Legends [Firepower Deluxe Edition] //  $19.99 //  $20.69 //  $33.13 // 
+38536 //  World to the West //  $5.73 //  $6.30 //  $9.74 // 
+36769 //  Worms W.M.D All Stars //  $12.45 //  $14.95 //  $15.50 // 
+63137 //  Wreckfest //  $27.34 //  $30.00 //  $35.45 // 
+63138 //  Wreckfest [Deluxe Edition] //  $36.93 //  $40.75 //  $50.69 // 
+36959 //  XCOM 2 //  $4.25 //  $8.00 //  $16.87 // 
+58543 //  XCOM 2 Collection //  $10.25 //  $10.49 //  $13.60 // 
+65573 //  Xbox Elite Series 2 //  $135.01 //  $147.98 //  $192.37 // 
+53885 //  Xbox One 1 TB - Forza 6 Limited Edition //  $319.46 //  $367.33 //  $477.53 // 
+36624 //  Xbox One 1 TB Black Console //  $181.68 //  $199.84 //  $291.19 // 
+40568 //  Xbox One 1 TB Black Console - Project Scorpio Edition //  $278.50 //  $305.00 //  $401.93 // 
+54017 //  Xbox One 1 TB Elite Console //  $300.55 //  $345.63 //  $449.33 // 
+37420 //  Xbox One 1 TB White Console //  $210.06 //  $241.56 //  $294.08 // 
+46395 //  Xbox One 2 TB White Console //  $209.43 //  $225.54 //  $293.20 // 
+35183 //  Xbox One 500 GB Black Console //  $138.50 //  $165.00 //  $184.69 // 
+34561 //  Xbox One 500 GB Black Console with Kinect //  $105.00 //  $132.74 //  $157.49 // 
+40410 //  Xbox One 500 GB White Console //  $128.01 //  $147.21 //  $191.38 // 
+37212 //  Xbox One Armed Forces Wireless Controller //  $47.03 //  $54.07 //  $65.85 // 
+59625 //  Xbox One Black S Wireless Controller //  $27.76 //  $29.89 //  $38.86 // 
+37721 //  Xbox One Black Wired Controller //  $37.44 //  $43.04 //  $55.95 // 
+34562 //  Xbox One Black Wireless Controller //  $32.32 //  $38.00 //  $43.53 // 
+35762 //  Xbox One Black Wireless Controller + Play and Charge Kit //  $43.00 //  $49.44 //  $64.27 // 
+45766 //  Xbox One Blue Wireless Controller  //  $35.71 //  $40.25 //  $49.99 // 
+35263 //  Xbox One Call of Duty Advanced Warfare Wireless Controller //  $69.88 //  $80.35 //  $104.46 // 
+63207 //  Xbox One Combat Tech Wireless Controller //  $44.77 //  $51.47 //  $66.91 // 
+37208 //  Xbox One Console - Battlefield 1 Limited Edition //  $217.50 //  $219.19 //  $222.99 // 
+37206 //  Xbox One Console - Blue Limited Edition //  $208.40 //  $235.75 //  $291.76 // 
+35262 //  Xbox One Console - Call of Duty Advanced Warfare Limited Edition //  $142.46 //  $175.62 //  $330.00 // 
+37209 //  Xbox One Console - Gears of War 4 Limited Edition //  $289.89 //  $333.36 //  $433.37 // 
+37207 //  Xbox One Console - Halo 5 Guardians Limited Edition //  $157.26 //  $209.99 //  $351.61 // 
+37205 //  Xbox One Console - Quantum Break Limited Edition //  $173.94 //  $200.02 //  $245.01 // 
+34742 //  Xbox One Console - Titanfall Limited Edition //  $97.90 //  $136.00 //  $199.93 // 
+45772 //  Xbox One Copper Shadow Wireless Controller  //  $83.15 //  $95.41 //  $124.03 // 
+37213 //  Xbox One Covert Forces Wireless Controller //  $43.32 //  $49.81 //  $60.66 // 
+37211 //  Xbox One Dawn Shadow Wireless Controller //  $42.25 //  $45.50 //  $59.15 // 
+45771 //  Xbox One Dusk Shadow Wireless Controller  //  $86.59 //  $99.57 //  $129.44 // 
+36376 //  Xbox One Elite Wireless Controller //  $91.27 //  $108.62 //  $137.50 // 
+68650 //  Xbox One Fortnite Controller //  $48.27 //  $52.02 //  $67.62 // 
+45775 //  Xbox One Forza 6 Wireless Controller  //  $52.99 //  $59.48 //  $77.32 // 
+45748 //  Xbox One Gears of War 4 JD Fenix Wireless Controller //  $45.81 //  $49.33 //  $64.13 // 
+37214 //  Xbox One Gears of War 4 Wireless Controller //  $40.27 //  $46.30 //  $60.19 // 
+45761 //  Xbox One Gray & Green Wireless Controller  //  $46.93 //  $53.96 //  $65.71 // 
+45762 //  Xbox One Green & Orange Wireless Controller  //  $44.33 //  $50.97 //  $66.24 // 
+66768 //  Xbox One Grey & Blue Controller //  $33.38 //  $38.37 //  $49.88 // 
+40409 //  Xbox One Halo 5 Green Wireless Controller //  $106.04 //  $114.19 //  $148.45 // 
+40408 //  Xbox One Halo 5 Silver Wireless Controller //  $85.67 //  $98.51 //  $128.06 // 
+45776 //  Xbox One Halo Wars 2 Banished Wired Controller  //  $51.59 //  $55.55 //  $72.22 // 
+45763 //  Xbox One Lunar White Wireless Controller  //  $39.87 //  $65.00 //  $91.26 // 
+45768 //  Xbox One Midnight Forces Wireless Controller  //  $79.85 //  $91.82 //  $111.80 // 
+45142 //  Xbox One Minecraft Creeper Wireless Controller //  $48.46 //  $52.20 //  $67.85 // 
+45764 //  Xbox One Minecraft Pig Wireless Controller  //  $45.97 //  $52.83 //  $64.37 // 
+45770 //  Xbox One Ocean Shadow Wireless Controller //  $53.97 //  $62.05 //  $80.66 // 
+70419 //  Xbox One PUBG Edition Controller //   //   //   // 
+45773 //  Xbox One Patrol Tech Wireless Controller  //  $44.05 //  $50.65 //  $65.85 // 
+68704 //  Xbox One Phantom White Wireless Controller //  $31.00 //  $34.00 //  $55.58 // 
+34564 //  Xbox One Play and Charge Kit //  $12.70 //  $14.01 //  $14.99 // 
+58246 //  Xbox One Project Scorpio Controller //   //   //   // 
+45747 //  Xbox One Recon Tech Wireless Controller //  $50.00 //  $57.49 //  $70.01 // 
+45765 //  Xbox One Red Wireless Controller  //  $50.61 //  $58.19 //  $70.85 // 
+54982 //  Xbox One S 1 TB Console //  $175.00 //  $201.25 //  $245.01 // 
+61875 //  Xbox One S 1 TB Console - Fortnite Battle Royale Special Edition Bundle //  $225.00 //  $226.00 //  $293.03 // 
+46442 //  Xbox One S 1 TB Console - Minecraft Limited Edition //  $224.04 //  $231.73 //  $336.72 // 
+37436 //  Xbox One S 500 GB White Console //  $157.22 //  $160.48 //  $207.53 // 
+63644 //  Xbox One S All Digital //  $161.64 //  $162.25 //  $187.00 // 
+45198 //  Xbox One Sea of Thieves Wireless Controller //  $150.55 //  $162.13 //  $210.77 // 
+68826 //  Xbox One Sport Red Controller //  $94.35 //  $108.55 //  $141.35 // 
+45774 //  Xbox One Titanfall Wireless Controller  //  $75.82 //  $81.65 //  $106.15 // 
+45769 //  Xbox One Volcano Shadow Wireless Controller  //  $55.02 //  $63.26 //  $82.24 // 
+37210 //  Xbox One White Wireless Controller //  $30.42 //  $37.00 //  $40.87 // 
+45767 //  Xbox One Winter Forces Wireless Controller  //  $35.72 //  $41.08 //  $53.39 // 
+36709 //  Xbox One Wired Headset //  $14.11 //  $16.23 //  $19.76 // 
+66896 //  Xbox One X - Gears 5 Limited Edition //  $331.56 //  $381.28 //  $464.19 // 
+59671 //  Xbox One X - Gold Rush Limited Edition //  $287.62 //  $330.76 //  $429.99 // 
+53909 //  Xbox One X - Taco Bell Limited Edition //  $346.48 //  $398.45 //  $400.00 // 
+40514 //  Xbox One X 1 TB Black Console //  $246.00 //  $247.46 //  $295.50 // 
+53940 //  Xbox One X 1 TB White Console //  $280.00 //  $322.00 //  $410.00 // 
+70946 //  Xbox One X [NBA 2K20 Limited Edition] //   //   //   // 
+66767 //  Xbox One X019 Controller //  $107.14 //  $115.38 //  $150.00 // 
+46999 //  "Yokus Island Express" //  $8.73 //  $9.41 //  $12.08 // 
+37391 //  Yooka-Laylee //  $10.89 //  $13.47 //  $15.74 // 
+65159 //  Yooka-Laylee and the Impossible Lair //  $13.37 //  $14.51 //  $19.99 // 
+67878 //  Zombie Army 4: Dead War //  $33.41 //  $40.30 //  $43.00 // 
+35825 //  Zombie Army Trilogy //  $20.00 //  $28.46 //  $31.47 // 
+66770 //  Zombieland Double Tap Roadtrip //  $14.24 //  $15.01 //  $18.89 // 
+34721 //  Zoo Tycoon //  $5.86 //  $10.41 //  $13.52 // 
+40385 //  Zoo Tycoon: Ultimate Animal Collection //  $14.67 //  $15.68 //  $19.63 // 
+34607 //  Zumba Fitness World Party //  $11.91 //  $14.95 //  $18.30 // 

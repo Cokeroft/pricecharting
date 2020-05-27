@@ -1,0 +1,310 @@
+70528 //  007: Goldeneye Players Guide //  $7.43 //  $7.49 //  $7.49 // 
+65582 //  20 Years Of Nintendo Power //  $23.99 //  $35.99 //   // 
+70537 //  Animal Crossing Players Guide //  $14.95 //  $14.95 //  $22.43 // 
+71805 //  Final Fantasy Crystal Chronicles Players Guide //   //   //   // 
+70526 //  Game Boy Players Guide //  $6.63 //  $9.95 //  $14.93 // 
+70535 //  Mario Kart: Double Dash Players Guide //  $7.21 //  $9.99 //  $11.63 // 
+70956 //  Mario Mania Players Guide //  $36.59 //  $39.99 //  $49.79 // 
+70538 //  Metroid Prime Players Guide //  $11.50 //  $12.99 //  $13.41 // 
+70532 //  Perfect Dark Players Guide //  $8.11 //  $8.95 //  $12.35 // 
+70958 //  Pokemon Ranger Players Guide //  $5.48 //  $8.70 //  $12.78 // 
+70531 //  Star Wars Rebel Strike Players Guide //  $5.00 //  $5.00 //  $7.50 // 
+70530 //  Star Wars Rogue Squadron Players Guide //  $10.50 //  $17.98 //  $20.98 // 
+70529 //  Star Wars: Rogue Leader Players Guide //  $13.84 //  $25.60 //  $30.45 // 
+70534 //  Starfox Adventures Players Guide //  $14.99 //  $23.74 //  $34.11 // 
+71611 //  Super Gameboy Players Guide //   //   //   // 
+70533 //  Super Mario Sunshine Players Guide //  $12.44 //  $14.98 //  $14.99 // 
+70525 //  Super NES Players Guide //  $11.00 //  $11.59 //  $14.99 // 
+70527 //  Super Smash Bros Melee Players Guide //  $6.02 //  $6.03 //  $14.59 // 
+70524 //  Top Secret Passwords Players Guide //  $4.99 //  $7.49 //  $7.49 // 
+70520 //  "Zelda: Collectors Edition Players Guide" //  $33.95 //  $44.35 //  $47.93 // 
+70521 //  Zelda: Four Swords Adventures Players Guide //   //   //   // 
+70957 //  "Zelda: Majoras Mask Players Guide" //   //   //   // 
+70361 //  Zelda: Ocarina of Time Players Guide //  $16.99 //  $16.99 //  $25.49 // 
+70522 //  Zelda: The Wind Waker Players Guide //   //   //   // 
+70523 //  Zelda: Twilight Princess Players Guide //  $4.45 //  $7.49 //  $8.99 // 
+54135 //  [Volume 100] 100 Best Games Issue //  $12.18 //  $12.18 //   // 
+54327 //  [Volume 101] Extreme G //  $0.99 //  $1.49 //   // 
+54133 //  [Volume 102] NFL Quarterback Club //  $6.50 //  $9.99 //   // 
+54138 //  "[Volume 103] Diddy Kongs Racing" //  $3.41 //  $3.41 //   // 
+54146 //  "[Volume 104] Yoshis Story" //  $5.07 //  $15.00 //   // 
+54147 //  [Volume 105] WCW vs NWO //  $4.00 //  $7.97 //   // 
+54136 //  [Volume 106] 1080 Snowboarding //  $3.59 //  $3.59 //   // 
+54140 //  [Volume 107] NBA Courtside //  $6.00 //  $6.00 //   // 
+54328 //  [Volume 108] Ken Griffey Jr Baseball //  $5.99 //  $6.75 //   // 
+54329 //  [Volume 109] Banjo Tooie //  $8.55 //  $8.55 //   // 
+54070 //  [Volume 10] Batman //  $10.99 //  $19.99 //   // 
+54144 //  [Volume 110] WWF War Zone //  $3.79 //  $5.73 //   // 
+54142 //  [Volume 111] Bomberman Hero //  $10.35 //  $13.49 //   // 
+54143 //  [Volume 112] F-Zero X //  $1.99 //  $3.00 //   // 
+54145 //  [Volume 113] Turok 2 //  $5.00 //  $5.00 //   // 
+54330 //  [Volume 114] Zelda: Ocarina of Time //  $19.99 //  $21.29 //   // 
+54149 //  [Volume 115] Star Wars Rogue Squadron //  $2.60 //  $2.60 //   // 
+54331 //  [Volume 116] Castlevania //  $4.68 //  $4.68 //   // 
+54332 //  [Volume 117] Mario Party //  $0.99 //  $0.99 //   // 
+54150 //  [Volume 118] Tonic Trouble //  $3.12 //  $3.12 //   // 
+54333 //  [Volume 119] Beetle Adventure Racing //  $6.87 //  $6.87 //   // 
+54072 //  [Volume 11] Super Mario Bros 3 //  $11.00 //  $21.99 //   // 
+54334 //  [Volume 120] Star Wars Episode 1 Racer //  $2.00 //  $2.00 //   // 
+54335 //  [Volume 121] Pokemon Snap //  $4.99 //  $9.66 //   // 
+54156 //  [Volume 122] World Driver Championship //  $1.00 //  $1.00 //   // 
+54336 //  [Volume 123] Hybrid Heaven //  $3.63 //  $10.82 //   // 
+54337 //  [Volume 124] Jet Force Gemini //  $4.14 //  $4.28 //   // 
+54161 //  [Volume 125] Pokemon Yellow //  $6.80 //  $10.24 //   // 
+54148 //  [Volume 126] Donkey Kong 64 //  $7.75 //  $11.63 //   // 
+54151 //  [Volume 127] WWF Wrestlemania 2000 //  $2.84 //  $7.57 //   // 
+54152 //  [Volume 128] Mario Party 2 //  $5.00 //  $7.50 //   // 
+54154 //  "[Volume 129] Disneys Tarzan" //  $4.97 //  $7.49 //   // 
+54304 //  [Volume 12] Super C //  $7.68 //  $11.00 //   // 
+54338 //  [Volume 130] Pokemon Stadium //  $6.50 //  $6.50 //   // 
+54339 //  "[Volume 131] Tony Hawks Pro Skater" //  $5.62 //  $9.99 //   // 
+54153 //  [Volume 132] Excitebike 64 //  $6.20 //  $9.99 //   // 
+54155 //  [Volume 133] Army Men Air Combat //  $4.00 //  $6.00 //   // 
+54157 //  [Volume 134] Kirby 64: The Crystal Shards //   //   //   // 
+54158 //  [Volume 135] Mario Tennis //  $7.30 //  $9.91 //   // 
+54340 //  [Volume 136] Pokemon Gold and Silver //   //   //   // 
+54341 //  "[Volume 137] Zelda: Majoras Mask" //  $7.52 //  $7.52 //   // 
+54342 //  [Volume 138] Hey You Pikachu //  $2.80 //  $2.80 //   // 
+54166 //  [Volume 139] Banjo Tooie //  $6.35 //  $6.35 //   // 
+54076 //  [Volume 13] Super Mario Bros. 3 Strategy Guide //  $9.99 //  $9.99 //   // 
+54343 //  [Volume 140] Spiderman //  $5.84 //  $8.76 //   // 
+54159 //  [Volume 141] Paper Mario //  $11.22 //  $11.29 //   // 
+54160 //  [Volume 142] Pokemon Stadium 2 //  $7.00 //  $7.76 //   // 
+54344 //  [Volume 143] Gameboy Advance Reveal //  $4.80 //  $12.98 //   // 
+54345 //  [Volume 144] Zelda Oracle of Seasons //   //   //   // 
+54167 //  [Volume 145] Mario Advance //  $6.82 //  $8.87 //   // 
+54162 //  [Volume 146] Tony Hawk 2 //  $2.80 //  $2.99 //   // 
+54163 //  [Volume 147] Pokemon Crystal //  $8.15 //  $9.99 //   // 
+54164 //  [Volume 148] Mario Kart Super Circuit //  $5.18 //  $7.50 //   // 
+54165 //  [Volume 149] Star Wars Rogue Leader //  $1.99 //  $6.11 //   // 
+54078 //  "[Volume 14] Chip n Dale Rescue Rangers" //  $7.99 //  $7.99 //   // 
+54168 //  "[Volume 150] Luigis Mansion" //  $13.51 //  $13.51 //   // 
+54346 //  [Volume 151] Super Smash Bros. Melee //  $6.99 //  $6.99 //   // 
+54347 //  [Volume 152] Pikmin //  $14.00 //  $16.84 //   // 
+54173 //  [Volume 153] NBA Courside 2002 //  $6.00 //  $9.49 //   // 
+54174 //  [Volume 154] Sonic Adventure 2: Battle //  $4.88 //  $4.88 //   // 
+54175 //  [Volume 155] Agent Under Fire //  $2.92 //  $4.86 //   // 
+54169 //  [Volume 156] Spiderman //  $0.97 //  $0.97 //   // 
+54170 //  [Volume 157] Lost Kingdoms //  $3.78 //  $3.78 //   // 
+54171 //  [Volume 158] E3 2002 //  $2.07 //  $2.07 //   // 
+54172 //  [Volume 159] Magical Mirror starring Mickey Mouse //  $3.10 //  $3.10 //   // 
+54080 //  [Volume 15] Ninja Gaiden II Strategy Guide //  $6.59 //  $12.50 //   // 
+54348 //  [Volume 160] Super Mario Sunshine //  $5.50 //  $9.78 //   // 
+54177 //  [Volume 161] Star Fox Adventures //  $0.99 //  $6.29 //   // 
+54180 //  [Volume 162] Metroid Prime //  $11.22 //  $14.99 //   // 
+54182 //  [Volume 163] Metroid Fusion //  $7.05 //  $7.05 //   // 
+54184 //  [Volume 164] Lord of the Rings: Two Towers //  $7.33 //  $10.99 //   // 
+54186 //  [Volume 165] Legend of Zelda: Wind Waker //  $14.99 //  $19.95 //   // 
+54176 //  [Volume 166] The Sims //   //  $2.99 //   // 
+54178 //  [Volume 167] Pokemon Ruby and Sapphire //  $8.29 //  $12.49 //   // 
+54349 //  [Volume 168] Golden Sun: Lost Age //  $2.40 //  $3.61 //   // 
+54189 //  [Volume 169] Soul Caliber 2 //  $3.47 //  $8.75 //   // 
+54071 //  [Volume 16] Maniac Mansion //  $9.78 //  $9.78 //   // 
+54191 //  [Volume 170] F-Zero GX //  $6.24 //  $9.36 //   // 
+54179 //  [Volume 171] Final Fantasy Tactics Advance //  $4.00 //  $6.00 //   // 
+54181 //  [Volume 172] Viewtiful Joe //  $2.79 //  $8.86 //   // 
+54183 //  [Volume 173] Star Wars Rebel Strike //  $93.56 //  $110.00 //   // 
+54193 //  [Volume 174] Fire Emblem //  $7.00 //  $7.00 //   // 
+54195 //  [Volume 175] Mario Kart Double Dash //  $5.99 //  $8.99 //   // 
+54350 //  [Volume 176] The Sims: Bustin Out //   //   //   // 
+54185 //  [Volume 177] Final Fantasy: Crystal Chronicals //  $6.13 //  $6.13 //   // 
+54351 //  [Volume 178] Pokemon Colosseum //  $2.99 //  $2.99 //   // 
+54194 //  [Volume 179] Metal Gear Solid: Twin Snakes //  $3.13 //  $3.13 //   // 
+54073 //  [Volume 17] Final Fantasy Strategy Guide //  $19.93 //  $22.49 //   // 
+54196 //  [Volume 180] Tales of Symphonia //  $3.79 //  $7.99 //   // 
+54187 //  [Volume 181] Legend of Zelda: Four Swords Adventure //   //   //   // 
+54188 //  [Volume 182] Resident Evil 4 //  $4.75 //  $7.43 //   // 
+54190 //  [Volume 183] Pikmin 2 //  $6.41 //  $9.44 //   // 
+54192 //  [Volume 184] Pokemon Fire Red & Leaf Green //  $5.45 //  $7.04 //   // 
+54197 //  [Volume 185] Paper Mario: 1000 Year Door //  $10.37 //  $11.99 //   // 
+54352 //  [Volume 186] Metroid Prime 2: Echoes //  $8.81 //  $26.00 //   // 
+54353 //  [Volume 187] Nintendo DS //  $5.50 //  $7.99 //   // 
+54203 //  [Volume 188] Legend of Zelda: Minish Cap //  $2.30 //  $9.27 //   // 
+54204 //  [Volume 189] Star Fox: Assault //  $2.01 //  $11.99 //   // 
+54074 //  [Volume 18] Dr Mario //  $5.89 //  $12.00 //   // 
+54206 //  [Volume 190] Killer 7 //  $3.48 //  $5.00 //   // 
+54199 //  [Volume 191] Nintendo DS & Metroid Prime Hunters //  $3.99 //  $5.99 //   // 
+54201 //  [Volume 192] Pokemon Emerald //  $3.95 //  $11.91 //   // 
+54354 //  [Volume 193] Legend of Zelda: Twilight Princess //   //   //   // 
+54209 //  [Volume 194] Mario Kart DS //  $7.95 //  $7.95 //   // 
+54211 //  [Volume 195] Shadow the Hedgehog //  $6.66 //  $8.99 //   // 
+54198 //  [Volume 196] Harry Potter and the Goblet of Fire //   //   //   // 
+54200 //  [Volume 197] Pokemon XD: Gale of Darkness //  $3.47 //  $4.62 //   // 
+54299 //  [Volume 198] Fire Emblem: Path of Radiance //   //  $15.00 //   // 
+54207 //  [Volume 199] Nintendo Wi-Fi Connection //   //   //   // 
+54079 //  [Volume 19] 4 Player Extra Strategy Guide //  $3.95 //  $12.26 //   // 
+54061 //  [Volume 1] Super Mario Bros. 2 //  $44.00 //  $79.99 //   // 
+54208 //  [Volume 200] Resident Evil: Deadly Silence //  $6.00 //  $6.00 //   // 
+54202 //  [Volume 201] Gonzo Gaming //  $4.98 //  $7.47 //   // 
+54300 //  [Volume 202] Metroid Prime Hunters //  $2.00 //  $5.99 //   // 
+54205 //  [Volume 203] New Super Mario Bros //  $6.98 //  $8.59 //   // 
+54213 //  [Volume 204] Castlevania: Portrait of Ruin //   //   //   // 
+54215 //  [Volume 205] Zelda: Phantom Hourglass //  $4.87 //  $9.99 //   // 
+54398 //  [Volume 206] E3 2006 //  $3.34 //  $4.99 //   // 
+54228 //  [Volume 207] Rayman Raving Rabbids //   //   //   // 
+54230 //  [Volume 208] Final Fantasy III //  $6.99 //  $7.99 //   // 
+54301 //  [Volume 209] Pokemon Mystery Dungeon //  $6.99 //  $11.99 //   // 
+54081 //  [Volume 20] Mega Man III //  $7.26 //  $9.72 //   // 
+54251 //  [Volume 210] Wii Launch //  $5.00 //  $7.50 //   // 
+54210 //  [Volume 211] Legend of Zelda: Twilight Princess //  $9.99 //  $9.99 //   // 
+54212 //  [Volume 212] WarioWare: Smooth Moves //  $7.99 //  $11.99 //   // 
+54214 //  [Volume 213] Sonic and the Secret Rings //   //   //   // 
+54221 //  [Volume 214] My Sims //  $5.99 //  $5.99 //   // 
+54302 //  [Volume 215] Pokemon Diamond & Pearl //  $6.40 //  $7.99 //   // 
+54303 //  [Volume 216] Nights: Journey of Dreams //   //   //   // 
+54216 //  [Volume 217] Resident Evils: Umbrella Chronicles //  $4.00 //  $6.00 //   // 
+54218 //  [Volume 218] SoulCaliber Legends //  $1.00 //  $1.50 //   // 
+54220 //  [Volume 219] Metroid Prime 3: Corruption //  $7.53 //  $12.99 //   // 
+54083 //  [Volume 21] Star Tropics //  $5.94 //  $7.42 //   // 
+54227 //  [Volume 220] Super Mario Galaxy //  $3.00 //  $6.99 //   // 
+54217 //  [Volume 221] Final Fantasy XII: Revenant Wings //   //   //   // 
+54219 //  [Volume 222] Super Smash Bros. Brawl //  $13.99 //  $13.99 //   // 
+54291 //  [Volume 223] No More Heroes //  $7.99 //  $8.59 //   // 
+54223 //  [Volume 224] Ninja Gaiden: Dragon Sword //  $4.99 //  $5.50 //   // 
+54225 //  [Volume 225] Sonic Chronicles: Dark Brotherhood //   //   //   // 
+54222 //  [Volume 226] Tales of Symphonia: Dawn of the New World //   //   //   // 
+54224 //  [Volume 227] Mario Kart Wii //  $4.99 //  $4.99 //   // 
+54226 //  [Volume 228] Final Fantasy IV //  $6.21 //  $6.99 //   // 
+54292 //  [Volume 229] Music Games //  $6.99 //  $11.99 //   // 
+54085 //  [Volume 22] Metal Storm //  $6.25 //  $7.35 //   // 
+54293 //  [Volume 230] Castlevania: Order of Ecclesia //   //   //   // 
+54294 //  [Volume 231] MadWorld //  $4.99 //  $6.44 //   // 
+54229 //  [Volume 232] Sonic & The Black Knight //   //   //   // 
+54295 //  [Volume 233] Wario Land: Shake It //  $5.33 //  $7.99 //   // 
+54232 //  [Volume 234] Grand Theft Auto: Chinatown Wars //  $2.49 //  $4.49 //   // 
+54241 //  [Volume 235] Animal Crossing: City Folk //  $1.50 //  $2.33 //   // 
+54231 //  [Volume 236] Holiday 2008 //   //   //   // 
+54233 //  [Volume 237] TMNT //  $9.99 //  $9.99 //   // 
+54235 //  [Volume 238] Phantasy Star Zero //  $7.00 //  $10.50 //   // 
+54237 //  [Volume 239] Indiana Jones & The Staff of Kings //  $4.66 //  $6.99 //   // 
+54305 //  [Volume 23] Power Blade //  $4.74 //  $4.74 //   // 
+54239 //  [Volume 240] Pokemon Platinum //   //   //   // 
+54234 //  [Volume 241] Silent Hill: Shattered Memories //  $9.00 //  $13.50 //   // 
+54236 //  [Volume 242] Red Steel 2 //   //   //   // 
+54296 //  [Volume 243] Kingdom Hearts 358/2 Days //  $2.75 //  $4.13 //   // 
+54297 //  "[Volume 244] Mario & Luigi: Bowsers Inside Story" //  $7.00 //  $9.99 //   // 
+54298 //  [Volume 245] Final Fantasy Crystal Chronicles: Crystal Bearers //   //   //   // 
+54238 //  [Volume 246] Avatar //   //   //   // 
+54240 //  [Volume 247] Mario & Sonic at the Olympic Winter Games //   //   //   // 
+54242 //  [Volume 248] New Super Mario Bros. Wii //  $7.00 //  $10.50 //   // 
+54244 //  [Volume 249] Legend of Zelda: Spirit Tracks //   //   //   // 
+54087 //  [Volume 24] Vice: Project Doom //  $4.60 //  $7.98 //   // 
+54246 //  [Volume 250] 250th Issue //  $9.99 //  $9.99 //   // 
+54243 //  [Volume 251] NBA Jam Wii //  $6.31 //  $9.49 //   // 
+54245 //  [Volume 252] Pokemon HeartGold & SoulSilver //  $2.50 //  $6.00 //   // 
+54247 //  [Volume 253] Scribblenauts 2 //   //   //   // 
+54248 //  [Volume 254] Super Mario Galaxy 2 //   //   //   // 
+54249 //  [Volume 255] Metroid: Other M //  $3.00 //  $7.25 //   // 
+54253 //  [Volume 256] Sonic Colors //  $3.00 //  $4.51 //   // 
+54255 //  [Volume 257] Dragon Quest IX: Sentinels of the Starry Skies //   //   //   // 
+54257 //  [Volume 258] Legend of Zelda: Skyward Sword //   //   //   // 
+54290 //  [Volume 259] Epic Mickey //  $5.99 //  $8.99 //   // 
+54089 //  [Volume 25] Battle Toads //  $5.00 //  $7.74 //   // 
+54259 //  [Volume 260] 25 Years of NES //  $13.50 //  $18.00 //   // 
+54250 //  [Volume 261] Donkey Kong Country Returns //  $6.75 //  $8.99 //   // 
+54252 //  [Volume 262] Kingdom Hearts Re:coded //   //   //   // 
+54254 //  [Volume 263] Mario Sports Mix //  $5.99 //  $6.74 //   // 
+54288 //  [Volume 264] Pokemon Black & White //  $5.00 //  $7.50 //   // 
+54289 //  [Volume 265] Nintendo 3DS Preview //   //   //   // 
+54256 //  [Volume 266] Pilotwings Resort //  $2.99 //  $4.49 //   // 
+54258 //  [Volume 267] Legend of Zelda: Ocarina of Time 3D //   //   //   // 
+54287 //  [Volume 268] Sonic Generations //  $6.99 //  $6.99 //   // 
+54271 //  [Volume 269] Rayman Origins //  $5.49 //  $8.24 //   // 
+54075 //  [Volume 26] Robin Hood: Prince of Thieves //  $4.83 //  $4.95 //   // 
+54273 //  [Volume 270] Star Fox 64 3D //  $4.00 //  $6.00 //   // 
+54260 //  [Volume 271] Kirby Mass Attack //  $8.50 //  $9.99 //   // 
+54261 //  [Volume 272] Super Mario 3D Land //  $8.20 //  $12.30 //   // 
+54263 //  [Volume 273] Mario Kart 7 //   //   //   // 
+54265 //  [Volume 274] Resident Evil: Revelations //  $6.00 //  $9.00 //   // 
+54267 //  [Volume 275] Kid Icarus: Uprising //  $5.00 //  $13.43 //   // 
+54262 //  [Volume 276] Kingdom Hearts 3D: Dream Drop Distance //   //   //   // 
+54264 //  [Volume 277] Epic Mickey 2: The Power of Two //   //   //   // 
+54266 //  [Volume 278] Pokemon Conquest //  $1.00 //  $1.50 //   // 
+54268 //  [Volume 279] Castlevania: Lords of Shadow Mirror of Fate //   //   //   // 
+54077 //  "[Volume 27] Mega Man in Dr. Wilys Revenge" //  $8.00 //  $10.00 //   // 
+54285 //  [Volume 280] Wii U Preview //  $6.00 //  $15.99 //   // 
+54286 //  [Volume 281] Scribblenauts Unlimited //  $9.06 //  $13.60 //   // 
+54269 //  [Volume 282] Pokemon Black & White Version 2 //  $6.51 //  $9.84 //   // 
+54270 //  [Volume 283] Rayman Legends //  $6.00 //  $9.00 //   // 
+54284 //  [Volume 284] Wii U Launch //  $4.20 //  $6.30 //   // 
+54272 //  [Volume 285] Super Mario Bros U //  $38.25 //  $38.25 //   // 
+54306 //  [Volume 28] Super Mario World //  $11.55 //  $17.63 //   // 
+54307 //  [Volume 29] Star Trek //  $6.40 //  $6.94 //   // 
+54062 //  [Volume 2] Castlevania II //  $28.32 //  $53.48 //   // 
+54308 //  [Volume 30] Final Fantasy II //  $6.73 //  $9.13 //   // 
+54090 //  [Volume 31] Metroid //  $7.52 //  $13.40 //   // 
+54309 //  [Volume 32] Super Castlevania IV //  $7.24 //  $9.99 //   // 
+54093 //  [Volume 33] TMNT III: The Manhattan Project //  $3.47 //  $8.99 //   // 
+54094 //  [Volume 34] Legend of Zelda: A Link to the Past //  $9.28 //  $12.01 //   // 
+54096 //  [Volume 35] WWF Super Wrestlemania //  $6.61 //  $6.61 //   // 
+54082 //  [Volume 36] Darkwing Duck //  $4.95 //  $4.95 //   // 
+54084 //  [Volume 37] Lemmings //  $4.50 //  $6.98 //   // 
+54086 //  [Volume 38] Street Fighter II //  $5.95 //  $7.66 //   // 
+54088 //  [Volume 39] Mario Paint //  $6.27 //  $6.27 //   // 
+54063 //  [Volume 3] Track & Field II //  $15.00 //  $24.61 //   // 
+54091 //  [Volume 40] Felix the Cat //  $3.00 //  $4.99 //   // 
+54095 //  [Volume 41] Super Mario Kart //  $7.54 //  $9.00 //   // 
+54310 //  [Volume 42] Super Star Wars //  $5.00 //  $5.00 //   // 
+54098 //  "[Volume 43] Road Runners Death Valley Rally" //  $4.95 //  $4.95 //   // 
+54109 //  [Volume 44] Magical Quest starring Mickey Mouse //  $9.97 //  $14.99 //   // 
+54111 //  "[Volume 45] Addams Family Pugsleys Scavenger Hunt" //  $5.92 //  $6.88 //   // 
+54092 //  [Volume 46] Tiny Toon Adv. Buster Busts Loose //  $5.00 //  $5.00 //   // 
+54311 //  [Volume 47] Star Fox //  $5.00 //  $7.50 //   // 
+54106 //  [Volume 48] Batman Returns //  $4.99 //  $7.49 //   // 
+54312 //  [Volume 49] BattleToads and Double Dragon //  $2.74 //  $9.99 //   // 
+54066 //  [Volume 4] Zelda II //  $16.79 //  $41.02 //   // 
+54110 //  "[Volume 50] Legend of Zelda: Links Awakening" //  $4.80 //  $14.24 //   // 
+54097 //  [Volume 51] Street Fighter 2: Turbo //  $5.63 //  $8.08 //   // 
+54313 //  [Volume 52] Super Mario All-Stars //  $5.01 //  $9.00 //   // 
+54100 //  [Volume 53] Super Empire Strikes Back //  $7.99 //  $8.53 //   // 
+54102 //  [Volume 54] Secret of Mana //  $6.10 //  $7.60 //   // 
+54104 //  [Volume 55] Aladdin //  $6.78 //  $9.50 //   // 
+54099 //  [Volume 56] Mega Man X //  $6.58 //  $7.65 //   // 
+54101 //  [Volume 57] Bugs Bunny: Rabbit Rampage //  $9.62 //  $11.49 //   // 
+54103 //  [Volume 58] Wario Land //  $6.99 //  $6.99 //   // 
+54105 //  [Volume 59] Ken Griffey Junior //  $4.75 //  $4.75 //   // 
+54068 //  [Volume 5] Ninja Gaiden //  $9.99 //  $14.99 //   // 
+54107 //  [Volume 60] Super Metroid //  $9.74 //  $14.93 //   // 
+54314 //  [Volume 61] Donkey Kong //  $6.84 //  $9.99 //   // 
+54315 //  [Volume 62] Super Street Fighter 2 //  $5.78 //  $7.94 //   // 
+54316 //  [Volume 63] Stunt FX Racing //  $6.00 //  $6.00 //   // 
+54108 //  [Volume 64] Mortal Kombat 2 //  $6.37 //  $6.37 //   // 
+54115 //  [Volume 65] Illusion of Gaia //  $6.39 //  $6.39 //   // 
+54317 //  [Volume 66] Donkey Kong Country //  $9.99 //  $14.31 //   // 
+54114 //  [Volume 67] Earthworm Jim //  $6.99 //  $6.99 //   // 
+54120 //  [Volume 68] Adventures of Batman and Robin //  $7.65 //  $16.99 //   // 
+54122 //  [Volume 69] Mega Man X2 //  $2.58 //  $2.58 //   // 
+54064 //  [Volume 6] Teenage Mutant Ninja Turtles //  $20.85 //  $24.93 //   // 
+54124 //  [Volume 70] NBA Jam Tournament Edition //  $4.16 //  $4.16 //   // 
+54112 //  [Volume 71] Stargate //  $3.68 //  $3.68 //   // 
+54113 //  [Volume 72] Kirby Dream Land 2 //  $5.15 //  $5.15 //   // 
+54318 //  [Volume 73] Weaponlord //  $4.99 //  $4.99 //   // 
+54121 //  [Volume 74] Donkey Kong Land //  $9.99 //  $9.99 //   // 
+54123 //  [Volume 75] Virtual Boy //  $11.00 //  $15.66 //   // 
+54116 //  [Volume 76] Killer Instinct //  $6.74 //  $6.74 //   // 
+54117 //  [Volume 77] Super Mario World 2 //  $9.49 //  $11.99 //   // 
+54319 //  [Volume 78] Mortal Kombat 3 //  $9.18 //  $13.77 //   // 
+54127 //  [Volume 79] Donkey Kong Country 2 //  $5.33 //  $5.33 //   // 
+54065 //  [Volume 7] Mega Man 2 //  $11.00 //  $15.00 //   // 
+54128 //  [Volume 80] New Year Special Cover //  $6.50 //  $13.24 //   // 
+54118 //  [Volume 81] Killer Instinct 2 //  $5.22 //  $5.82 //   // 
+54119 //  [Volume 82] Super Mario RPG //  $7.56 //  $9.34 //   // 
+54125 //  [Volume 83] Earthworm Jim 2 //  $5.90 //  $5.90 //   // 
+54126 //  [Volume 84] Ken Griffey Jr Winning Run //  $5.50 //  $5.50 //   // 
+54320 //  [Volume 85] Super Mario 64 //  $5.00 //  $5.87 //   // 
+54321 //  [Volume 86] E3 1996 //  $4.99 //  $4.99 //   // 
+54322 //  [Volume 87] Tetris Attack //  $4.50 //  $4.50 //   // 
+54323 //  [Volume 88] Super Mario 64 //  $6.90 //  $6.90 //   // 
+54324 //  [Volume 89] Mortal Kombat Trilogy //  $5.25 //  $5.25 //   // 
+54067 //  [Volume 8] Duck Tales //  $9.99 //  $9.99 //   // 
+54137 //  [Volume 90] Donkey Kong Country 3 //  $8.27 //  $8.27 //   // 
+54325 //  [Volume 91] Killer Instinct Gold //  $7.99 //  $10.35 //   // 
+54326 //  [Volume 92] Shadows of the Empire //  $2.99 //  $11.62 //   // 
+54130 //  [Volume 93] Mario Kart 64 //  $8.95 //  $8.95 //   // 
+54139 //  [Volume 94] Turok //  $4.25 //  $6.00 //   // 
+54141 //  [Volume 95] Blast Corp //  $6.00 //  $6.00 //   // 
+54129 //  [Volume 96] Doom 64 //  $3.75 //  $3.75 //   // 
+54131 //  [Volume 97] Clay Fighter 63 1/3 //  $7.99 //  $8.20 //   // 
+54132 //  [Volume 98] Star Fox 64 //  $5.99 //  $5.99 //   // 
+54134 //  [Volume 99] Goldeneye //  $10.20 //  $10.20 //   // 
+54069 //  [Volume 9] Tetris //  $11.25 //  $15.94 //   // 
